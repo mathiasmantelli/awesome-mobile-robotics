@@ -31,7 +31,16 @@ Useful links to sources of content related to AI and Robotics
 * [Probabilistic Robotics](https://www.amazon.com.br/Probabilistic-Robotics-INTELLIGENT-ROBOTICS-AUTONOMOUS-ebook/dp/B00DJD9LXC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=probabilistic+robotics&qid=1593131317&sr=8-1) **| Sebastian Thrun, Wolfram Burgard, Dieter Fox**
 * [Handbook of Robotics](https://www.amazon.com.br/Springer-Handbook-Robotics-Handbooks-English-ebook/dp/B01J7C9XQ8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=handbook+of+robotics&qid=1593131367&sr=8-1) **| Kröger**
 * [Writing for Computer Science](https://www.amazon.com.br/Writing-Computer-Science-English-Justin-ebook/dp/B00TEYLNBI/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=writing+for+computer+science&qid=1593131427&sr=8-1) **| Justin Zobel**
-* []() **|  ** 
+* [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](https://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/) **| Roland Siegwart,Illah Nourbakhsh, Davide Scaramuzza ** 
+* [Planning Algorithm](http://lavalle.pl/planning/) **| Steven M. LaValle, Cambridge**
+* [A Gentle Introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf) **| Jason M. O'Kane, University of South Carolina**
+* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB](https://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431) **| Peter Corke, Springer **
+* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) **| Nikolaus Correll, Magellan Scientific**
+* [Principles of Robot Motion: Theory, Algorithms, and Implementations](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275) **| Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard, Lydia Kavraki, Sebastian Thrun**
+* [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) **| Kevin M. Lynch and Frank C. Park, Cambridge University Press**
+* [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) **| Enrique Fernández, Anil Mahtani, Luis Sánchez Crespo, Aaron Martinez**
+* [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) **| Lentin Joseph**
+* [Robótica Móvel](https://www.estantevirtual.com.br/livraria_pantheon/ltc-robotica-movel-2041555130) **| Roseli Romero, Edson Prestes, Fernando Osório, Denis Wolf**
 
 ### Datasets ###
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
