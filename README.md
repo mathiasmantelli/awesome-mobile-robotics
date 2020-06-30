@@ -68,8 +68,14 @@ Useful links to sources of content related to AI and Robotics
 * [Webots](https://www.cyberbotics.com/overview) | a development environment used to model, program and simulate mobile robots.
 * [Drake](http://drake.mit.edu/) | A planning, control and analysis toolbox for nonlinear dynamical systems.
 * [Neurorobotics Platform (NRP)](http://131.159.60.234/fileadmin/platform/) | An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
-* [The Player Project](http://playerstage.sourceforge.net/) | Free Software tools for robot and sensor applications 
-* [AirSim](https://github.com/Microsoft/AirSim) | A simulator for drones (and soon other vehicles) built on Unreal Engine
+* [The Player Project](http://playerstage.sourceforge.net/) | Free Software tools for robot and sensor applications.
+* [AirSim](https://github.com/Microsoft/AirSim) | A simulator for drones (and soon other vehicles) built on Unreal Engine.
+* [Bonnet](https://github.com/PRBonn/bonnet) | An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics.
+* [Summit](https://github.com/AdaCompNUS/summit) | A Simulator for Urban Driving in Massive Mixed Traffic.
+* [CyPhyHouse](https://cyphyhouse.github.io/) | A toolchain that aims to provide similar programming, debugging, and deployment benefits for distributed mobile robotic applications.
+* [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) | A physics-based simulation framework for physical human-robot interaction and robotic assistance.
+* [Augmented LiDAR Simulator for Autonomous Driving](https://ras.papercept.net/proceedings/ICRA20/3056.pdf) | A novel LiDAR simulator that augments real point cloud with synthetic obstacles (e.g., vehicles, pedestrians, and other movable objects).
+* [LIRS World Construction Tool (LIRS-WCT)](https://gitlab.com/LIRS_Projects/LIRS-WCT) | A new efficient tool for creating a realistic 3D virtual environment of Gazebo world from an arbitrary 2D image or 2D LRF data.
 
 
 ### Conferences ###
