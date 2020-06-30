@@ -51,13 +51,40 @@ Useful links to sources of content related to AI and Robotics
 * [TUM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| Technical University of Munich - Computer Vision Group**
 
 ### Softwares/Libraries ###
-* [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) **| Sebastian Montabone**
-* [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) **| University of Zaragoza - Raúl Mur Artal**
-* [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) **| University of Zaragoza - Raúl Mur Artal**
-* [Robot Operating System (ROS) ](ros.org) **| ROS**
+* [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) Sebastian Montabone
+* [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) University of Zaragoza - Raúl Mur Artal
+* [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) University of Zaragoza - Raúl Mur Artal
+* [Robot Operating System (ROS) ](ros.org) ROS
+* [Gazebo](http://gazebosim.org/) Robot silumator
+* [RobWork](https://robwork.dk/#) A Collection of C++ libraries for simulation and control of robot systems
+* [MRPT](https://www.mrpt.org/) A obile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license. 
+* [Robotics Library](https://www.roboticslibrary.org/) A self-contained C++ library for robot kinematics, motion planning and control.
+* [Simbad](http://simbad.sourceforge.net/) A Java 3d robot simulator for scientific and educationnal purposes.
+* [Morse](https://www.openrobots.org/wiki/morse/) A generic simulator for academic robotics.
+* [Carmen](http://carmen.sourceforge.net/) CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
+* [Peekabot](http://www.peekabot.org/) Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
+* [YARP](http://www.yarp.it/) Yet Another Robot Platform.
+* [V-REP](http://www.coppeliarobotics.com/) Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
+* [Webots**](https://www.cyberbotics.com/overview) Webots is a development environment used to model, program and simulate mobile robots.
+* [Drake**](http://drake.mit.edu/) A planning, control and analysis toolbox for nonlinear dynamical systems.
+* [Neurorobotics Platform (NRP)**](http://131.159.60.234/fileadmin/platform/) An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
+* [The Player Project**](http://playerstage.sourceforge.net/) Free Software tools for robot and sensor applications 
+* [AirSim**](https://github.com/Microsoft/AirSim) AirSim is a simulator for drones (and soon other vehicles) built on Unreal Engine
+
 
 ### Conferences ###
-* []() **|  ** 
+* [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
+* [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
+* [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
+* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+* [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
+* [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
+* [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
+* [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
+* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/) 
 
 ### Journals ###
 * []() **|  ** 
