@@ -1,5 +1,6 @@
-# all_about_robotics
-Useful links to sources of content related to AI and Robotics
+# My List - Mobile Robotics and AI
+My personal list of important content related to Mobile Robotics and AI. 
+
 ### Courses ###
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
 * [Sensors and State Estimation](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
