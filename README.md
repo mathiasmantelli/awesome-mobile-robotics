@@ -26,6 +26,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Stereo Vision Tutorial](http://mccormickml.com/2014/01/10/stereo-vision-tutorial-part-i/) **| Chris McCormick**
 * [Different ROS courses](https://www.udemy.com/courses/search/?q=ROS) **| Udemy**
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss18/robotics/) **| University of Freiburg - Prof. Dr. Wolfram Burgard**
+* [GaiTech EDU](https://edu.gaitech.hk/) **| Educational website on Robot Operating System (ROS)**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
