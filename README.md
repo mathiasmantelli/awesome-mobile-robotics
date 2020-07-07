@@ -51,8 +51,8 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Robot@Home](http://mapir.isa.uma.es/mapirwebsite/index.php/mapir-downloads/203-robot-at-home-dataset.html) **| University of Málaga**
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) **| University of Tübingen, Toyota and Karlsruhe Institute of Technology**
 * [TUM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| Technical University of Munich - Computer Vision Group**
-* [UAV Dataset - AdM](https://zenodo.org/record/1244296#.XwTI2nVKi00) **| Federal University of Rio Grande do Sul - Phi Group **
-* [UAV Dataset - POA](https://zenodo.org/record/1244314#.XwTI23VKi00) **| Federal University of Rio Grande do Sul - Phi Group **
+* [UAV Dataset - AdM](https://zenodo.org/record/1244296#.XwTI2nVKi00) **| Federal University of Rio Grande do Sul - Phi Group**
+* [UAV Dataset - POA](https://zenodo.org/record/1244314#.XwTI23VKi00) **| Federal University of Rio Grande do Sul - Phi Group**
 
 ### Softwares/Libraries ###
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
