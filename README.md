@@ -78,6 +78,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) | A physics-based simulation framework for physical human-robot interaction and robotic assistance.
 * [Augmented LiDAR Simulator for Autonomous Driving](https://ras.papercept.net/proceedings/ICRA20/3056.pdf) | A novel LiDAR simulator that augments real point cloud with synthetic obstacles (e.g., vehicles, pedestrians, and other movable objects).
 * [LIRS World Construction Tool (LIRS-WCT)](https://gitlab.com/LIRS_Projects/LIRS-WCT) | A new efficient tool for creating a realistic 3D virtual environment of Gazebo world from an arbitrary 2D image or 2D LRF data.
+* [Segments.ai](https://segments.ai/) | Labeling technology for image segmentation.
 
 
 ### Conferences ###
