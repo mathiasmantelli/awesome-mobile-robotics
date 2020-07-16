@@ -28,6 +28,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss18/robotics/) **| University of Freiburg - Prof. Dr. Wolfram Burgard**
 * [GaiTech EDU](https://edu.gaitech.hk/) **| Educational website on Robot Operating System (ROS)**
 * [Robocademy](https://robocademy.com/) **| ROS Course from Lentin Joseph**
+* [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
