@@ -110,6 +110,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly.
 * [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google).
 * [Waymo](https://waymo.com) | Autonomous Driving car company from Google.
+* [ZOOX](https://zoox.com/) | Zoox is creating autonomous mobility from the ground up.
 
 ### Laboratories/Research Groups ###
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
