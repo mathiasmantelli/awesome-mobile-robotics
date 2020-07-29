@@ -112,6 +112,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google).
 * [Waymo](https://waymo.com) | Autonomous Driving car company from Google.
 * [ZOOX](https://zoox.com/) | Zoox is creating autonomous mobility from the ground up.
+* [Robotec AI](Robotec.ai) | A software company that develops high-tech solutions for automated and connected vehicles.
 
 ### Laboratories/Research Groups ###
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -126,6 +127,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Machine Perception and Intelligent Robotics (MAPIR)](http://mapir.isa.uma.es/mapirwebsite/) **| University of Málaga - Prof. Dr. Javier Gonzalez Jimenez**
 * [Robotics, Perception and Real Time Group](http://robots.unizar.es/) **| Universidad de Zaragoza - Juan D. Tardós and others**
 * [Team CoSTAR](https://costar.jpl.nasa.gov/) **| A collaboration between NASA’s JPL, MIT, Caltech, KAIST, LTU, and several industry partners** 
+* [Autonomous Navigation and Perception Lab (ANPL)](https://vindelman.net.technion.ac.il/) **| Technion-Israel Institute of Technology - Asst. Prof. Vadim Indelman**
 
 ### Misc ###
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
