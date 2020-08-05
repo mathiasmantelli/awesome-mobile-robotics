@@ -113,6 +113,8 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Waymo](https://waymo.com) | Autonomous Driving car company from Google.
 * [ZOOX](https://zoox.com/) | Zoox is creating autonomous mobility from the ground up.
 * [Robotec AI](Robotec.ai) | A software company that develops high-tech solutions for automated and connected vehicles.
+* [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading centre for applied research in robotics and automation in one of the most innovative industrial areas world-wide.
+* [ihmc Robotics](http://robots.ihmc.us/) | IHMC has been pioneering advanced control techniques for bipedal robots to maintain balance while walking over a wide variety of terrains.
 
 ### Laboratories/Research Groups ###
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
