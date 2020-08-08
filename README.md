@@ -57,6 +57,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [UAV Dataset - POA](https://zenodo.org/record/1244314#.XwTI23VKi00) **| Federal University of Rio Grande do Sul - Phi Group**
 * [SemanticKITTI](http://www.semantic-kitti.org/index.html) **| University of Bonn - Photogrammetry & Robotics Group, Computer Vision Group, and Autonomous Intelligent Systems Group**
 * [CLEARPATH Simulation Environments](https://github.com/clearpathrobotics/cpr_gazebo) **| CLEARPATH's GAZEBO SIMULATION ENVIRONMENTS**
+* [FinnForest](https://etsin.fairdata.fi/dataset/06926f4b-b36a-4d6e-873c-aa3e7d84ab49) **| A Forest Landscape for Visual SLAM**
 
 ### Softwares/Libraries ###
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
