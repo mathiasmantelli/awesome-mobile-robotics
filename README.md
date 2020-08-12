@@ -88,6 +88,8 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Segments.ai](https://segments.ai/) | Labeling technology for image segmentation.
 * [Docker](https://www.docker.com/) | Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers.
 * [GBPlanner](https://github.com/unr-arl/gbplanner_ros) | aGBPlanner is a new software package for Graph-based exploration path planning.
+* [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning.
+* [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time.
 
 
 ### Conferences ###
