@@ -90,6 +90,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [GBPlanner](https://github.com/unr-arl/gbplanner_ros) | aGBPlanner is a new software package for Graph-based exploration path planning.
 * [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning.
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time.
+* [CoppeliaSim](https://www.coppeliarobotics.com/) | A robot simulator.
 
 
 ### Conferences ###
