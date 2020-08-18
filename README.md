@@ -119,6 +119,15 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Robotec AI](Robotec.ai) | A software company that develops high-tech solutions for automated and connected vehicles.
 * [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading centre for applied research in robotics and automation in one of the most innovative industrial areas world-wide.
 * [ihmc Robotics](http://robots.ihmc.us/) | IHMC has been pioneering advanced control techniques for bipedal robots to maintain balance while walking over a wide variety of terrains.
+* [GUSS](https://gussag.com/) | Autonomous orchard sprayers
+* [AgroIntelli](https://www.agrointelli.com/#home) | Versatile and autonomous agricultural robot solving multiple tasks in the field. 
+* [Abundant Robotics](https://www.abundantrobotics.com/) | Commercial Robotic apple harvest. 
+* [Rowbot](https://www.rowbot.com/) | Robotic solutions for row crop agriculture
+* [Bear Flag Robotics](https://bearflagrobotics.com/) | Bear Flag Robotics is developing self-driving technology for tractors and implements.
+* [Agrobot](https://www.agrobot.com/) | From disruptive but practical approaches, we build smart farming machinery.
+* [Rabbit](https://www.rabbittractors.com/) | Farm Utility Robots.
+* [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation.
+
 
 ### Laboratories/Research Groups ###
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
