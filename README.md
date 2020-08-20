@@ -29,6 +29,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [GaiTech EDU](https://edu.gaitech.hk/) **| Educational website on Robot Operating System (ROS)**
 * [Robocademy](https://robocademy.com/) **| ROS Course from Lentin Joseph**
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
+* [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -58,6 +59,8 @@ My personal list of important content related to Mobile Robotics and AI.
 * [SemanticKITTI](http://www.semantic-kitti.org/index.html) **| University of Bonn - Photogrammetry & Robotics Group, Computer Vision Group, and Autonomous Intelligent Systems Group**
 * [CLEARPATH Simulation Environments](https://github.com/clearpathrobotics/cpr_gazebo) **| CLEARPATH's GAZEBO SIMULATION ENVIRONMENTS**
 * [FinnForest](https://etsin.fairdata.fi/dataset/06926f4b-b36a-4d6e-873c-aa3e7d84ab49) **| A Forest Landscape for Visual SLAM**
+* [Ford Autonomous Vehicles Dataset](https://avdata.ford.com/) **| A multi-agent seasonal dataset from Ford**
+* [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto**
 
 ### Softwares/Libraries ###
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
@@ -91,6 +94,9 @@ My personal list of important content related to Mobile Robotics and AI.
 * [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning.
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time.
 * [CoppeliaSim](https://www.coppeliarobotics.com/) | A robot simulator.
+* [ROS Navigation Stack](http://wiki.ros.org/navigation) | A 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base.
+* [ROS 2 Navigation](https://navigation.ros.org/) | It is the spiritual successor of the ROS Navigation Stack.
+* [RobotWebTools](http://robotwebtools.org/) | It is a collection of open-source modules and tools for building web-based robot apps.
 
 
 ### Conferences ###
@@ -143,7 +149,7 @@ My personal list of important content related to Mobile Robotics and AI.
 * [Robotics, Perception and Real Time Group](http://robots.unizar.es/) **| Universidad de Zaragoza - Juan D. Tardós and others**
 * [Team CoSTAR](https://costar.jpl.nasa.gov/) **| A collaboration between NASA’s JPL, MIT, Caltech, KAIST, LTU, and several industry partners** 
 * [Autonomous Navigation and Perception Lab (ANPL)](https://vindelman.net.technion.ac.il/) **| Technion-Israel Institute of Technology - Asst. Prof. Vadim Indelman**
-* [Institute for Robotics and Intelligent Machines (IRIM)](http://www.robotics.gatech.edu/) **| Georgia Institute of Technology - **
+* [Institute for Robotics and Intelligent Machines (IRIM)](http://www.robotics.gatech.edu/) **| Georgia Institute of Technology**
 
 ### Misc ###
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
