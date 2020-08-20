@@ -97,6 +97,8 @@ My personal list of important content related to Mobile Robotics and AI.
 * [ROS Navigation Stack](http://wiki.ros.org/navigation) | A 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base.
 * [ROS 2 Navigation](https://navigation.ros.org/) | It is the spiritual successor of the ROS Navigation Stack.
 * [RobotWebTools](http://robotwebtools.org/) | It is a collection of open-source modules and tools for building web-based robot apps.
+* [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly
+acrobatic maneuvers with drones.
 
 
 ### Conferences ###
