@@ -1,5 +1,5 @@
 # My List - Mobile Robotics and AI
-My personal list of important content related to Mobile Robotics and AI. 
+My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
 
 ### Courses ###
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
