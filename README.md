@@ -30,6 +30,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robocademy](https://robocademy.com/) **| ROS Course from Lentin Joseph**
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
 * [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
+* [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -99,7 +100,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [RobotWebTools](http://robotwebtools.org/) | It is a collection of open-source modules and tools for building web-based robot apps.
 * [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly
 acrobatic maneuvers with drones.
-
+* [atlatec](https://www.atlatec.de/index.html) | High Definition Maps for Autonomy and Simulation.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -135,6 +136,7 @@ acrobatic maneuvers with drones.
 * [Agrobot](https://www.agrobot.com/) | From disruptive but practical approaches, we build smart farming machinery.
 * [Rabbit](https://www.rabbittractors.com/) | Farm Utility Robots.
 * [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation.
+* [Civil Maps](https://civilmaps.com/) | The only scalable High Definition Mapping and Localization solution.
 
 
 ### Laboratories/Research Groups ###
