@@ -101,6 +101,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly
 acrobatic maneuvers with drones.
 * [atlatec](https://www.atlatec.de/index.html) | High Definition Maps for Autonomy and Simulation.
+* [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) | This is a lightweight but robust quadrotor local planning framework.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
