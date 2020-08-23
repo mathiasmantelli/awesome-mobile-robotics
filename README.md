@@ -138,6 +138,7 @@ acrobatic maneuvers with drones.
 * [Rabbit](https://www.rabbittractors.com/) | Farm Utility Robots.
 * [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation.
 * [Civil Maps](https://civilmaps.com/) | The only scalable High Definition Mapping and Localization solution.
+* [Small Robot](https://www.smallrobotcompany.com/) | Small Robot Company is reimagining farming with robotics and artificial intelligence.
 
 
 ### Laboratories/Research Groups ###
