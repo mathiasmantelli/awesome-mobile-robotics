@@ -167,10 +167,10 @@ acrobatic maneuvers with drones.
 * [Women in US Academic Research in Robotics](https://us-women-in-robotics-research.github.io/) **| An active, monitored list of women with PhDs involved in US academic research in robotics** 
 * [SlidesCarnival](https://www.slidescarnival.com/) **| Free PPT templates and Google Slides themes for presentations**
 * [SlidesGO](https://slidesgo.com/) **| Free Google Slides and PowerPoint templates to boost your presentations**
-* [Linguee](http://linguee.com/) **|Dictionary and translator (with context)**
-* [Macmillan Dictionary](https://www.macmillandictionary.com/us) **|English dictionary with synonyms, examples and translation**
-* [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) **|A general resource for academic writers**
-* [SkELL](https://skell.sketchengine.co.uk/run.cgi/skell) **|A state-of-the-art cloud tool for building, managing and exploring large text collections in dozens of languages**
-* [collocaid](https://www.collocaid.uk/) **|A project that focuses on the development of a text-editing tool to help writers with collocations**
-* [Sketch Engine](https://www.sketchengine.eu/) **|It's the ultimate tool to explore how language works**
-* [Thesaurus](https://www.thesaurus.com/) **|A source of synonym suggestions**
+* [Linguee](http://linguee.com/) **| Dictionary and translator (with context)**
+* [Macmillan Dictionary](https://www.macmillandictionary.com/us) **| English dictionary with synonyms, examples and translation**
+* [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) **| A general resource for academic writers**
+* [SkELL](https://skell.sketchengine.co.uk/run.cgi/skell) **| A state-of-the-art cloud tool for building, managing and exploring large text collections in dozens of languages**
+* [collocaid](https://www.collocaid.uk/) **| A project that focuses on the development of a text-editing tool to help writers with collocations**
+* [Sketch Engine](https://www.sketchengine.eu/) **| It's the ultimate tool to explore how language works**
+* [Thesaurus](https://www.thesaurus.com/) **| A source of synonym suggestions**
