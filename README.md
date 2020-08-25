@@ -157,6 +157,7 @@ acrobatic maneuvers with drones.
 * [Autonomous Navigation and Perception Lab (ANPL)](https://vindelman.net.technion.ac.il/) **| Technion-Israel Institute of Technology - Asst. Prof. Vadim Indelman**
 * [Institute for Robotics and Intelligent Machines (IRIM)](http://www.robotics.gatech.edu/) **| Georgia Institute of Technology**
 * [Vijay Kumar Lab](https://www.kumarrobotics.org/) **| University of Pennsylvania - Prof. Dr. Vijay Kumar**
+* [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **|Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
 
 ### Misc ###
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
