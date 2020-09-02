@@ -62,6 +62,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [FinnForest](https://etsin.fairdata.fi/dataset/06926f4b-b36a-4d6e-873c-aa3e7d84ab49) **| A Forest Landscape for Visual SLAM**
 * [Ford Autonomous Vehicles Dataset](https://avdata.ford.com/) **| A multi-agent seasonal dataset from Ford**
 * [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto**
+* [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
 
 ### Softwares/Libraries ###
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
@@ -104,6 +105,7 @@ acrobatic maneuvers with drones.
 * [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) | This is a lightweight but robust quadrotor local planning framework.
 * [Event-based Asynchronous Sparse CNNs](https://github.com/uzh-rpg/rpg_asynet) | It is a tool to convert models trained on synchronous image-like event representations into sparse, asynchronous models with identical output.
 * [OpenBot](https://www.openbot.org/) | A small electric vehicle that costs $50 and serves as a robot body for standard Android smartphones.
+* [SkiROS](https://github.com/RVMI/skiros2) | A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
