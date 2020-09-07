@@ -31,6 +31,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
 * [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
 * [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
+* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **|Aristotle University of Thessaloniki - Prof. I. Pitas.**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -178,3 +179,4 @@ acrobatic maneuvers with drones.
 * [collocaid](https://www.collocaid.uk/) **| A project that focuses on the development of a text-editing tool to help writers with collocations**
 * [Sketch Engine](https://www.sketchengine.eu/) **| It's the ultimate tool to explore how language works**
 * [Thesaurus](https://www.thesaurus.com/) **| A source of synonym suggestions**
+* [Talking Robotics](https://talking-robotics.github.io/) **| A series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Machine Learning, Human-Robot Interaction, among others**
