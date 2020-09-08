@@ -109,6 +109,7 @@ acrobatic maneuvers with drones.
 * [SkiROS](https://github.com/RVMI/skiros2) | A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees.
 * [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license.
 * [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments.
+* [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
