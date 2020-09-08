@@ -108,6 +108,7 @@ acrobatic maneuvers with drones.
 * [OpenBot](https://www.openbot.org/) | A small electric vehicle that costs $50 and serves as a robot body for standard Android smartphones.
 * [SkiROS](https://github.com/RVMI/skiros2) | A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees.
 * [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license.
+* [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -124,7 +125,16 @@ acrobatic maneuvers with drones.
 * [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/) 
 
 ### Journals ###
-* **TO DO** 
+* [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**.
+* [Journal of Intelligent & Robotic Systems (JINT)](https://www.springer.com/journal/10846) | **Springer - Impact factor: 2.825**
+* [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | **IEEE - Impact factor: 6.123**
+* [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr) | **SAGE - Impact factor: 4.703**
+* [Autonomous Robots](https://www.springer.com/journal/10514) | **Springer - Impact factor: 3.602**
+* [Robotics and Computer-Integrated Manufacturing](https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing) | **Elsevier - Impact factor: 5.057**
+* [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967) | **Wiley - Impact factor: 3.581**
+* [Robotics & Automation Magazine (RAM)](https://www.ieee-ras.org/publications/ram) | **IEEE - Impact factor: 4.250**
+* [Robotica](https://www.cambridge.org/core/journals/robotica) | **Cambridge Core - Impact factor: 1.509**
+* [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | **IEEE - Impact factor: 3.6**
 
 ### Companies/Jobs ###
 * [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence.
