@@ -32,6 +32,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
 * [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
 * [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **|Aristotle University of Thessaloniki - Prof. I. Pitas.**
+* [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -156,6 +157,8 @@ acrobatic maneuvers with drones.
 * [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation.
 * [Civil Maps](https://civilmaps.com/) | The only scalable High Definition Mapping and Localization solution.
 * [Small Robot](https://www.smallrobotcompany.com/) | Small Robot Company is reimagining farming with robotics and artificial intelligence.
+* [Aptiv](https://www.aptiv.com/) | Making mobility greener.
+* [nuTonomy](https://www.linkedin.com/company/nutonomy/) | It provides point-to-point mobility via large fleets of autonomous vehicles in challenging urban driving environments.
 
 
 ### Laboratories/Research Groups ###
