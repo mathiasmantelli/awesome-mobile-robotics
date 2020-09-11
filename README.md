@@ -196,3 +196,4 @@ acrobatic maneuvers with drones.
 * [Sketch Engine](https://www.sketchengine.eu/) **| It's the ultimate tool to explore how language works**
 * [Thesaurus](https://www.thesaurus.com/) **| A source of synonym suggestions**
 * [Talking Robotics](https://talking-robotics.github.io/) **| A series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Machine Learning, Human-Robot Interaction, among others**
+* [Robotics Diversity Reading List](https://blackinrobotics.github.io/) **| A collection of researchers and papers to build a more diverse community.**
