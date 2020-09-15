@@ -65,11 +65,15 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Ford Autonomous Vehicles Dataset](https://avdata.ford.com/) **| A multi-agent seasonal dataset from Ford**
 * [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto**
 * [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
+* [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark datasets aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
 
 ### Softwares/Libraries ###
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
 * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | University of Zaragoza - Raúl Mur Artal
+* [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) | A modified ORB_SLAM2 with a online point cloud map module running in RGB-D mode.
+* [ORB-SLAM2 Save/Load Map](https://github.com/Alkaid-Benetnash/ORB_SLAM2) | A modified ORB_SLAM2 with a the save/load map feature enabled.
+* [DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) | A complete robust semantic SLAM system, which could reduce the influence of dynamic objects on pose estimation.
 * [Robot Operating System (ROS) ](ros.org) | ROS
 * [Gazebo](http://gazebosim.org/) | Robot silumator
 * [RobWork](https://robwork.dk/#) | A Collection of C++ libraries for simulation and control of robot systems
@@ -111,6 +115,7 @@ acrobatic maneuvers with drones.
 * [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license.
 * [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments.
 * [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group.
+* [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
