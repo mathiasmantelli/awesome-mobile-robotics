@@ -190,6 +190,7 @@ acrobatic maneuvers with drones.
 * [Institute for Robotics and Intelligent Machines (IRIM)](http://www.robotics.gatech.edu/) **| Georgia Institute of Technology**
 * [Vijay Kumar Lab](https://www.kumarrobotics.org/) **| University of Pennsylvania - Prof. Dr. Vijay Kumar**
 * [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **|Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
+* [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) **| MIT’s research lab**
 
 ### Misc ###
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
