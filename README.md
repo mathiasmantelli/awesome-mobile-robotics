@@ -116,6 +116,11 @@ acrobatic maneuvers with drones.
 * [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments.
 * [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group.
 * [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization.
+* [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and it's different implementations.
+* [GTSAM](https://github.com/borglab/gtsam) | A C++ library that implements smoothing and mapping (SAM) in robotics and vision.
+* [iSAM](https://github.com/ori-drs/isam) | A range of existing functionality for least-squares optimization, focused on the SLAM problem.
+* [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska.
+* [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska.
 
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
