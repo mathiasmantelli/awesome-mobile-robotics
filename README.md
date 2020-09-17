@@ -171,6 +171,7 @@ acrobatic maneuvers with drones.
 * [nuTonomy](https://www.linkedin.com/company/nutonomy/) | It provides point-to-point mobility via large fleets of autonomous vehicles in challenging urban driving environments.
 * [Agreenculture](https://www.agreenculture.net/copy-of-accueil) | Make smart farming your power.
 * [robust.ai](https://www.robust.ai/) | Building the world’s first industrial grade cognitive engine.
+* [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing.
 
 
 ### Laboratories/Research Groups ###
