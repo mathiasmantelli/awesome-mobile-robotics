@@ -33,6 +33,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
 * [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **|Aristotle University of Thessaloniki - Prof. I. Pitas.**
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
+* [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
 
 ### Books ###
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -172,6 +173,7 @@ acrobatic maneuvers with drones.
 * [Agreenculture](https://www.agreenculture.net/copy-of-accueil) | Make smart farming your power.
 * [robust.ai](https://www.robust.ai/) | Building the world’s first industrial grade cognitive engine.
 * [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing.
+* [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution.
 
 
 ### Laboratories/Research Groups ###
