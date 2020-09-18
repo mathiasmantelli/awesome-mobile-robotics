@@ -3,19 +3,20 @@
 You can find the list of content below and jump straight to the desired one:
 
 ### Table of Contents
-**[Courses](#courses:mortar_board:)**
+**[Courses](#courses)**<br>
 **[Books](#books)**<br>
-**[Books](#books)**
-**[Troubleshooting](#troubleshooting)**
-**[Compatibility](#compatibility)**
-**[Notes and Miscellaneous](#notes-and-miscellaneous)**
-**[Building the Extension Bundles](#building-the-extension-bundles)**
-**[Next Steps, Credits, Feedback, License](#next-steps)**
+**[Datasets](#datasets)**<br>
+**[Softwares and Libraries](#softwares-and-libraries)**<br>
+**[Conferences](#conferences)**<br>
+**[Journals](#journals)**<br>
+**[Companies and Jobs](#companies-and-jobs)**<br>
+**[Laboratories and Research Groups](#laboratories-and-research-groups)**<br>
+**[Misc](#misc)**<br>
 
 
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
 
-## Courses :mortar_board:
+## Courses
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
 * [Sensors and State Estimation](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
 * [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) **| YouTube - Cyrill Stachniss**
@@ -65,7 +66,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) **| Lentin Joseph**
 * [Robótica Móvel](https://www.estantevirtual.com.br/livraria_pantheon/ltc-robotica-movel-2041555130) **| Roseli Romero, Edson Prestes, Fernando Osório, Denis Wolf**
 
-## Datasets:open_file_folder:
+## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
 * [Databases or Datasets for Computer Vision Applications and Testing](http://datasets.visionbib.com/info-index.html#TT104428) **| Huge list of datasets**
 * [QuestUAV Survey Datasets](https://www.questuav.com/drones/example-datasets/?section=example-datasets) **| Different UAV Datasets**
@@ -82,7 +83,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
 * [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark datasets aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
 
-## Softwares/Libraries:computer:
+## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
 * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | University of Zaragoza - Raúl Mur Artal
@@ -136,7 +137,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska.
 * [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska.
 
-## Conferences:department_store:
+## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
 * [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
 * [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
@@ -150,7 +151,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
 * [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/) 
 
-## Journals:newspaper:
+## Journals
 * [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**.
 * [Journal of Intelligent & Robotic Systems (JINT)](https://www.springer.com/journal/10846) | **Springer - Impact factor: 2.825**
 * [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | **IEEE - Impact factor: 6.123**
@@ -162,7 +163,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Robotica](https://www.cambridge.org/core/journals/robotica) | **Cambridge Core - Impact factor: 1.509**
 * [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | **IEEE - Impact factor: 3.6**
 
-## Companies/Jobs:office:
+## Companies and Jobs
 * [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence.
 * [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly.
 * [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google).
@@ -188,7 +189,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing.
 * [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution.
 
-## Labs/Res. Groups:robot:
+## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
 * [Robot Vision Group](http://wp.doc.ic.ac.uk/robotvision/) **| Imperial College London - Prof. Andrew Davison**
 * [Computer Vision Group](https://www.vision.uji.es/courses/courses.php3) **| University Jaume I**
@@ -207,7 +208,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **|Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
 * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) **| MIT’s research lab**
 
-## Misc:large_orange_diamond:
+## Misc
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
 * [LaTeX Templates for documents of Inf/UFRGS](https://github.com/schnorr/infufrgs) **| Github - Prof. Lucas Schnorr**
 * [Como usar o modelo LaTeX do Inf/UFRGS](https://elmord.org/blog/?entry=20150626-iiufrgs-guide) **| Vítor de Araújo**
