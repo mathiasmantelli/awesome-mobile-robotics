@@ -1,7 +1,7 @@
 **My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com**
 
 ### Table of Contents
-* **[Courses :computer:](#courses)**<br>
+* **[Courses :computer:](#courses-:computer:)**<br>
 * **[Books](#books)**<br>
 * **[Datasets](#datasets)**<br>
 * **[Softwares and Libraries](#softwares-and-libraries)**<br>
@@ -14,7 +14,7 @@
 
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
 
-## Courses:computer:
+## Courses :computer:
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
 * [Sensors and State Estimation](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
 * [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) **| YouTube - Cyrill Stachniss**
