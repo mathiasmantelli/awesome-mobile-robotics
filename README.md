@@ -4,7 +4,8 @@ You can find the list of content below and jump straight to the desired one:
 
 ### Table of Contents
 **[Courses](#courses:mortar_board:)**
-**[Books](#books:books:)**
+**[Books](#books)**<br>
+**[Books](#books)**
 **[Troubleshooting](#troubleshooting)**
 **[Compatibility](#compatibility)**
 **[Notes and Miscellaneous](#notes-and-miscellaneous)**
@@ -14,7 +15,7 @@ You can find the list of content below and jump straight to the desired one:
 
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
 
-## Courses:mortar_board:
+## Courses :mortar_board:
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
 * [Sensors and State Estimation](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
 * [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) **| YouTube - Cyrill Stachniss**
@@ -48,7 +49,7 @@ You can find the list of content below and jump straight to the desired one:
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 * [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
 
-## Books:books:
+## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
 * [Probabilistic Robotics](https://www.amazon.com.br/Probabilistic-Robotics-INTELLIGENT-ROBOTICS-AUTONOMOUS-ebook/dp/B00DJD9LXC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=probabilistic+robotics&qid=1593131317&sr=8-1) **| Sebastian Thrun, Wolfram Burgard, Dieter Fox**
 * [Handbook of Robotics](https://www.amazon.com.br/Springer-Handbook-Robotics-Handbooks-English-ebook/dp/B01J7C9XQ8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=handbook+of+robotics&qid=1593131367&sr=8-1) **| Kröger**
