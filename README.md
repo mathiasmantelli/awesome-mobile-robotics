@@ -4,6 +4,11 @@ You can find the list of content below and jump straight to the desired one:
 
 [TOCM]
 
+<!--ts-->
+   * [Courses](### **Courses**)
+   * [Books](### **Books**)
+<!--te-->
+
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
 
 ### **Courses** - :tw-1f393:
