@@ -1,4 +1,6 @@
-**My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com**
+# ! All about mobile robotics list
+
+My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
 
 ### Table of Contents
 * **[Courses :mortar_board:](#courses)**<br>
