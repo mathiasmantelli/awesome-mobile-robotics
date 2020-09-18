@@ -1,7 +1,12 @@
-# My List - Mobile Robotics and AI
-My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
+**My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com**
 
-### Courses ###
+You can find the list of content below and jump straight to the desired one:
+
+[TOCM]
+
+![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
+
+### **Courses** - :tw-1f393:
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
 * [Sensors and State Estimation](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
 * [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) **| YouTube - Cyrill Stachniss**
@@ -35,7 +40,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 * [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
 
-### Books ###
+### **Books** - :tw-1f4da:
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
 * [Probabilistic Robotics](https://www.amazon.com.br/Probabilistic-Robotics-INTELLIGENT-ROBOTICS-AUTONOMOUS-ebook/dp/B00DJD9LXC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=probabilistic+robotics&qid=1593131317&sr=8-1) **| Sebastian Thrun, Wolfram Burgard, Dieter Fox**
 * [Handbook of Robotics](https://www.amazon.com.br/Springer-Handbook-Robotics-Handbooks-English-ebook/dp/B01J7C9XQ8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=handbook+of+robotics&qid=1593131367&sr=8-1) **| Kröger**
@@ -51,7 +56,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) **| Lentin Joseph**
 * [Robótica Móvel](https://www.estantevirtual.com.br/livraria_pantheon/ltc-robotica-movel-2041555130) **| Roseli Romero, Edson Prestes, Fernando Osório, Denis Wolf**
 
-### Datasets ###
+### **Datasets** - :tw-1f4c2:
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
 * [Databases or Datasets for Computer Vision Applications and Testing](http://datasets.visionbib.com/info-index.html#TT104428) **| Huge list of datasets**
 * [QuestUAV Survey Datasets](https://www.questuav.com/drones/example-datasets/?section=example-datasets) **| Different UAV Datasets**
@@ -68,7 +73,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
 * [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark datasets aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
 
-### Softwares/Libraries ###
+### **Softwares/Libraries** - :tw-1f4bb:
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
 * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | University of Zaragoza - Raúl Mur Artal
@@ -106,8 +111,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Navigation Stack](http://wiki.ros.org/navigation) | A 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base.
 * [ROS 2 Navigation](https://navigation.ros.org/) | It is the spiritual successor of the ROS Navigation Stack.
 * [RobotWebTools](http://robotwebtools.org/) | It is a collection of open-source modules and tools for building web-based robot apps.
-* [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly
-acrobatic maneuvers with drones.
+* [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly acrobatic maneuvers with drones.
 * [atlatec](https://www.atlatec.de/index.html) | High Definition Maps for Autonomy and Simulation.
 * [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) | This is a lightweight but robust quadrotor local planning framework.
 * [Event-based Asynchronous Sparse CNNs](https://github.com/uzh-rpg/rpg_asynet) | It is a tool to convert models trained on synchronous image-like event representations into sparse, asynchronous models with identical output.
@@ -123,7 +127,7 @@ acrobatic maneuvers with drones.
 * [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska.
 * [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska.
 
-### Conferences ###
+### **Conferences** - :tw-1f3e2:
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
 * [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
 * [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
@@ -137,7 +141,7 @@ acrobatic maneuvers with drones.
 * [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
 * [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/) 
 
-### Journals ###
+### **Journals** - :tw-1f4f0:
 * [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**.
 * [Journal of Intelligent & Robotic Systems (JINT)](https://www.springer.com/journal/10846) | **Springer - Impact factor: 2.825**
 * [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | **IEEE - Impact factor: 6.123**
@@ -149,7 +153,7 @@ acrobatic maneuvers with drones.
 * [Robotica](https://www.cambridge.org/core/journals/robotica) | **Cambridge Core - Impact factor: 1.509**
 * [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | **IEEE - Impact factor: 3.6**
 
-### Companies/Jobs ###
+### **Companies/Jobs** - :tw-1f3e2:
 * [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence.
 * [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly.
 * [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google).
@@ -175,8 +179,7 @@ acrobatic maneuvers with drones.
 * [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing.
 * [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution.
 
-
-### Laboratories/Research Groups ###
+### **Labs/Res. Groups** - :tw-1f52c:
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
 * [Robot Vision Group](http://wp.doc.ic.ac.uk/robotvision/) **| Imperial College London - Prof. Andrew Davison**
 * [Computer Vision Group](https://www.vision.uji.es/courses/courses.php3) **| University Jaume I**
@@ -195,7 +198,7 @@ acrobatic maneuvers with drones.
 * [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **|Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
 * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) **| MIT’s research lab**
 
-### Misc ###
+### **Misc** - :tw-1f300:
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
 * [LaTeX Templates for documents of Inf/UFRGS](https://github.com/schnorr/infufrgs) **| Github - Prof. Lucas Schnorr**
 * [Como usar o modelo LaTeX do Inf/UFRGS](https://elmord.org/blog/?entry=20150626-iiufrgs-guide) **| Vítor de Araújo**
