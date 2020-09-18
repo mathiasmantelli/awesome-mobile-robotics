@@ -2,8 +2,6 @@
 
 You can find the list of content below and jump straight to the desired one:
 
-[TOCM]
-
 <!--ts-->
    * [Courses](### **Courses**)
    * [Books](### **Books**)
