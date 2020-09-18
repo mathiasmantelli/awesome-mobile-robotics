@@ -1,7 +1,7 @@
 **My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com**
 
 ### Table of Contents
-* **[Courses:computer:](#courses-:computer:)**<br>
+* **[Courses :computer:](#courses)**<br>
 * **[Books](#books)**<br>
 * **[Datasets](#datasets)**<br>
 * **[Softwares and Libraries](#softwares-and-libraries)**<br>
