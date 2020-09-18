@@ -1,17 +1,15 @@
 **My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com**
 
-You can find the list of content below and jump straight to the desired one:
-
 ### Table of Contents
-**[Courses](#courses)**<br>
-**[Books](#books)**<br>
-**[Datasets](#datasets)**<br>
-**[Softwares and Libraries](#softwares-and-libraries)**<br>
-**[Conferences](#conferences)**<br>
-**[Journals](#journals)**<br>
-**[Companies and Jobs](#companies-and-jobs)**<br>
-**[Laboratories and Research Groups](#laboratories-and-research-groups)**<br>
-**[Misc](#misc)**<br>
+* **[Courses](#courses)**<br>
+* **[Books](#books)**<br>
+* **[Datasets](#datasets)**<br>
+* **[Softwares and Libraries](#softwares-and-libraries)**<br>
+* **[Conferences](#conferences)**<br>
+* **[Journals](#journals)**<br>
+* **[Companies and Jobs](#companies-and-jobs)**<br>
+* **[Laboratories and Research Groups](#laboratories-and-research-groups)**<br>
+* **[Misc](#misc)**<br>
 
 
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
