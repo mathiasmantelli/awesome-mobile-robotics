@@ -5,8 +5,8 @@ You can find the list of content below and jump straight to the desired one:
 Table of Contents
 =================
 <!--ts-->
-   * [Courses](### **Courses**)
-   * [Books](### **Books**)
+   * [Courses](#courses)
+   * [Books](#books)
 <!--te-->
 
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
