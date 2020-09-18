@@ -1,4 +1,4 @@
-# ! All about mobile robotics list
+# Mobile Robotics - The list
 
 My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
 
