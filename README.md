@@ -189,6 +189,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing.
 * [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution.
 * [Korechi](https://www.korechi.com/) | Robotics & Automation made simple.
+* [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
