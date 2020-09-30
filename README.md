@@ -136,6 +136,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [iSAM](https://github.com/ori-drs/isam) | A range of existing functionality for least-squares optimization, focused on the SLAM problem.
 * [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska.
 * [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska.
+* [3DWarehouse](https://3dwarehouse.sketchup.com/) | The place to share and download SketchUp 3D models for architecture, design, construction, and fun.
+* [3DGEMS](http://data.nvision2.eecs.yorku.ca/3DGEMS/) | 3D Gazebo Models
+* [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -150,6 +153,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
 * [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
 * [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/) 
+
 
 ## Journals
 * [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**.
