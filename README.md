@@ -139,6 +139,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [3DWarehouse](https://3dwarehouse.sketchup.com/) | The place to share and download SketchUp 3D models for architecture, design, construction, and fun.
 * [3DGEMS](http://data.nvision2.eecs.yorku.ca/3DGEMS/) | 3D Gazebo Models
 * [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications.
+* [robosuite](https://github.com/ARISE-Initiative/robosuite) |  A simulation framework powered by the MuJoCo physics engine for robot learning.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
