@@ -140,6 +140,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [3DGEMS](http://data.nvision2.eecs.yorku.ca/3DGEMS/) | 3D Gazebo Models
 * [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications.
 * [robosuite](https://github.com/ARISE-Initiative/robosuite) |  A simulation framework powered by the MuJoCo physics engine for robot learning.
+* [GMMLoc](https://github.com/hyhuang1995/gmmloc/) | Dense Map Based Visual Localization. 
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -195,6 +196,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution.
 * [Korechi](https://www.korechi.com/) | Robotics & Automation made simple.
 * [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars.
+* [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -212,8 +214,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Autonomous Navigation and Perception Lab (ANPL)](https://vindelman.net.technion.ac.il/) **| Technion-Israel Institute of Technology - Asst. Prof. Vadim Indelman**
 * [Institute for Robotics and Intelligent Machines (IRIM)](http://www.robotics.gatech.edu/) **| Georgia Institute of Technology**
 * [Vijay Kumar Lab](https://www.kumarrobotics.org/) **| University of Pennsylvania - Prof. Dr. Vijay Kumar**
-* [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **|Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
+* [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **| Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
 * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) **| MIT’s research lab**
+* [Goal-Oriented Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/labs/goals/) **| Oxford Robotics Institute - Nick Hawes**
 
 ## Misc
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
