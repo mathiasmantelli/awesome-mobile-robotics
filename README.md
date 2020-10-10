@@ -141,6 +141,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications.
 * [robosuite](https://github.com/ARISE-Initiative/robosuite) |  A simulation framework powered by the MuJoCo physics engine for robot learning.
 * [GMMLoc](https://github.com/hyhuang1995/gmmloc/) | Dense Map Based Visual Localization. 
+* [ROS Robots](https://robots.ros.org/) | A site to showcase robots using ROS.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
