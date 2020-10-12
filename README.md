@@ -198,6 +198,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Korechi](https://www.korechi.com/) | Robotics & Automation made simple.
 * [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars.
 * [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification.
+* [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution. 
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
