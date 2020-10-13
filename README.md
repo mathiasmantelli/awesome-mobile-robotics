@@ -199,6 +199,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars.
 * [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification.
 * [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution. 
+* [SelfDriving.fyi](https://selfdriving.fyi/?__s=4l8lmj4sp162iwy3z1p8) | The most comprehensive database of companies working on autonomous vehicles and related technologies. 
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -237,3 +238,6 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Thesaurus](https://www.thesaurus.com/) **| A source of synonym suggestions**
 * [Talking Robotics](https://talking-robotics.github.io/) **| A series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Machine Learning, Human-Robot Interaction, among others**
 * [Robotics Diversity Reading List](https://blackinrobotics.github.io/) **| A collection of researchers and papers to build a more diverse community.**
+* [LeetCode](https://leetcode.com/explore/?__s=4l8lmj4sp162iwy3z1p8) **| A platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.**
+* [Stanford Cheatsheet on CNNs, RNNs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?__s=4l8lmj4sp162iwy3z1p8) **| Convolutional Neural Networks cheatsheet (Deep learning)**
+* [Autonomous Vehicle people](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=234860&__s=4l8lmj4sp162iwy3z1p8) **|  A Twitter graph that shows everyone you can follow on autonomous vehicles.**
