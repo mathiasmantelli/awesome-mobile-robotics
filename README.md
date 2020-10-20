@@ -144,6 +144,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Robots](https://robots.ros.org/) | A site to showcase robots using ROS.
 * [MoveIt](https://github.com/ros-planning/moveit) | An open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 * [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) | A high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
+* [hdcp_planning](https://github.com/UCR-Robotics/hdcp_planning) | An online Hex-Decomposed Coverage Planning (HDCP) algorithm.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -202,6 +203,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification.
 * [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution. 
 * [SelfDriving.fyi](https://selfdriving.fyi/?__s=4l8lmj4sp162iwy3z1p8) | The most comprehensive database of companies working on autonomous vehicles and related technologies. 
+* [Swarm Farm](https://www.swarmfarm.com/) | We’re delivering autonomous agriculture.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
