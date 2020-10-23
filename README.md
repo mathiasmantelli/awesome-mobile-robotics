@@ -202,6 +202,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars.
 * [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification.
 * [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution. 
+* [Halodi Robotics](https://www.halodi.com/) | Safe, Capable and affordable robots that help human beings live better lives.
 * [SelfDriving.fyi](https://selfdriving.fyi/?__s=4l8lmj4sp162iwy3z1p8) | The most comprehensive database of companies working on autonomous vehicles and related technologies. 
 * [Swarm Farm](https://www.swarmfarm.com/) | We’re delivering autonomous agriculture.
 
