@@ -145,6 +145,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [MoveIt](https://github.com/ros-planning/moveit) | An open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 * [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) | A high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
 * [hdcp_planning](https://github.com/UCR-Robotics/hdcp_planning) | An online Hex-Decomposed Coverage Planning (HDCP) algorithm.
+* [Freetures](https://github.com/alexmillane/freetures) | Localization in Signed Distance Function submaps.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
