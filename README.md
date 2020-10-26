@@ -152,6 +152,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Freetures](https://github.com/alexmillane/freetures) | Localization in Signed Distance Function submaps.
 * [BALM](https://github.com/hku-mars/BALM) | Bundle Adjustment for Lidar Mapping.
 * [STDyn-SLAM](https://github.com/DanielaEsparza/STDyn-SLAM) | A Stereo Vision and Semantic Segmentation Approach for SLAM in Dynamic Outdoor Environments.
+* [Learning to drive smoothly](https://github.com/araffin/learning-to-drive-in-5-minutes) | Learning to drive smoothly in minutes, using a reinforcement learning algorithm -- Soft Actor-Critic (SAC) -- and a Variational AutoEncoder (VAE) in the Donkey Car simulator.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
