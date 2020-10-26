@@ -82,6 +82,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto**
 * [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
 * [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark datasets aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
+* [Waymo Open Dataset](https://waymo.com/open/data/?__s=4l8lmj4sp162iwy3z1p8) **| Waymo**
+* [ASTYX HiReS2019](https://www.astyx.com/development/astyx-hires2019-dataset.html?__s=4l8lmj4sp162iwy3z1p8) **| ASTYX**
+* [Berkeley DeepDrive (BDD)](https://bdd-data.berkeley.edu/?__s=4l8lmj4sp162iwy3z1p8) **| Berkeley**
+* [nuScenes](https://www.nuscenes.org/?__s=4l8lmj4sp162iwy3z1p8) **| Motional**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
@@ -249,3 +253,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LeetCode](https://leetcode.com/explore/?__s=4l8lmj4sp162iwy3z1p8) **| A platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.**
 * [Stanford Cheatsheet on CNNs, RNNs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?__s=4l8lmj4sp162iwy3z1p8) **| Convolutional Neural Networks cheatsheet (Deep learning)**
 * [Autonomous Vehicle people](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=234860&__s=4l8lmj4sp162iwy3z1p8) **|  A Twitter graph that shows everyone you can follow on autonomous vehicles.**
+* [Google Dataset Search](https://datasetsearch.research.google.com/?__s=4l8lmj4sp162iwy3z1p8) **| Google search engine for public datasets.**
