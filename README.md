@@ -217,6 +217,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Swarm Farm](https://www.swarmfarm.com/) | We’re delivering autonomous agriculture.
 * [Lyft Level 5](https://self-driving.lyft.com/level5/) | Making self-driving a reality for people everywhere.
 * [Wayve](https://wayve.ai/) | Autonomous mobility driven by AI. 
+* [Catalog - Self-driving cars](https://catalog.selfdrivingcars360.com/) | All technology leaders, events and products - listed in a single catalog.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
