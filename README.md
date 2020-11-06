@@ -88,7 +88,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [nuScenes](https://www.nuscenes.org/?__s=4l8lmj4sp162iwy3z1p8) **| Motional**
 
 ## Softwares and Libraries
-* [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | Sebastian Montabone
+* [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
+* [OpenCV 3.4.0 + Contrib](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/) | For Ubuntu 18.04 - pyimagesearch
 * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) | A modified ORB_SLAM2 with a online point cloud map module running in RGB-D mode.
