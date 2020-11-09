@@ -156,6 +156,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Learning to drive smoothly](https://github.com/araffin/learning-to-drive-in-5-minutes) | Learning to drive smoothly in minutes, using a reinforcement learning algorithm -- Soft Actor-Critic (SAC) -- and a Variational AutoEncoder (VAE) in the Donkey Car simulator.
 * [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) | It aims to enable quadrotor fast flight in complex unknown environments.
 * [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) | A set of tools and capabilities for 2D SLAM.
+* [RightHook](https://righthook.io/) | Accelerating development of autonomous systems through simulation.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -219,6 +220,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Lyft Level 5](https://self-driving.lyft.com/level5/) | Making self-driving a reality for people everywhere.
 * [Wayve](https://wayve.ai/) | Autonomous mobility driven by AI. 
 * [Catalog - Self-driving cars](https://catalog.selfdrivingcars360.com/) | All technology leaders, events and products - listed in a single catalog.
+* [BoxBot](https://www.boxbot.io/) | Intelligent Package Sorting for Faster Delivery.
+* [AutonomousStuff](https://autonomoustuff.com/) | It provides solutions for automated driving to thousands of customers worldwide, enabling the future of autonomy.
+* [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
