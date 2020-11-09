@@ -46,9 +46,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
 * [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
 * [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
-* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **|Aristotle University of Thessaloniki - Prof. I. Pitas.**
+* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **| Aristotle University of Thessaloniki - Prof. I. Pitas.**
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 * [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
+* [DuckieTown](https://www.duckietown.org/) **| Learning Autonomy**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -86,6 +87,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ASTYX HiReS2019](https://www.astyx.com/development/astyx-hires2019-dataset.html?__s=4l8lmj4sp162iwy3z1p8) **| ASTYX**
 * [Berkeley DeepDrive (BDD)](https://bdd-data.berkeley.edu/?__s=4l8lmj4sp162iwy3z1p8) **| Berkeley**
 * [nuScenes](https://www.nuscenes.org/?__s=4l8lmj4sp162iwy3z1p8) **| Motional**
+* [BARN Dataset](https://www.cs.utexas.edu/~xiao/BARN/BARN.html) **| The University of Texas at Austin - Department of Computer Science**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
