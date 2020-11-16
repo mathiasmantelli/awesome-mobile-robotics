@@ -225,6 +225,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [BoxBot](https://www.boxbot.io/) | Intelligent Package Sorting for Faster Delivery.
 * [AutonomousStuff](https://autonomoustuff.com/) | It provides solutions for automated driving to thousands of customers worldwide, enabling the future of autonomy.
 * [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases.
+* [Aeolus](https://aeolusbot.com/) | Aeolus robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and at home.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -245,6 +246,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Phi Robotics](https://www.inf.ufrgs.br/phi-group/site/) **| Federal University of Rio Grande do Sul - Prof. Dr. Edson Prestes**
 * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) **| MIT’s research lab**
 * [Goal-Oriented Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/labs/goals/) **| Oxford Robotics Institute - Nick Hawes**
+* [Skoltech Mobile Robotics](https://sites.skoltech.ru/mobilerobotics/) **| Skolkovo Institute of Science and Technology - Gonzalo Ferrer**
 
 ## Misc
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
