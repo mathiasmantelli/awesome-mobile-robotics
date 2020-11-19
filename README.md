@@ -159,6 +159,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) | It aims to enable quadrotor fast flight in complex unknown environments.
 * [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) | A set of tools and capabilities for 2D SLAM.
 * [RightHook](https://righthook.io/) | Accelerating development of autonomous systems through simulation.
+* [GradSLAM](https://github.com/gradslam/gradslam) | A fully differentiable dense SLAM framework.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
