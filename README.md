@@ -160,6 +160,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) | A set of tools and capabilities for 2D SLAM.
 * [RightHook](https://righthook.io/) | Accelerating development of autonomous systems through simulation.
 * [GradSLAM](https://github.com/gradslam/gradslam) | A fully differentiable dense SLAM framework.
+* [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | MATLAB sample codes for mobile robot navigation.
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms, especially for autonomous navigation.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
