@@ -66,6 +66,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) **| Enrique Fernández, Anil Mahtani, Luis Sánchez Crespo, Aaron Martinez**
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) **| Lentin Joseph**
 * [Robótica Móvel](https://www.estantevirtual.com.br/livraria_pantheon/ltc-robotica-movel-2041555130) **| Roseli Romero, Edson Prestes, Fernando Osório, Denis Wolf**
+* [Computational Principles of Mobile Robotics](https://www.amazon.com/Computational-Principles-Mobile-Robotics-Gregory-ebook/dp/B00AKE1XGG/ref=sr_1_1?dchild=1&keywords=Computational+Principles+of+Mobile+Robotics&link_code=qs&qid=1606737935&sr=8-1&tag=wwwcanoniccom-20) **| Gregory Dudek, Michael Jenkin**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -88,6 +89,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Berkeley DeepDrive (BDD)](https://bdd-data.berkeley.edu/?__s=4l8lmj4sp162iwy3z1p8) **| Berkeley**
 * [nuScenes](https://www.nuscenes.org/?__s=4l8lmj4sp162iwy3z1p8) **| Motional**
 * [BARN Dataset](https://www.cs.utexas.edu/~xiao/BARN/BARN.html) **| The University of Texas at Austin - Department of Computer Science**
+* [RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) **| A multimodal dataset collected in an off-road environment containing annotations for 13,556 LiDAR scans and 6,235 images**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
