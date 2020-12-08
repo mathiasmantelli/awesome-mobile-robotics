@@ -164,6 +164,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [GradSLAM](https://github.com/gradslam/gradslam) | A fully differentiable dense SLAM framework.
 * [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | MATLAB sample codes for mobile robot navigation.
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms, especially for autonomous navigation.
+* [Data Science & Machine Learning](https://chrisalbon.com/?__s=4l8lmj4sp162iwy3z1p8) | Notes on using Data Science & Machine Learning to fight for something that matters.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
