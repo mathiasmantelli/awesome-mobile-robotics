@@ -165,6 +165,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | MATLAB sample codes for mobile robot navigation.
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms, especially for autonomous navigation.
 * [Data Science & Machine Learning](https://chrisalbon.com/?__s=4l8lmj4sp162iwy3z1p8) | Notes on using Data Science & Machine Learning to fight for something that matters.
+* [OctoMap](http://octomap.github.io/) | An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
