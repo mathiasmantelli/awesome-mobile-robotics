@@ -233,6 +233,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [AutonomousStuff](https://autonomoustuff.com/) | It provides solutions for automated driving to thousands of customers worldwide, enabling the future of autonomy.
 * [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases.
 * [Aeolus](https://aeolusbot.com/) | Aeolus robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and at home.
+* [Burro](https://burro.ai/) | Autonomous Farming Begins with Collaborative Farm Robots.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
