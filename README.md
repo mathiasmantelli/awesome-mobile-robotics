@@ -166,6 +166,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms, especially for autonomous navigation.
 * [Data Science & Machine Learning](https://chrisalbon.com/?__s=4l8lmj4sp162iwy3z1p8) | Notes on using Data Science & Machine Learning to fight for something that matters.
 * [OctoMap](http://octomap.github.io/) | An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
+* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | A real-time lidar-inertial odometry package.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -234,6 +235,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases.
 * [Aeolus](https://aeolusbot.com/) | Aeolus robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and at home.
 * [Burro](https://burro.ai/) | Autonomous Farming Begins with Collaborative Farm Robots.
+* [Intermodalics](https://www.intermodalics.eu/) | Providing digital intelligence from software to robots.
+* [Gestalt](https://www.gestalt-robotics.com/) | The innovation service provider for industrial automation.
+* [Volvo Autonomous Solutions](https://www.volvoautonomoussolutions.com/) | We develop commercially viable solutions for on- and off-road applications.
+* [DeepMap](https://www.deepmap.ai/) | HD mapping and localization solutions for all levels of autonomy.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -277,3 +282,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Stanford Cheatsheet on CNNs, RNNs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?__s=4l8lmj4sp162iwy3z1p8) **| Convolutional Neural Networks cheatsheet (Deep learning)**
 * [Autonomous Vehicle people](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=234860&__s=4l8lmj4sp162iwy3z1p8) **|  A Twitter graph that shows everyone you can follow on autonomous vehicles.**
 * [Google Dataset Search](https://datasetsearch.research.google.com/?__s=4l8lmj4sp162iwy3z1p8) **| Google search engine for public datasets.**
+* [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge.** 
