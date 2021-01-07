@@ -239,6 +239,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Gestalt](https://www.gestalt-robotics.com/) | The innovation service provider for industrial automation.
 * [Volvo Autonomous Solutions](https://www.volvoautonomoussolutions.com/) | We develop commercially viable solutions for on- and off-road applications.
 * [DeepMap](https://www.deepmap.ai/) | HD mapping and localization solutions for all levels of autonomy.
+* [Refraction AI](https://refraction.ai/) | Safe and Cost Effective Last-Mile Logistics.
+* [ABB](https://global.abb/group/en) | A leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -283,3 +285,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Autonomous Vehicle people](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=234860&__s=4l8lmj4sp162iwy3z1p8) **|  A Twitter graph that shows everyone you can follow on autonomous vehicles.**
 * [Google Dataset Search](https://datasetsearch.research.google.com/?__s=4l8lmj4sp162iwy3z1p8) **| Google search engine for public datasets.**
 * [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge.** 
+* [Jobs UK](https://www.jobs.ac.uk/) **| Find a job**
