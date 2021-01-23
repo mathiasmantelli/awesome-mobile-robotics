@@ -50,6 +50,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 * [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
 * [DuckieTown](https://www.duckietown.org/) **| Learning Autonomy**
+* [Machine Learning](https://www.coursera.org/learn/machine-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -241,6 +243,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [DeepMap](https://www.deepmap.ai/) | HD mapping and localization solutions for all levels of autonomy.
 * [Refraction AI](https://refraction.ai/) | Safe and Cost Effective Last-Mile Logistics.
 * [ABB](https://global.abb/group/en) | A leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future.
+* [exyn](https://www.exyn.com/) | The first industrial drone that flies itself, anywhere.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
