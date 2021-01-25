@@ -290,3 +290,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Google Dataset Search](https://datasetsearch.research.google.com/?__s=4l8lmj4sp162iwy3z1p8) **| Google search engine for public datasets.**
 * [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge.** 
 * [Jobs UK](https://www.jobs.ac.uk/) **| Find a job**
+* [Papers with Code](https://paperswithcode.com/) **| A free and open resource with Machine Learning papers, code and evaluation tables.**
