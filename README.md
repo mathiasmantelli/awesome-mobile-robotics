@@ -245,6 +245,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Refraction AI](https://refraction.ai/) | Safe and Cost Effective Last-Mile Logistics.
 * [ABB](https://global.abb/group/en) | A leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future.
 * [exyn](https://www.exyn.com/) | The first industrial drone that flies itself, anywhere.
+* [FarmDroid](https://farmdroid.dk/en/welcome) | The world’s first fully automatic robot that can take care of both sowing and mechanical weed control.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
