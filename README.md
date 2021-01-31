@@ -292,3 +292,5 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge.** 
 * [Jobs UK](https://www.jobs.ac.uk/) **| Find a job**
 * [Papers with Code](https://paperswithcode.com/) **| A free and open resource with Machine Learning papers, code and evaluation tables.**
+* [Awesome Robotics Brazil](https://github.com/mateus-amarante/awesome-robotics-brazil) **| Lista de iniciativas de robótica do Brasil!**
+* [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source.**
