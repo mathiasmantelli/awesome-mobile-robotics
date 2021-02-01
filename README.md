@@ -246,6 +246,17 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ABB](https://global.abb/group/en) | A leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future.
 * [exyn](https://www.exyn.com/) | The first industrial drone that flies itself, anywhere.
 * [FarmDroid](https://farmdroid.dk/en/welcome) | The world’s first fully automatic robot that can take care of both sowing and mechanical weed control.
+* [naïo technologies](https://www.naio-technologies.com/en/) | Autonomous Robots for Easier Farming.
+* [Thorvald](https://sagarobotics.com/) | Autonomous modular robot delivering agricultural services.
+* [nLink](https://www.nlink.no/) Mobile robots that solve real life problems.
+* [intek](http://intek.no/) | Connecting people and robots.
+* [nuro](http://nuro.ai/product) | The self-driving vehicle made for local goods transportation.
+* [Blue River](http://www.bluerivertechnology.com/) | Optimize every plant.
+* [ecorobotix](https://www.ecorobotix.com/en/) | Techonology for environment.
+* [ZTractor](https://ztractor.com/) | The world's first autonomous electric tractor.
+* [FarmWise](https://farmwise.io/home) | Innovative systems and processes that allow farmers to streamline operations and increase food production efficiency.
+
+
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
