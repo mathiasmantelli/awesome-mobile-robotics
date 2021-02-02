@@ -46,7 +46,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
 * [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
 * [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
-* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **| Aristotle University of Thessaloniki - Prof. I. Pitas.**
+* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **| Aristotle University of Thessaloniki - Prof. I. Pitas**
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 * [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
 * [DuckieTown](https://www.duckietown.org/) **| Learning Autonomy**
@@ -98,78 +98,78 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [OpenCV 3.4.0 + Contrib](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/) | For Ubuntu 18.04 - pyimagesearch
 * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | University of Zaragoza - Raúl Mur Artal
-* [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) | A modified ORB_SLAM2 with a online point cloud map module running in RGB-D mode.
-* [ORB-SLAM2 Save/Load Map](https://github.com/Alkaid-Benetnash/ORB_SLAM2) | A modified ORB_SLAM2 with a the save/load map feature enabled.
-* [DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) | A complete robust semantic SLAM system, which could reduce the influence of dynamic objects on pose estimation.
+* [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) | A modified ORB_SLAM2 with a online point cloud map module running in RGB-D mode
+* [ORB-SLAM2 Save/Load Map](https://github.com/Alkaid-Benetnash/ORB_SLAM2) | A modified ORB_SLAM2 with a the save/load map feature enabled
+* [DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) | A complete robust semantic SLAM system, which could reduce the influence of dynamic objects on pose estimation
 * [Robot Operating System (ROS) ](ros.org) | ROS
 * [Gazebo](http://gazebosim.org/) | Robot silumator
 * [RobWork](https://robwork.dk/#) | A Collection of C++ libraries for simulation and control of robot systems
-* [MRPT](https://www.mrpt.org/) | A obile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license. 
-* [Robotics Library](https://www.roboticslibrary.org/) | A self-contained C++ library for robot kinematics, motion planning and control.
-* [Simbad](http://simbad.sourceforge.net/) | A Java 3d robot simulator for scientific and educationnal purposes.
-* [Morse](https://www.openrobots.org/wiki/morse/) | A generic simulator for academic robotics.
-* [Carmen](http://carmen.sourceforge.net/) | an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
-* [Peekabot](http://www.peekabot.org/) | A real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
-* [YARP](http://www.yarp.it/) | Yet Another Robot Platform.
-* [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
-* [Webots](https://www.cyberbotics.com/overview) | a development environment used to model, program and simulate mobile robots.
-* [Drake](http://drake.mit.edu/) | A planning, control and analysis toolbox for nonlinear dynamical systems.
-* [Neurorobotics Platform (NRP)](http://131.159.60.234/fileadmin/platform/) | An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
-* [The Player Project](http://playerstage.sourceforge.net/) | Free Software tools for robot and sensor applications.
-* [AirSim](https://github.com/Microsoft/AirSim) | A simulator for drones (and soon other vehicles) built on Unreal Engine.
-* [Bonnet](https://github.com/PRBonn/bonnet) | An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics.
-* [Summit](https://github.com/AdaCompNUS/summit) | A Simulator for Urban Driving in Massive Mixed Traffic.
-* [CyPhyHouse](https://cyphyhouse.github.io/) | A toolchain that aims to provide similar programming, debugging, and deployment benefits for distributed mobile robotic applications.
-* [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) | A physics-based simulation framework for physical human-robot interaction and robotic assistance.
-* [Augmented LiDAR Simulator for Autonomous Driving](https://ras.papercept.net/proceedings/ICRA20/3056.pdf) | A novel LiDAR simulator that augments real point cloud with synthetic obstacles (e.g., vehicles, pedestrians, and other movable objects).
-* [LIRS World Construction Tool (LIRS-WCT)](https://gitlab.com/LIRS_Projects/LIRS-WCT) | A new efficient tool for creating a realistic 3D virtual environment of Gazebo world from an arbitrary 2D image or 2D LRF data.
-* [Segments.ai](https://segments.ai/) | Labeling technology for image segmentation.
-* [Docker](https://www.docker.com/) | Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers.
-* [GBPlanner](https://github.com/unr-arl/gbplanner_ros) | aGBPlanner is a new software package for Graph-based exploration path planning.
-* [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning.
-* [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time.
-* [CoppeliaSim](https://www.coppeliarobotics.com/) | A robot simulator.
-* [ROS Navigation Stack](http://wiki.ros.org/navigation) | A 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base.
-* [ROS 2 Navigation](https://navigation.ros.org/) | It is the spiritual successor of the ROS Navigation Stack.
-* [RobotWebTools](http://robotwebtools.org/) | It is a collection of open-source modules and tools for building web-based robot apps.
-* [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly acrobatic maneuvers with drones.
-* [atlatec](https://www.atlatec.de/index.html) | High Definition Maps for Autonomy and Simulation.
-* [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) | This is a lightweight but robust quadrotor local planning framework.
-* [Event-based Asynchronous Sparse CNNs](https://github.com/uzh-rpg/rpg_asynet) | It is a tool to convert models trained on synchronous image-like event representations into sparse, asynchronous models with identical output.
-* [OpenBot](https://www.openbot.org/) | A small electric vehicle that costs $50 and serves as a robot body for standard Android smartphones.
-* [SkiROS](https://github.com/RVMI/skiros2) | A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees.
-* [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license.
-* [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments.
-* [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group.
-* [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization.
-* [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and it's different implementations.
-* [GTSAM](https://github.com/borglab/gtsam) | A C++ library that implements smoothing and mapping (SAM) in robotics and vision.
-* [iSAM](https://github.com/ori-drs/isam) | A range of existing functionality for least-squares optimization, focused on the SLAM problem.
-* [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska.
-* [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska.
-* [3DWarehouse](https://3dwarehouse.sketchup.com/) | The place to share and download SketchUp 3D models for architecture, design, construction, and fun.
+* [MRPT](https://www.mrpt.org/) | A obile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license
+* [Robotics Library](https://www.roboticslibrary.org/) | A self-contained C++ library for robot kinematics, motion planning and control
+* [Simbad](http://simbad.sourceforge.net/) | A Java 3d robot simulator for scientific and educationnal purposes
+* [Morse](https://www.openrobots.org/wiki/morse/) | A generic simulator for academic robotics
+* [Carmen](http://carmen.sourceforge.net/) | an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping
+* [Peekabot](http://www.peekabot.org/) | A real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily
+* [YARP](http://www.yarp.it/) | Yet Another Robot Platform
+* [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver
+* [Webots](https://www.cyberbotics.com/overview) | a development environment used to model, program and simulate mobile robots
+* [Drake](http://drake.mit.edu/) | A planning, control and analysis toolbox for nonlinear dynamical systems
+* [Neurorobotics Platform (NRP)](http://131.159.60.234/fileadmin/platform/) | An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks
+* [The Player Project](http://playerstage.sourceforge.net/) | Free Software tools for robot and sensor applications
+* [AirSim](https://github.com/Microsoft/AirSim) | A simulator for drones (and soon other vehicles) built on Unreal Engine
+* [Bonnet](https://github.com/PRBonn/bonnet) | An Open-Source Training and Deployment Framework for Semantic Segmentation in Robotics
+* [Summit](https://github.com/AdaCompNUS/summit) | A Simulator for Urban Driving in Massive Mixed Traffic
+* [CyPhyHouse](https://cyphyhouse.github.io/) | A toolchain that aims to provide similar programming, debugging, and deployment benefits for distributed mobile robotic applications
+* [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) | A physics-based simulation framework for physical human-robot interaction and robotic assistance
+* [Augmented LiDAR Simulator for Autonomous Driving](https://ras.papercept.net/proceedings/ICRA20/3056.pdf) | A novel LiDAR simulator that augments real point cloud with synthetic obstacles (e.g., vehicles, pedestrians, and other movable objects)
+* [LIRS World Construction Tool (LIRS-WCT)](https://gitlab.com/LIRS_Projects/LIRS-WCT) | A new efficient tool for creating a realistic 3D virtual environment of Gazebo world from an arbitrary 2D image or 2D LRF data
+* [Segments.ai](https://segments.ai/) | Labeling technology for image segmentation
+* [Docker](https://www.docker.com/) | Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers
+* [GBPlanner](https://github.com/unr-arl/gbplanner_ros) | aGBPlanner is a new software package for Graph-based exploration path planning
+* [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning
+* [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time
+* [CoppeliaSim](https://www.coppeliarobotics.com/) | A robot simulator
+* [ROS Navigation Stack](http://wiki.ros.org/navigation) | A 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base
+* [ROS 2 Navigation](https://navigation.ros.org/) | It is the spiritual successor of the ROS Navigation Stack
+* [RobotWebTools](http://robotwebtools.org/) | It is a collection of open-source modules and tools for building web-based robot apps
+* [Deep Drone Acrobatics](https://github.com/uzh-rpg/deep_drone_acrobatics) | The code allows you to train end-to-end control policies to fly acrobatic maneuvers with drones
+* [atlatec](https://www.atlatec.de/index.html) | High Definition Maps for Autonomy and Simulation
+* [EGO-Planner](https://github.com/ZJU-FAST-Lab/ego-planner) | This is a lightweight but robust quadrotor local planning framework
+* [Event-based Asynchronous Sparse CNNs](https://github.com/uzh-rpg/rpg_asynet) | It is a tool to convert models trained on synchronous image-like event representations into sparse, asynchronous models with identical output
+* [OpenBot](https://www.openbot.org/) | A small electric vehicle that costs $50 and serves as a robot body for standard Android smartphones
+* [SkiROS](https://github.com/RVMI/skiros2) | A platform to create complex robot behaviors by composing skills - modular software blocks - into behavior trees
+* [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license
+* [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments
+* [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group
+* [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization
+* [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and it's different implementations
+* [GTSAM](https://github.com/borglab/gtsam) | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
+* [iSAM](https://github.com/ori-drs/isam) | A range of existing functionality for least-squares optimization, focused on the SLAM problem
+* [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska
+* [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska
+* [3DWarehouse](https://3dwarehouse.sketchup.com/) | The place to share and download SketchUp 3D models for architecture, design, construction, and fun
 * [3DGEMS](http://data.nvision2.eecs.yorku.ca/3DGEMS/) | 3D Gazebo Models
-* [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications.
-* [robosuite](https://github.com/ARISE-Initiative/robosuite) |  A simulation framework powered by the MuJoCo physics engine for robot learning.
-* [GMMLoc](https://github.com/hyhuang1995/gmmloc/) | Dense Map Based Visual Localization. 
-* [ROS Robots](https://robots.ros.org/) | A site to showcase robots using ROS.
-* [MoveIt](https://github.com/ros-planning/moveit) | An open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
-* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) | A high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
-* [hdcp_planning](https://github.com/UCR-Robotics/hdcp_planning) | An online Hex-Decomposed Coverage Planning (HDCP) algorithm.
-* [Freetures](https://github.com/alexmillane/freetures) | Localization in Signed Distance Function submaps.
-* [BALM](https://github.com/hku-mars/BALM) | Bundle Adjustment for Lidar Mapping.
-* [STDyn-SLAM](https://github.com/DanielaEsparza/STDyn-SLAM) | A Stereo Vision and Semantic Segmentation Approach for SLAM in Dynamic Outdoor Environments.
-* [Learning to drive smoothly](https://github.com/araffin/learning-to-drive-in-5-minutes) | Learning to drive smoothly in minutes, using a reinforcement learning algorithm -- Soft Actor-Critic (SAC) -- and a Variational AutoEncoder (VAE) in the Donkey Car simulator.
-* [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) | It aims to enable quadrotor fast flight in complex unknown environments.
-* [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) | A set of tools and capabilities for 2D SLAM.
-* [RightHook](https://righthook.io/) | Accelerating development of autonomous systems through simulation.
-* [GradSLAM](https://github.com/gradslam/gradslam) | A fully differentiable dense SLAM framework.
-* [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | MATLAB sample codes for mobile robot navigation.
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms, especially for autonomous navigation.
-* [Data Science & Machine Learning](https://chrisalbon.com/?__s=4l8lmj4sp162iwy3z1p8) | Notes on using Data Science & Machine Learning to fight for something that matters.
-* [OctoMap](http://octomap.github.io/) | An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
-* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | A real-time lidar-inertial odometry package.
-* [Yonohub](https://yonohub.com/) | A cloud-based system for designing, sharing, and evaluating complex systems, such as Autonomous Vehicles, ADAS, and Robotics.
+* [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications
+* [robosuite](https://github.com/ARISE-Initiative/robosuite) |  A simulation framework powered by the MuJoCo physics engine for robot learning
+* [GMMLoc](https://github.com/hyhuang1995/gmmloc/) | Dense Map Based Visual Localization
+* [ROS Robots](https://robots.ros.org/) | A site to showcase robots using ROS
+* [MoveIt](https://github.com/ros-planning/moveit) | An open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms
+* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) | A high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles
+* [hdcp_planning](https://github.com/UCR-Robotics/hdcp_planning) | An online Hex-Decomposed Coverage Planning (HDCP) algorithm
+* [Freetures](https://github.com/alexmillane/freetures) | Localization in Signed Distance Function submaps
+* [BALM](https://github.com/hku-mars/BALM) | Bundle Adjustment for Lidar Mapping
+* [STDyn-SLAM](https://github.com/DanielaEsparza/STDyn-SLAM) | A Stereo Vision and Semantic Segmentation Approach for SLAM in Dynamic Outdoor Environments
+* [Learning to drive smoothly](https://github.com/araffin/learning-to-drive-in-5-minutes) | Learning to drive smoothly in minutes, using a reinforcement learning algorithm -- Soft Actor-Critic (SAC) -- and a Variational AutoEncoder (VAE) in the Donkey Car simulator
+* [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) | It aims to enable quadrotor fast flight in complex unknown environments
+* [SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox) | A set of tools and capabilities for 2D SLAM
+* [RightHook](https://righthook.io/) | Accelerating development of autonomous systems through simulation
+* [GradSLAM](https://github.com/gradslam/gradslam) | A fully differentiable dense SLAM framework
+* [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | MATLAB sample codes for mobile robot navigation
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms, especially for autonomous navigation
+* [Data Science & Machine Learning](https://chrisalbon.com/?__s=4l8lmj4sp162iwy3z1p8) | Notes on using Data Science & Machine Learning to fight for something that matters
+* [OctoMap](http://octomap.github.io/) | An Efficient Probabilistic 3D Mapping Framework Based on Octrees
+* [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | A real-time lidar-inertial odometry package
+* [Yonohub](https://yonohub.com/) | A cloud-based system for designing, sharing, and evaluating complex systems, such as Autonomous Vehicles, ADAS, and Robotics
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -187,7 +187,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 
 ## Journals
-* [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**.
+* [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**
 * [Journal of Intelligent & Robotic Systems (JINT)](https://www.springer.com/journal/10846) | **Springer - Impact factor: 2.825**
 * [Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | **IEEE - Impact factor: 6.123**
 * [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr) | **SAGE - Impact factor: 4.703**
@@ -199,62 +199,62 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | **IEEE - Impact factor: 3.6**
 
 ## Companies and Jobs
-* [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence.
-* [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly.
-* [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google).
-* [Waymo](https://waymo.com) | Autonomous Driving car company from Google.
-* [ZOOX](https://zoox.com/) | Zoox is creating autonomous mobility from the ground up.
-* [Robotec AI](Robotec.ai) | A software company that develops high-tech solutions for automated and connected vehicles.
-* [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading centre for applied research in robotics and automation in one of the most innovative industrial areas world-wide.
-* [ihmc Robotics](http://robots.ihmc.us/) | IHMC has been pioneering advanced control techniques for bipedal robots to maintain balance while walking over a wide variety of terrains.
+* [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence
+* [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly
+* [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google)
+* [Waymo](https://waymo.com) | Autonomous Driving car company from Google
+* [ZOOX](https://zoox.com/) | Zoox is creating autonomous mobility from the ground up
+* [Robotec AI](Robotec.ai) | A software company that develops high-tech solutions for automated and connected vehicles
+* [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading centre for applied research in robotics and automation in one of the most innovative industrial areas world-wide
+* [ihmc Robotics](http://robots.ihmc.us/) | IHMC has been pioneering advanced control techniques for bipedal robots to maintain balance while walking over a wide variety of terrains
 * [GUSS](https://gussag.com/) | Autonomous orchard sprayers
-* [AgroIntelli](https://www.agrointelli.com/#home) | Versatile and autonomous agricultural robot solving multiple tasks in the field. 
-* [Abundant Robotics](https://www.abundantrobotics.com/) | Commercial Robotic apple harvest. 
+* [AgroIntelli](https://www.agrointelli.com/#home) | Versatile and autonomous agricultural robot solving multiple tasks in the field
+* [Abundant Robotics](https://www.abundantrobotics.com/) | Commercial Robotic apple harvest
 * [Rowbot](https://www.rowbot.com/) | Robotic solutions for row crop agriculture
-* [Bear Flag Robotics](https://bearflagrobotics.com/) | Bear Flag Robotics is developing self-driving technology for tractors and implements.
-* [Agrobot](https://www.agrobot.com/) | From disruptive but practical approaches, we build smart farming machinery.
-* [Rabbit](https://www.rabbittractors.com/) | Farm Utility Robots.
-* [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation.
-* [Civil Maps](https://civilmaps.com/) | The only scalable High Definition Mapping and Localization solution.
-* [Small Robot](https://www.smallrobotcompany.com/) | Small Robot Company is reimagining farming with robotics and artificial intelligence.
-* [Aptiv](https://www.aptiv.com/) | Making mobility greener.
-* [nuTonomy](https://www.linkedin.com/company/nutonomy/) | It provides point-to-point mobility via large fleets of autonomous vehicles in challenging urban driving environments.
-* [Agreenculture](https://www.agreenculture.net/copy-of-accueil) | Make smart farming your power.
-* [robust.ai](https://www.robust.ai/) | Building the world’s first industrial grade cognitive engine.
-* [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing.
-* [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution.
-* [Korechi](https://www.korechi.com/) | Robotics & Automation made simple.
-* [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars.
-* [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification.
-* [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution. 
-* [Halodi Robotics](https://www.halodi.com/) | Safe, Capable and affordable robots that help human beings live better lives.
-* [SelfDriving.fyi](https://selfdriving.fyi/?__s=4l8lmj4sp162iwy3z1p8) | The most comprehensive database of companies working on autonomous vehicles and related technologies. 
-* [Swarm Farm](https://www.swarmfarm.com/) | We’re delivering autonomous agriculture.
-* [Lyft Level 5](https://self-driving.lyft.com/level5/) | Making self-driving a reality for people everywhere.
-* [Wayve](https://wayve.ai/) | Autonomous mobility driven by AI. 
-* [Catalog - Self-driving cars](https://catalog.selfdrivingcars360.com/) | All technology leaders, events and products - listed in a single catalog.
-* [BoxBot](https://www.boxbot.io/) | Intelligent Package Sorting for Faster Delivery.
-* [AutonomousStuff](https://autonomoustuff.com/) | It provides solutions for automated driving to thousands of customers worldwide, enabling the future of autonomy.
-* [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases.
-* [Aeolus](https://aeolusbot.com/) | Aeolus robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and at home.
-* [Burro](https://burro.ai/) | Autonomous Farming Begins with Collaborative Farm Robots.
-* [Intermodalics](https://www.intermodalics.eu/) | Providing digital intelligence from software to robots.
-* [Gestalt](https://www.gestalt-robotics.com/) | The innovation service provider for industrial automation.
-* [Volvo Autonomous Solutions](https://www.volvoautonomoussolutions.com/) | We develop commercially viable solutions for on- and off-road applications.
-* [DeepMap](https://www.deepmap.ai/) | HD mapping and localization solutions for all levels of autonomy.
-* [Refraction AI](https://refraction.ai/) | Safe and Cost Effective Last-Mile Logistics.
-* [ABB](https://global.abb/group/en) | A leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future.
-* [exyn](https://www.exyn.com/) | The first industrial drone that flies itself, anywhere.
-* [FarmDroid](https://farmdroid.dk/en/welcome) | The world’s first fully automatic robot that can take care of both sowing and mechanical weed control.
-* [naïo technologies](https://www.naio-technologies.com/en/) | Autonomous Robots for Easier Farming.
-* [Thorvald](https://sagarobotics.com/) | Autonomous modular robot delivering agricultural services.
-* [nLink](https://www.nlink.no/) Mobile robots that solve real life problems.
-* [intek](http://intek.no/) | Connecting people and robots.
-* [nuro](http://nuro.ai/product) | The self-driving vehicle made for local goods transportation.
-* [Blue River](http://www.bluerivertechnology.com/) | Optimize every plant.
-* [ecorobotix](https://www.ecorobotix.com/en/) | Techonology for environment.
-* [ZTractor](https://ztractor.com/) | The world's first autonomous electric tractor.
-* [FarmWise](https://farmwise.io/home) | Innovative systems and processes that allow farmers to streamline operations and increase food production efficiency.
+* [Bear Flag Robotics](https://bearflagrobotics.com/) | Bear Flag Robotics is developing self-driving technology for tractors and implements
+* [Agrobot](https://www.agrobot.com/) | From disruptive but practical approaches, we build smart farming machinery
+* [Rabbit](https://www.rabbittractors.com/) | Farm Utility Robots
+* [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation
+* [Civil Maps](https://civilmaps.com/) | The only scalable High Definition Mapping and Localization solution
+* [Small Robot](https://www.smallrobotcompany.com/) | Small Robot Company is reimagining farming with robotics and artificial intelligence
+* [Aptiv](https://www.aptiv.com/) | Making mobility greener
+* [nuTonomy](https://www.linkedin.com/company/nutonomy/) | It provides point-to-point mobility via large fleets of autonomous vehicles in challenging urban driving environments
+* [Agreenculture](https://www.agreenculture.net/copy-of-accueil) | Make smart farming your power
+* [robust.ai](https://www.robust.ai/) | Building the world’s first industrial grade cognitive engine
+* [Vicarious](https://www.vicarious.com/) | Intelligent Robotics for the Next Age of Manufacturing
+* [Kopernikus Automotive](https://www.kopernikusauto.com/) | A leading developer in automated valet parking (AVP Type 2) technology, which describes an autonomous driving solution
+* [Korechi](https://www.korechi.com/) | Robotics & Automation made simple
+* [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars
+* [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification
+* [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution
+* [Halodi Robotics](https://www.halodi.com/) | Safe, Capable and affordable robots that help human beings live better lives
+* [SelfDriving.fyi](https://selfdriving.fyi/?__s=4l8lmj4sp162iwy3z1p8) | The most comprehensive database of companies working on autonomous vehicles and related technologies
+* [Swarm Farm](https://www.swarmfarm.com/) | We’re delivering autonomous agriculture
+* [Lyft Level 5](https://self-driving.lyft.com/level5/) | Making self-driving a reality for people everywhere
+* [Wayve](https://wayve.ai/) | Autonomous mobility driven by AI
+* [Catalog - Self-driving cars](https://catalog.selfdrivingcars360.com/) | All technology leaders, events and products - listed in a single catalog
+* [BoxBot](https://www.boxbot.io/) | Intelligent Package Sorting for Faster Delivery
+* [AutonomousStuff](https://autonomoustuff.com/) | It provides solutions for automated driving to thousands of customers worldwide, enabling the future of autonomy
+* [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases
+* [Aeolus](https://aeolusbot.com/) | Aeolus robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and at home
+* [Burro](https://burro.ai/) | Autonomous Farming Begins with Collaborative Farm Robots
+* [Intermodalics](https://www.intermodalics.eu/) | Providing digital intelligence from software to robots
+* [Gestalt](https://www.gestalt-robotics.com/) | The innovation service provider for industrial automation
+* [Volvo Autonomous Solutions](https://www.volvoautonomoussolutions.com/) | We develop commercially viable solutions for on- and off-road applications
+* [DeepMap](https://www.deepmap.ai/) | HD mapping and localization solutions for all levels of autonomy
+* [Refraction AI](https://refraction.ai/) | Safe and Cost Effective Last-Mile Logistics
+* [ABB](https://global.abb/group/en) | A leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future
+* [exyn](https://www.exyn.com/) | The first industrial drone that flies itself, anywhere
+* [FarmDroid](https://farmdroid.dk/en/welcome) | The world’s first fully automatic robot that can take care of both sowing and mechanical weed control
+* [naïo technologies](https://www.naio-technologies.com/en/) | Autonomous Robots for Easier Farming
+* [Thorvald](https://sagarobotics.com/) | Autonomous modular robot delivering agricultural services
+* [nLink](https://www.nlink.no/) Mobile robots that solve real life problems
+* [intek](http://intek.no/) | Connecting people and robots
+* [nuro](http://nuro.ai/product) | The self-driving vehicle made for local goods transportation
+* [Blue River](http://www.bluerivertechnology.com/) | Optimize every plant
+* [ecorobotix](https://www.ecorobotix.com/en/) | Techonology for environment
+* [ZTractor](https://ztractor.com/) | The world's first autonomous electric tractor
+* [FarmWise](https://farmwise.io/home) | Innovative systems and processes that allow farmers to streamline operations and increase food production efficiency
 
 
 
@@ -295,13 +295,13 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Sketch Engine](https://www.sketchengine.eu/) **| It's the ultimate tool to explore how language works**
 * [Thesaurus](https://www.thesaurus.com/) **| A source of synonym suggestions**
 * [Talking Robotics](https://talking-robotics.github.io/) **| A series of virtual seminars about Robotics and its interaction with other relevant fields, such as Artificial Intelligence, Machine Learning, Human-Robot Interaction, among others**
-* [Robotics Diversity Reading List](https://blackinrobotics.github.io/) **| A collection of researchers and papers to build a more diverse community.**
-* [LeetCode](https://leetcode.com/explore/?__s=4l8lmj4sp162iwy3z1p8) **| A platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.**
+* [Robotics Diversity Reading List](https://blackinrobotics.github.io/) **| A collection of researchers and papers to build a more diverse community**
+* [LeetCode](https://leetcode.com/explore/?__s=4l8lmj4sp162iwy3z1p8) **| A platform to help you enhance your skills, expand your knowledge and prepare for technical interviews**
 * [Stanford Cheatsheet on CNNs, RNNs](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?__s=4l8lmj4sp162iwy3z1p8) **| Convolutional Neural Networks cheatsheet (Deep learning)**
-* [Autonomous Vehicle people](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=234860&__s=4l8lmj4sp162iwy3z1p8) **|  A Twitter graph that shows everyone you can follow on autonomous vehicles.**
-* [Google Dataset Search](https://datasetsearch.research.google.com/?__s=4l8lmj4sp162iwy3z1p8) **| Google search engine for public datasets.**
-* [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge.** 
+* [Autonomous Vehicle people](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=234860&__s=4l8lmj4sp162iwy3z1p8) **|  A Twitter graph that shows everyone you can follow on autonomous vehicles**
+* [Google Dataset Search](https://datasetsearch.research.google.com/?__s=4l8lmj4sp162iwy3z1p8) **| Google search engine for public datasets**
+* [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge** 
 * [Jobs UK](https://www.jobs.ac.uk/) **| Find a job**
-* [Papers with Code](https://paperswithcode.com/) **| A free and open resource with Machine Learning papers, code and evaluation tables.**
+* [Papers with Code](https://paperswithcode.com/) **| A free and open resource with Machine Learning papers, code and evaluation tables**
 * [Awesome Robotics Brazil](https://github.com/mateus-amarante/awesome-robotics-brazil) **| Lista de iniciativas de robótica do Brasil!**
-* [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source.**
+* [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source**
