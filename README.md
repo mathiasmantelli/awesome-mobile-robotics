@@ -255,8 +255,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ecorobotix](https://www.ecorobotix.com/en/) | Techonology for environment
 * [ZTractor](https://ztractor.com/) | The world's first autonomous electric tractor
 * [FarmWise](https://farmwise.io/home) | Innovative systems and processes that allow farmers to streamline operations and increase food production efficiency
-
-
+* [mobileye](https://www.mobileye.com/) | A leading supplier of software that enables Advanced Driver Assist Systems (ADAS).
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
