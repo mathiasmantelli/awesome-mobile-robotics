@@ -92,6 +92,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [nuScenes](https://www.nuscenes.org/?__s=4l8lmj4sp162iwy3z1p8) **| Motional**
 * [BARN Dataset](https://www.cs.utexas.edu/~xiao/BARN/BARN.html) **| The University of Texas at Austin - Department of Computer Science**
 * [RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) **| A multimodal dataset collected in an off-road environment containing annotations for 13,556 LiDAR scans and 6,235 images**
+* [Gazebo Models and Worlds collection](https://github.com/chaolmu/gazebo_models_worlds_collection) **| This repository contains models and worlds files for Gazebo, which are collected from several public projects**
+* [Gazebo models](https://github.com/osrf/gazebo_models) **| This repository holds the Gazebo model database**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -277,6 +279,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) **| MIT’s research lab**
 * [Goal-Oriented Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/labs/goals/) **| Oxford Robotics Institute - Nick Hawes**
 * [Skoltech Mobile Robotics](https://sites.skoltech.ru/mobilerobotics/) **| Skolkovo Institute of Science and Technology - Gonzalo Ferrer**
+* [Michael R. Bock](https://michaelrbock.com/) **| Software engineer**
 
 ## Misc
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
