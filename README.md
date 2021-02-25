@@ -1,4 +1,4 @@
-# Mobile Robotics - The list
+# Mobile Robotics - Awesome list[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
 
@@ -52,6 +52,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [DuckieTown](https://www.duckietown.org/) **| Learning Autonomy**
 * [Machine Learning](https://www.coursera.org/learn/machine-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
+* [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) **| Satya Mallick**
+* [Awesome Self-Driving](https://github.com/Sid1057/awesome-self-driving) **| Ivan Deylid**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
