@@ -1,4 +1,4 @@
-# Mobile Robotics - Awesome list[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Mobile Robotics - Awesome list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
 
