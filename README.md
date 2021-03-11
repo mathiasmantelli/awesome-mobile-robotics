@@ -54,6 +54,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
 * [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) **| Satya Mallick**
 * [Awesome Self-Driving](https://github.com/Sid1057/awesome-self-driving) **| Ivan Deylid**
+* [Principles of Computer Vision](https://fpcv.cs.columbia.edu/) **| Shree K. Nayar**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -175,6 +176,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [OctoMap](http://octomap.github.io/) | An Efficient Probabilistic 3D Mapping Framework Based on Octrees
 * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | A real-time lidar-inertial odometry package
 * [Yonohub](https://yonohub.com/) | A cloud-based system for designing, sharing, and evaluating complex systems, such as Autonomous Vehicles, ADAS, and Robotics
+* [SSL_SLAM2](https://github.com/wh200720041/ssl_slam2) | Lightweight 3-D Localization and Mapping for Solid-State LiDAR
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
