@@ -45,7 +45,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robocademy](https://robocademy.com/) **| ROS Course from Lentin Joseph**
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
 * [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
-* [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html?fbclid=IwAR2q54LSYCdpHyr5P_dBI6ybnh9sZocj25Hp8x8pp7UOmePAXZdZel9O_nQ) **|ETH Zurich - Robotics System Lab**
+* [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html) **|ETH Zurich - Robotics System Lab**
 * [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **| Aristotle University of Thessaloniki - Prof. I. Pitas**
 * [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
 * [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
