@@ -180,6 +180,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Yonohub](https://yonohub.com/) | A cloud-based system for designing, sharing, and evaluating complex systems, such as Autonomous Vehicles, ADAS, and Robotics
 * [SSL_SLAM2](https://github.com/wh200720041/ssl_slam2) | Lightweight 3-D Localization and Mapping for Solid-State LiDAR
 * [Lane Detection](https://github.com/amusi/awesome-lane-detection) | Papers, tutorials, and code about Lane Detection 
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
