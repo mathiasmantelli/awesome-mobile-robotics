@@ -57,6 +57,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) **| Satya Mallick**
 * [Awesome Self-Driving](https://github.com/Sid1057/awesome-self-driving) **| Ivan Deylid**
 * [Principles of Computer Vision](https://fpcv.cs.columbia.edu/) **| Shree K. Nayar**
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) **| Jia-Bin Huang**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
