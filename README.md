@@ -101,7 +101,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Gazebo Models and Worlds collection](https://github.com/chaolmu/gazebo_models_worlds_collection) **| This repository contains models and worlds files for Gazebo, which are collected from several public projects**
 * [Gazebo models](https://github.com/osrf/gazebo_models) **| This repository holds the Gazebo model database**
 * [NASA 3D models](https://github.com/nasa/NASA-3D-Resources) **| 3D models, textures, and images from inside NASA**
-* [Audi Autonomous Driving Dataset (A2D2)](https://www.a2d2.audi/a2d2/en.html) **| The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.** 
+* [Audi Autonomous Driving Dataset (A2D2)](https://www.a2d2.audi/a2d2/en.html) **| The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data** 
+* [Oxford Road Boundaries Dataset](https://oxford-robotics-institute.github.io/road-boundaries-dataset/) **| A dataset designed for training and testing machine-learning-based road-boundary detection and inference approaches**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -182,7 +183,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Yonohub](https://yonohub.com/) | A cloud-based system for designing, sharing, and evaluating complex systems, such as Autonomous Vehicles, ADAS, and Robotics
 * [SSL_SLAM2](https://github.com/wh200720041/ssl_slam2) | Lightweight 3-D Localization and Mapping for Solid-State LiDAR
 * [Lane Detection](https://github.com/amusi/awesome-lane-detection) | Papers, tutorials, and code about Lane Detection 
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux.
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux
+* [Crowd-SLAM](https://github.com/virgolinosoares/Crowd-SLAM) | A visual SLAM system that is robust in crowded scenarios
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
