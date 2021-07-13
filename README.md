@@ -103,6 +103,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NASA 3D models](https://github.com/nasa/NASA-3D-Resources) **| 3D models, textures, and images from inside NASA**
 * [Audi Autonomous Driving Dataset (A2D2)](https://www.a2d2.audi/a2d2/en.html) **| The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data** 
 * [Oxford Road Boundaries Dataset](https://oxford-robotics-institute.github.io/road-boundaries-dataset/) **| A dataset designed for training and testing machine-learning-based road-boundary detection and inference approaches**
+* [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) **| A collection of SLAM-related datasets**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
