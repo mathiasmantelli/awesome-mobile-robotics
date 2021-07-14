@@ -187,6 +187,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux
 * [Crowd-SLAM](https://github.com/virgolinosoares/Crowd-SLAM) | A visual SLAM system that is robust in crowded scenarios
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) | A curated list of robotics simulators and libraries
+* [EVO: Event based Visual Odometry](https://github.com/uzh-rpg/rpg_dvs_evo_open) | EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
