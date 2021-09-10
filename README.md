@@ -58,6 +58,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome Self-Driving](https://github.com/Sid1057/awesome-self-driving) **| Ivan Deylid**
 * [Principles of Computer Vision](https://fpcv.cs.columbia.edu/) **| Shree K. Nayar**
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) **| Jia-Bin Huang**
+* [Introduction to ROS: The Robot Operating System](https://tiziano-school.thinkific.com/courses/introduction-to-ros-the-robot-operating-system) **| Tiziano's school**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -190,6 +191,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [EVO: Event based Visual Odometry](https://github.com/uzh-rpg/rpg_dvs_evo_open) | EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time
 * [ROSshow](https://github.com/dheera/rosshow/) | Visualize ROS topics in a terminal
 * [ROSboard](https://github.com/dheera/rosboard/) | ROS node that runs a web server on your robot
+* [ViMantic](https://github.com/DavidFernandezChaves/ViMantic-Unity3DNode) | Distributed architecture for semantic mapping of environments using mobile robots
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
