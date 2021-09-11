@@ -192,6 +192,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROSshow](https://github.com/dheera/rosshow/) | Visualize ROS topics in a terminal
 * [ROSboard](https://github.com/dheera/rosboard/) | ROS node that runs a web server on your robot
 * [ViMantic](https://github.com/DavidFernandezChaves/ViMantic-Unity3DNode) | Distributed architecture for semantic mapping of environments using mobile robots
+* [openpilot](https://github.com/commaai/openpilot) | Open source driver assistance system
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -279,6 +280,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [FarmWise](https://farmwise.io/home) | Innovative systems and processes that allow farmers to streamline operations and increase food production efficiency
 * [mobileye](https://www.mobileye.com/) | A leading supplier of software that enables Advanced Driver Assist Systems (ADAS)
 * [Optimus Ride](https://www.optimusride.com/) | The leading self-driving vehicle technology company developing systems for geo-fenced environments
+* [comma](https://comma.ai/) | Custom hardware designed to live in your car
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
