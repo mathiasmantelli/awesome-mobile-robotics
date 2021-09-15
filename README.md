@@ -193,6 +193,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROSboard](https://github.com/dheera/rosboard/) | ROS node that runs a web server on your robot
 * [ViMantic](https://github.com/DavidFernandezChaves/ViMantic-Unity3DNode) | Distributed architecture for semantic mapping of environments using mobile robots
 * [openpilot](https://github.com/commaai/openpilot) | Open source driver assistance system
+* [SLAM Research](https://github.com/YiChenCityU/Recent_SLAM_Research) | List of SLAM works since 2018
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
