@@ -59,6 +59,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Principles of Computer Vision](https://fpcv.cs.columbia.edu/) **| Shree K. Nayar**
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) **| Jia-Bin Huang**
 * [Introduction to ROS: The Robot Operating System](https://tiziano-school.thinkific.com/courses/introduction-to-ros-the-robot-operating-system) **| Tiziano's school**
+* [ROS Tutorials](https://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/ros/rostutorials.html) **| Erle Robotics**
+* [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/melodic/index.html) **| Industrial Training Exercises**
+* [ROS C++ Hello World](https://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/) **| Jonathan Bohren**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
