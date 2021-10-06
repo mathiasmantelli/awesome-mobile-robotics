@@ -108,6 +108,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Audi Autonomous Driving Dataset (A2D2)](https://www.a2d2.audi/a2d2/en.html) **| The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data** 
 * [Oxford Road Boundaries Dataset](https://oxford-robotics-institute.github.io/road-boundaries-dataset/) **| A dataset designed for training and testing machine-learning-based road-boundary detection and inference approaches**
 * [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) **| A collection of SLAM-related datasets**
+* [The Hilti SLAM-Challenge](https://www.hilti-challenge.com/dataset.html) **| A collection of ROSBags with different sensor readings**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -197,6 +198,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ViMantic](https://github.com/DavidFernandezChaves/ViMantic-Unity3DNode) | Distributed architecture for semantic mapping of environments using mobile robots
 * [openpilot](https://github.com/commaai/openpilot) | Open source driver assistance system
 * [SLAM Research](https://github.com/YiChenCityU/Recent_SLAM_Research) | List of SLAM works since 2018
+* [SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM) | LiDAR place recognition method for LiDAR SLAM applications
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
