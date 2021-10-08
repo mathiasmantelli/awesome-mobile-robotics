@@ -199,6 +199,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [openpilot](https://github.com/commaai/openpilot) | Open source driver assistance system
 * [SLAM Research](https://github.com/YiChenCityU/Recent_SLAM_Research) | List of SLAM works since 2018
 * [SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM) | LiDAR place recognition method for LiDAR SLAM applications
+* [LidarView](https://github.com/Kitware/LidarView) | Real-time reception, recording, visualization and processing of 3D LiDAR data
+* [UFOMap](https://github.com/UnknownFreeOccupied/ufomap) | Efficient probabilistic 3D mapping framework with an explicit representation of unknown space
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
