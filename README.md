@@ -109,6 +109,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Oxford Road Boundaries Dataset](https://oxford-robotics-institute.github.io/road-boundaries-dataset/) **| A dataset designed for training and testing machine-learning-based road-boundary detection and inference approaches**
 * [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) **| A collection of SLAM-related datasets**
 * [The Hilti SLAM-Challenge](https://www.hilti-challenge.com/dataset.html) **| A collection of ROSBags with different sensor readings**
+* [Omnidata](https://omnidata.vision/) **| A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans**
+* [RGB-D SLAM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| RGB-D data and ground-truth data with the goal to establish a novel benchmark for the evaluation of visual odometry and visual SLAM systems**
+* [Mix3D](https://kumuji.github.io/mix3d/) **| Out-of-Context Data Augmentation for 3D Scenes**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
