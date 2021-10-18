@@ -62,6 +62,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Tutorials](https://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/ros/rostutorials.html) **| Erle Robotics**
 * [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/melodic/index.html) **| Industrial Training Exercises**
 * [ROS C++ Hello World](https://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/) **| Jonathan Bohren**
+* [LearnOpencv](https://learnopencv.com/) **| Satya Mallick**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
