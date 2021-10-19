@@ -205,6 +205,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [SC-LeGO-LOAM](https://github.com/gisbi-kim/SC-LeGO-LOAM) | LiDAR place recognition method for LiDAR SLAM applications
 * [LidarView](https://github.com/Kitware/LidarView) | Real-time reception, recording, visualization and processing of 3D LiDAR data
 * [UFOMap](https://github.com/UnknownFreeOccupied/ufomap) | Efficient probabilistic 3D mapping framework with an explicit representation of unknown space
+* [Treexy](https://github.com/facontidavide/Treexy) | Library that implements a compact hierarchical data structure that can store and manipulate volumetric data
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
