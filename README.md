@@ -113,6 +113,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Omnidata](https://omnidata.vision/) **| A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans**
 * [RGB-D SLAM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| RGB-D data and ground-truth data with the goal to establish a novel benchmark for the evaluation of visual odometry and visual SLAM systems**
 * [Mix3D](https://kumuji.github.io/mix3d/) **| Out-of-Context Data Augmentation for 3D Scenes**
+* [Large Scale dataset for indoor localization](http://vision.ia.ac.cn/Faculty/wgao/data_code/data_indoor_localizaiton/data_indoor_localization.htm) **| A large scale dataset for indoor visual localization with high precise ground truth**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -206,6 +207,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LidarView](https://github.com/Kitware/LidarView) | Real-time reception, recording, visualization and processing of 3D LiDAR data
 * [UFOMap](https://github.com/UnknownFreeOccupied/ufomap) | Efficient probabilistic 3D mapping framework with an explicit representation of unknown space
 * [Treexy](https://github.com/facontidavide/Treexy) | Library that implements a compact hierarchical data structure that can store and manipulate volumetric data
+* [SVO Pro](https://github.com/uzh-rpg/rpg_svo_pro_open) | Semi-direct Visual Odometry (SVO)
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -343,4 +345,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Papers with Code](https://paperswithcode.com/) **| A free and open resource with Machine Learning papers, code and evaluation tables**
 * [Awesome Robotics Brazil](https://github.com/mateus-amarante/awesome-robotics-brazil) **| Lista de iniciativas de robótica do Brasil!**
 * [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source**
-* [Matcha](https://www.mathcha.io/editor) **|Online Mathematics Editor**
+* [Matcha](https://www.mathcha.io/editor) **| Online Mathematics Editor**
