@@ -114,6 +114,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [RGB-D SLAM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| RGB-D data and ground-truth data with the goal to establish a novel benchmark for the evaluation of visual odometry and visual SLAM systems**
 * [Mix3D](https://kumuji.github.io/mix3d/) **| Out-of-Context Data Augmentation for 3D Scenes**
 * [Large Scale dataset for indoor localization](http://vision.ia.ac.cn/Faculty/wgao/data_code/data_indoor_localizaiton/data_indoor_localization.htm) **| A large scale dataset for indoor visual localization with high precise ground truth**
+* [nuReality](https://nureality.org/) **| An open source novel virtual reality environment designed to test the interactions between pedestrians and autonomous vehicles**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
