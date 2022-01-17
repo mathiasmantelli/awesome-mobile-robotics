@@ -210,6 +210,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [UFOMap](https://github.com/UnknownFreeOccupied/ufomap) | Efficient probabilistic 3D mapping framework with an explicit representation of unknown space
 * [Treexy](https://github.com/facontidavide/Treexy) | Library that implements a compact hierarchical data structure that can store and manipulate volumetric data
 * [SVO Pro](https://github.com/uzh-rpg/rpg_svo_pro_open) | Semi-direct Visual Odometry (SVO)
+* [OpenDR Project](https://github.com/opendr-eu/opendr) | A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
