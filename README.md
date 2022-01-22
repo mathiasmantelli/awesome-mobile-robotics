@@ -212,6 +212,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [SVO Pro](https://github.com/uzh-rpg/rpg_svo_pro_open) | Semi-direct Visual Odometry (SVO)
 * [OpenDR Project](https://github.com/opendr-eu/opendr) | A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning
 * [DiSCo-SLAM](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) | A novel framework for distributed, multi-robot SLAM intended for use with 3D LiDAR observations
+* [PyImageSearch on GitHub](https://github.com/PyImageSearch) | Machine Learning and Deep Learning accessible and intuitive
+* [Extended-Object-Detection-ROS](https://github.com/Extended-Object-Detection-ROS) | ROS package for visual object detection with various methods
+* [YoloV4-For-Darknet-ROS](https://github.com/Tossy0423/yolov4-for-darknet_ros) | Environment in which YOLO V4 is ported to darknet_ros
+* [Face Recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
