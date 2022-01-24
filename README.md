@@ -63,6 +63,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/melodic/index.html) **| Industrial Training Exercises**
 * [ROS C++ Hello World](https://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/) **| Jonathan Bohren**
 * [LearnOpencv](https://learnopencv.com/) **| Satya Mallick**
+* [Programming for Robotics](https://robotics.umich.edu/academic-program/courses/rob599-f19/) **| Acshi Haggenmiller (acshikh)**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
