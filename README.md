@@ -117,7 +117,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Large Scale dataset for indoor localization](http://vision.ia.ac.cn/Faculty/wgao/data_code/data_indoor_localizaiton/data_indoor_localization.htm) **| A large scale dataset for indoor visual localization with high precise ground truth**
 * [nuReality](https://nureality.org/) **| An open source novel virtual reality environment designed to test the interactions between pedestrians and autonomous vehicles**
 * [Blend Swap](https://blendswap.com/categories) **| 3D models for simulation**
-* [ARKitScenes](https://github.com/apple/ARKitScenes) **| Real-World Dataset for 3D Indoor Scene Understanding Using Mobile {RGB}-D Data**
+* [ARKitScenes](https://github.com/apple/ARKitScenes) **| Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data**
+* [SEMFIRE](https://zenodo.org/record/5819064#.YfKFCYTMJhE) **| Forest dataset for semantic segmentation and data augmentation (Multispectral images, 3D LiDAR point clouds, Thermal images, GPS and IMU data, Depth and RGB images.)**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
