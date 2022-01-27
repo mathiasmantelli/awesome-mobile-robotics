@@ -220,6 +220,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [YoloV4-For-Darknet-ROS](https://github.com/Tossy0423/yolov4-for-darknet_ros) | Environment in which YOLO V4 is ported to darknet_ros
 * [Face Recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line
 * [Urban Road Filter](https://github.com/jkk-research/urban_road_filter) | A real-time LIDAR-based urban road and sidewalk detection algorithm for autonomous vehicles
+* [Darknet ROS 3D](https://github.com/IntelligentRoboticsLabs/gb_visual_detection_3d) | It provides you 3d bounding boxes of the objects contained in an objects list, where is specificated the 3d position of each object.
+* [Pedestrian Simulator](https://github.com/srl-freiburg/pedsim_ros) | ROS packages for a 2D pedestrian simulator based on social force model of Helbing et. al. (PedSim_ROS)
+* [SPENCER](https://github.com/spencer-project/spencer_people_tracking) | Multi-modal ROS-based people detection and tracking framework for mobile robots
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
