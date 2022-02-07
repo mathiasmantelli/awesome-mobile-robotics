@@ -64,6 +64,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS C++ Hello World](https://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/) **| Jonathan Bohren**
 * [LearnOpencv](https://learnopencv.com/) **| Satya Mallick**
 * [Programming for Robotics](https://robotics.umich.edu/academic-program/courses/rob599-f19/) **| Acshi Haggenmiller (acshikh)**
+* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) **| University of Michigan**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -224,6 +225,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Pedestrian Simulator](https://github.com/srl-freiburg/pedsim_ros) | ROS packages for a 2D pedestrian simulator based on social force model of Helbing et. al. (PedSim_ROS)
 * [SPENCER](https://github.com/spencer-project/spencer_people_tracking) | Multi-modal ROS-based people detection and tracking framework for mobile robots
 * [Fiducials](https://github.com/UbiquityRobotics/fiducials) | Simultaneous localization and mapping using fiducial markers (SLAM)
+* [Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) | ROS, OpenCV, Open-source, Pi Robot Dog
+* [Mini Pupper Trajectory Optimization](https://github.com/mayataka/mini_pupper_trajopt) | Low-torque and low-impact trajectories for Mini-Pupper quadrupedal robot
+* [E2ES](https://github.com/HKPolyU-UAV/E2ES) | End-to-End UAV Simulation for Visual SLAM and Navigation
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -314,6 +318,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [comma](https://comma.ai/) | Custom hardware designed to live in your car
 * [emesent](emesent.io) | Autonomously mapping the inaccessible
 * [Apptronik](https://apptronik.com/) | Products and services for robots designed to work with and around humans
+* [Automata](https://careers.automata.tech/) | Helping scientists achieve better results faster with worry-free lab automation
+* [Sevensense](https://www.sevensense.ai/) | Autonomy for your robotcs
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -365,3 +371,4 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source**
 * [Matcha](https://www.mathcha.io/editor) **| Online Mathematics Editor**
 * [Robot Hacking Manual](https://github.com/vmayoral/robot_hacking_manual) **| Papers, notes and writeups from a journey into robot cybersecurity**
+* [Black in Robotics](https://blackinrobotics.org/) **| Building Community, Advocating for Diversity, Encouraging Accountability**
