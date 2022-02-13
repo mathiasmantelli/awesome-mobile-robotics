@@ -228,6 +228,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Mini Pupper](https://github.com/mangdangroboticsclub/QuadrupedRobot) | ROS, OpenCV, Open-source, Pi Robot Dog
 * [Mini Pupper Trajectory Optimization](https://github.com/mayataka/mini_pupper_trajopt) | Low-torque and low-impact trajectories for Mini-Pupper quadrupedal robot
 * [E2ES](https://github.com/HKPolyU-UAV/E2ES) | End-to-End UAV Simulation for Visual SLAM and Navigation
+* [SLAM Dynamic](https://gitee.com/wizard_hai/slam-dynamic) | Visual Semantic SLAM algorithm based on target tracking and geometric constraints
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
