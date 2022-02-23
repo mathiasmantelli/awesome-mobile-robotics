@@ -65,6 +65,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LearnOpencv](https://learnopencv.com/) **| Satya Mallick**
 * [Programming for Robotics](https://robotics.umich.edu/academic-program/courses/rob599-f19/) **| Acshi Haggenmiller (acshikh)**
 * [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) **| University of Michigan**
+* [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) **| Red Blob Games**
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) **| Developer-Y**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -120,6 +122,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Blend Swap](https://blendswap.com/categories) **| 3D models for simulation**
 * [ARKitScenes](https://github.com/apple/ARKitScenes) **| Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data**
 * [SEMFIRE](https://zenodo.org/record/5819064#.YfKFCYTMJhE) **| Forest dataset for semantic segmentation and data augmentation (Multispectral images, 3D LiDAR point clouds, Thermal images, GPS and IMU data, Depth and RGB images.)**
+* [MOTSynth](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=42) **| A huge dataset for pedestrian detection and tracking in urban scenarios**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -343,6 +346,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Goal-Oriented Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/labs/goals/) **| Oxford Robotics Institute - Nick Hawes**
 * [Skoltech Mobile Robotics](https://sites.skoltech.ru/mobilerobotics/) **| Skolkovo Institute of Science and Technology - Gonzalo Ferrer**
 * [Michael R. Bock](https://michaelrbock.com/) **| Software engineer**
+* [Compuver Vision and Intelligent Systems Laboratory](https://www.cs.ryerson.ca/~wangcs/cvis.html) **| Ryerson University - 	
+Guanghui (Richard) Wang**
 
 ## Misc
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
