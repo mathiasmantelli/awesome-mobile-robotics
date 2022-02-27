@@ -67,6 +67,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) **| University of Michigan**
 * [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) **| Red Blob Games**
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) **| Developer-Y**
+* [Common Path Planning Algorithms](https://github.com/KamalanathanN/PathPlanning) **| KamalanathanN**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -232,6 +233,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Mini Pupper Trajectory Optimization](https://github.com/mayataka/mini_pupper_trajopt) | Low-torque and low-impact trajectories for Mini-Pupper quadrupedal robot
 * [E2ES](https://github.com/HKPolyU-UAV/E2ES) | End-to-End UAV Simulation for Visual SLAM and Navigation
 * [SLAM Dynamic](https://gitee.com/wizard_hai/slam-dynamic) | Visual Semantic SLAM algorithm based on target tracking and geometric constraints
+* [ABot](https://github.com/KamalanathanN/abot) | ABot is a differential drive mobile robot based on Robot Operating System (ROS)
+* [DiSCo-SLAM](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) | Novel framework for distributed, multi-robot SLAM intended for use with 3D LiDAR observations
+* [KR Autonomous Flight](https://github.com/KumarRobotics/kr_autonomous_flight) | The autonomous flight code stack used at KumarRobotics, providing a complete solution for GPS-denied quadcopter autonomy
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
