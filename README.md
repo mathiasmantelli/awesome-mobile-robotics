@@ -328,6 +328,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Apptronik](https://apptronik.com/) | Products and services for robots designed to work with and around humans
 * [Automata](https://careers.automata.tech/) | Helping scientists achieve better results faster with worry-free lab automation
 * [Sevensense](https://www.sevensense.ai/) | Autonomy for your robotcs
+* [Kingdom](https://www.kingdom.garden/) | We build robotic lawn mowers for large terrains
+* [Tangram Vision Platform](https://www.tangramvision.com/) | It takes care of complex perception tasks like sensor fusion, calibration, and diagnostics so you can deploy autonomy with confidence
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
