@@ -236,6 +236,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ABot](https://github.com/KamalanathanN/abot) | ABot is a differential drive mobile robot based on Robot Operating System (ROS)
 * [DiSCo-SLAM](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) | Novel framework for distributed, multi-robot SLAM intended for use with 3D LiDAR observations
 * [KR Autonomous Flight](https://github.com/KumarRobotics/kr_autonomous_flight) | The autonomous flight code stack used at KumarRobotics, providing a complete solution for GPS-denied quadcopter autonomy
+* [Clober](https://github.com/CLOBOT-Co-Ltd/clober#multiple-clober) | Clober is a next-generation robot research platform from Clobot that is specifically targeting research systems that require multi-robot hardware possible to attach and detach accessories
+* [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping) | Robot-centric elevation mapping for rough terrain navigation
+* [Terrain Mapping](https://github.com/mstoelzle/solving-occlusion) | Solving Occlusion in Terrain Mapping with Neural Networks
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -330,6 +333,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Sevensense](https://www.sevensense.ai/) | Autonomy for your robotcs
 * [Kingdom](https://www.kingdom.garden/) | We build robotic lawn mowers for large terrains
 * [Tangram Vision Platform](https://www.tangramvision.com/) | It takes care of complex perception tasks like sensor fusion, calibration, and diagnostics so you can deploy autonomy with confidence
+* [Brisa Robotics](https://www.brisa.tech/) At Brisa, we developed Windrose, a revolutionary solution to boost productivity in the Supply Chain world.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
