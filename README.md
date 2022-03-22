@@ -68,6 +68,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) **| Red Blob Games**
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) **| Developer-Y**
 * [Common Path Planning Algorithms](https://github.com/KamalanathanN/PathPlanning) **| KamalanathanN**
+* [PyVisualOdometry](https://github.com/polygon-software/python-visual-odometry) **| Polygon-Software**
+* [KITTI Odometry in Python and OpenCV](https://github.com/FoamoftheSea/KITTI_visual_odometry) **| Nate Cibik**
+* [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) **| OpenMVG**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -239,6 +242,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Clober](https://github.com/CLOBOT-Co-Ltd/clober#multiple-clober) | Clober is a next-generation robot research platform from Clobot that is specifically targeting research systems that require multi-robot hardware possible to attach and detach accessories
 * [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping) | Robot-centric elevation mapping for rough terrain navigation
 * [Terrain Mapping](https://github.com/mstoelzle/solving-occlusion) | Solving Occlusion in Terrain Mapping with Neural Networks
+* [GPS Waypoint Based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) | GPS points will be predefined in ROS based robots to navigate to the destination avoiding obstacles
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
