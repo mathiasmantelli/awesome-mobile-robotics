@@ -71,6 +71,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [PyVisualOdometry](https://github.com/polygon-software/python-visual-odometry) **| Polygon-Software**
 * [KITTI Odometry in Python and OpenCV](https://github.com/FoamoftheSea/KITTI_visual_odometry) **| Nate Cibik**
 * [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) **| OpenMVG**
+* [ROS Autonomous Driving and Path Planning SLAM with TurtleBot3](https://github.com/noshluk2/ROS-Autonomous-Driving-and-Path-Planning-SLAM-with-TurtleBot) **| Muhammad Luqman**
+* [ROS2 Ultimate learners Repository with Supporting Documentation](https://github.com/noshluk2/ROS2-Ultimate-learners-Repository) **| Muhammad Luqman**
+* [ROS2 C++ learning](https://github.com/dottantgal/ROS2_learning) **| Antonio Mauro Galiano**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
