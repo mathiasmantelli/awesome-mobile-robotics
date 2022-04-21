@@ -249,6 +249,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [GPS Waypoint Based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) | GPS points will be predefined in ROS based robots to navigate to the destination avoiding obstacles
 * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 * [NICE-SLAM](https://github.com/cvg/nice-slam) | Neural Implicit Scalable Encoding for 3D SLAM
+* [SOLD2](https://github.com/cvg/SOLD2) | Joint deep network for feature line detection and description
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
