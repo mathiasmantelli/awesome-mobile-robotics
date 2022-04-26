@@ -75,6 +75,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS2 Ultimate learners Repository with Supporting Documentation](https://github.com/noshluk2/ROS2-Ultimate-learners-Repository) **| Muhammad Luqman**
 * [ROS2 C++ learning](https://github.com/dottantgal/ROS2_learning) **| Antonio Mauro Galiano**
 * [F1TENTH](https://f1tenth.readthedocs.io/en/foxy_test/index.html) **| F1TENTH Autonomous Racing Community**
+* [ROS Industrial Training](https://github.com/ros-industrial/industrial_training) **| ROS Industrial**
+* [ROS Book Sample Code](https://github.com/gbiggs/ros_book_sample_code) **| Programming Robots with ROS**
+* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) **| CPP Best Practices**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -250,6 +253,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 * [NICE-SLAM](https://github.com/cvg/nice-slam) | Neural Implicit Scalable Encoding for 3D SLAM
 * [SOLD2](https://github.com/cvg/SOLD2) | Joint deep network for feature line detection and description
+* [FAR Planner](https://github.com/MichaelFYang/far_planner) | Fast, Attemptable Route Planner for Navigation in Known and Unknown Environments
+* [Track, Check, Repeat: An EM Approach to Unsupervised Tracking](https://github.com/aharley/track_check_repeat) | An EM approach to unsupervised tracking
+* [Maps with Semantic and Contextual Object Information](https://github.com/verlab/3DSemanticMapping_JINT_2020) | A code base to evaluate and test the semantic object mapping
+* [LIO SAM 6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) | How to adapt LIO_SAM to your own sensors
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
