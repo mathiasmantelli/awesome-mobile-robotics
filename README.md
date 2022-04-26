@@ -257,6 +257,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Track, Check, Repeat: An EM Approach to Unsupervised Tracking](https://github.com/aharley/track_check_repeat) | An EM approach to unsupervised tracking
 * [Maps with Semantic and Contextual Object Information](https://github.com/verlab/3DSemanticMapping_JINT_2020) | A code base to evaluate and test the semantic object mapping
 * [LIO SAM 6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) | How to adapt LIO_SAM to your own sensors
+* [Awesome YOLO Ojbect Detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection#slam-field-detection) | A collection of some awesome YOLO series projects
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
