@@ -42,7 +42,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Aerial Robot Courses](http://www.kostasalexis.com/courses.html) **| University of Nevada - Dr. Kostas Alexis**
 * [Stereo Vision Tutorial](http://mccormickml.com/2014/01/10/stereo-vision-tutorial-part-i/) **| Chris McCormick**
 * [Different ROS courses](https://www.udemy.com/courses/search/?q=ROS) **| Udemy**
-* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss18/robotics/) **| University of Freiburg - Prof. Dr. Wolfram Burgard**
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss21/robotics/) **| University of Freiburg - Prof. Dr. Wolfram Burgard**
 * [GaiTech EDU](https://edu.gaitech.hk/) **| Educational website on Robot Operating System (ROS)**
 * [Robocademy](https://robocademy.com/) **| ROS Course from Lentin Joseph**
 * [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
@@ -78,6 +78,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Industrial Training](https://github.com/ros-industrial/industrial_training) **| ROS Industrial**
 * [ROS Book Sample Code](https://github.com/gbiggs/ros_book_sample_code) **| Programming Robots with ROS**
 * [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) **| CPP Best Practices**
+* [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) **| Modern C++ Cheatsheet**
+* [Computer Vision](https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/) **| Prof. Kosta Derpanis**
+* [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) **| DAIR.AI**
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -259,6 +262,11 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LIO SAM 6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) | How to adapt LIO_SAM to your own sensors
 * [Awesome YOLO Ojbect Detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection#slam-field-detection) | A collection of some awesome YOLO series projects
 * [Prometheus](https://github.com/amov-lab/Prometheus/blob/master/README_EN.md) | An open source autonomous drone software platform
+* [Virtual Costmap Layer](https://github.com/GMahmoud/virtual_costmap_layer) | ROS-Package that implements a costmap layer to add virtual obstacles and to define navigation zone
+* [ROS2 Path Planning and Maze Solving](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving) | Maze Solving using Computer Vision In ROS2
+* [ROS Best Practices](https://github.com/leggedrobotics/ros_best_practices/wiki) | A loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS)
+* [ROS Noetic Tutorials](https://github.com/ros/ros_tutorials/tree/noetic-devel/roscpp_tutorials) | ROS tutorials
+* [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio) | Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -353,7 +361,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Sevensense](https://www.sevensense.ai/) | Autonomy for your robotcs
 * [Kingdom](https://www.kingdom.garden/) | We build robotic lawn mowers for large terrains
 * [Tangram Vision Platform](https://www.tangramvision.com/) | It takes care of complex perception tasks like sensor fusion, calibration, and diagnostics so you can deploy autonomy with confidence
-* [Brisa Robotics](https://www.brisa.tech/) At Brisa, we developed Windrose, a revolutionary solution to boost productivity in the Supply Chain world.
+* [Brisa Robotics](https://www.brisa.tech/) | At Brisa, we developed Windrose, a revolutionary solution to boost productivity in the Supply Chain world
+* [AutoAgri](https://autoagri.no) | AutoAgri are devoted to development and manufacturing of autonomous implement carriers.
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
