@@ -81,6 +81,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) **| Modern C++ Cheatsheet**
 * [Computer Vision](https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/) **| Prof. Kosta Derpanis**
 * [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) **| DAIR.AI**
+* [Data Structure \& Algorithms 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words) **| Girliemac**
+* [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision) **| Dragonlong**
+
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -98,6 +101,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) **| Lentin Joseph**
 * [Robótica Móvel](https://www.estantevirtual.com.br/livraria_pantheon/ltc-robotica-movel-2041555130) **| Roseli Romero, Edson Prestes, Fernando Osório, Denis Wolf**
 * [Computational Principles of Mobile Robotics](https://www.amazon.com/Computational-Principles-Mobile-Robotics-Gregory-ebook/dp/B00AKE1XGG/ref=sr_1_1?dchild=1&keywords=Computational+Principles+of+Mobile+Robotics&link_code=qs&qid=1606737935&sr=8-1&tag=wwwcanoniccom-20) **| Gregory Dudek, Michael Jenkin**
+* [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **| SPARL Lab**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -135,8 +139,11 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [nuReality](https://nureality.org/) **| An open source novel virtual reality environment designed to test the interactions between pedestrians and autonomous vehicles**
 * [Blend Swap](https://blendswap.com/categories) **| 3D models for simulation**
 * [ARKitScenes](https://github.com/apple/ARKitScenes) **| Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data**
-* [SEMFIRE](https://zenodo.org/record/5819064#.YfKFCYTMJhE) **| Forest dataset for semantic segmentation and data augmentation (Multispectral images, 3D LiDAR point clouds, Thermal images, GPS and IMU data, Depth and RGB images.)**
+* [SEMFIRE](https://zenodo.org/record/5819064#.YfKFCYTMJhE) **| Forest dataset for semantic segmentation and data augmentation (Multispectral images, 3D LiDAR point clouds, Thermal images, GPS and IMU data, Depth and RGB images)**
 * [MOTSynth](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=42) **| A huge dataset for pedestrian detection and tracking in urban scenarios**
+* [NeBula](https://github.com/NeBula-Autonomy/nebula-odometry-dataset) **| NeBula odometry dataset**
+* [ALITA](https://github.com/MetaSLAM/ALITA) **| A Large-scale Incremental Dataset for Long-term Autonomy**
+* [Argoverse 2](https://github.com/argoai/av2-api) **| The official GitHub repository for the Argoverse 2 dataset**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -267,6 +274,14 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Best Practices](https://github.com/leggedrobotics/ros_best_practices/wiki) | A loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS)
 * [ROS Noetic Tutorials](https://github.com/ros/ros_tutorials/tree/noetic-devel/roscpp_tutorials) | ROS tutorials
 * [MSCKF_VIO](https://github.com/KumarRobotics/msckf_vio) | Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+* [OSSDC-SIM](https://github.com/OSSDC/OSSDC-SIM) | An Autonomous Vehicle Simulator
+* [POLYSCOPE](https://github.com/nmwsharp/polyscope) | A C++/Python viewer and user interface for 3D data such as meshes and point clouds
+* [My Global Planner Plugin](https://github.com/smitdumore/My-Global-Planner/tree/master) | A Global planner plugin for move_base
+* [F110-MPC](https://github.com/smitdumore/f110-mpc) | Model predictive control in f1tenth simulator
+* [Planar Recon](https://github.com/neu-vi/planarrecon) | Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos
+* [LOCUS](https://github.com/NeBula-Autonomy/LOCUS) | A Multi-Sensor Lidar-Centric Solution for High-Precision Odometry and 3D Mapping in Real-Time
+* [MMS_SLAM](https://github.com/wh200720041/MMS_SLAM) | Multi-modal semantic SLAM in dynamic environments
+* [Fast LOAM](https://github.com/wh200720041/floam) | Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
