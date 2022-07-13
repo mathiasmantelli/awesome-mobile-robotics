@@ -282,6 +282,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LOCUS](https://github.com/NeBula-Autonomy/LOCUS) | A Multi-Sensor Lidar-Centric Solution for High-Precision Odometry and 3D Mapping in Real-Time
 * [MMS_SLAM](https://github.com/wh200720041/MMS_SLAM) | Multi-modal semantic SLAM in dynamic environments
 * [Fast LOAM](https://github.com/wh200720041/floam) | Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization
+* [Webviz](https://github.com/cruise-automation/webviz) | Web-based application for playback and visualization of ROS bag files
+* [CarlaSC](https://umich-curly.github.io/CarlaSC.github.io/) | A Data Set (CarlaSC) and Network (MotionSC) for Real-Time Semantic Mapping in Dynamic Environments
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
