@@ -434,3 +434,6 @@ Guanghui (Richard) Wang**
 * [Matcha](https://www.mathcha.io/editor) **| Online Mathematics Editor**
 * [Robot Hacking Manual](https://github.com/vmayoral/robot_hacking_manual) **| Papers, notes and writeups from a journey into robot cybersecurity**
 * [Black in Robotics](https://blackinrobotics.org/) **| Building Community, Advocating for Diversity, Encouraging Accountability**
+* [Quillbot](https://quillbot.com/) **| A free paraphrasing website**
+* [OtterAI](https://otter.ai/) **| An AI-powered tool that transcribes speech to text (in real-time)**
+* [Hemingway](https://hemingwayapp.com/) **| A website that grades writing for readability**
