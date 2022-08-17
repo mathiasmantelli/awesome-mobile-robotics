@@ -380,6 +380,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Tangram Vision Platform](https://www.tangramvision.com/) | It takes care of complex perception tasks like sensor fusion, calibration, and diagnostics so you can deploy autonomy with confidence
 * [Brisa Robotics](https://www.brisa.tech/) | At Brisa, we developed Windrose, a revolutionary solution to boost productivity in the Supply Chain world
 * [AutoAgri](https://autoagri.no) | AutoAgri are devoted to development and manufacturing of autonomous implement carriers.
+* [MUDDY MACHINES](https://www.muddymachines.com/) | The only field robot capable of delivering net-zero farming
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
