@@ -381,6 +381,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Brisa Robotics](https://www.brisa.tech/) | At Brisa, we developed Windrose, a revolutionary solution to boost productivity in the Supply Chain world
 * [AutoAgri](https://autoagri.no) | AutoAgri are devoted to development and manufacturing of autonomous implement carriers.
 * [MUDDY MACHINES](https://www.muddymachines.com/) | The only field robot capable of delivering net-zero farming
+* [ZiVID](https://www.zivid.com/) | Industrial 3D color cameras for pick and place robotics 
+* [Istituto Italiano di Tecnologia (iit)](http://www.iit.it) | A foundation established jointly by the Italian Ministry of Education, Universities and Research and the Ministry of Economy and Finance to promote excellence in basic and applied research and to contribute to the economic development of Italy
+* [ForwardX](https://en.forwardx.com/) | A global technology developer focused the Artificial Intelligence and its successful application to intelligent robotics
+* [AutoStore](https://www.autostoresystem.com/) | Warehouse Robots at Your Service
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
