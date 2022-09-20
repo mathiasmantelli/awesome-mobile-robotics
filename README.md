@@ -83,6 +83,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) **| DAIR.AI**
 * [Data Structure \& Algorithms 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words) **| Girliemac**
 * [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision) **| Dragonlong**
+* [Master Git list](https://twitter.com/NikkiSiapno/status/1559472755443220481) **| Master Git & GitHub**
+* [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms) **| A Picture is worth a 1000 words**
+* [Udacity's autonomous car](https://github.com/udacity/self-driving-car) **| The Udacity open source self-driving car project**
 
 
 ## Books
@@ -116,7 +119,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [CLEARPATH Simulation Environments](https://github.com/clearpathrobotics/cpr_gazebo) **| CLEARPATH's GAZEBO SIMULATION ENVIRONMENTS**
 * [FinnForest](https://etsin.fairdata.fi/dataset/06926f4b-b36a-4d6e-873c-aa3e7d84ab49) **| A Forest Landscape for Visual SLAM**
 * [Ford Autonomous Vehicles Dataset](https://avdata.ford.com/) **| A multi-agent seasonal dataset from Ford**
-* [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto**
+* [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto** 
 * [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
 * [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark datasets aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
 * [Waymo Open Dataset](https://waymo.com/open/data/?__s=4l8lmj4sp162iwy3z1p8) **| Waymo**
@@ -284,6 +287,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Fast LOAM](https://github.com/wh200720041/floam) | Fast and Optimized Lidar Odometry And Mapping for indoor/outdoor localization
 * [Webviz](https://github.com/cruise-automation/webviz) | Web-based application for playback and visualization of ROS bag files
 * [CarlaSC](https://umich-curly.github.io/CarlaSC.github.io/) | A Data Set (CarlaSC) and Network (MotionSC) for Real-Time Semantic Mapping in Dynamic Environments
+* [Acorn precision farming rover](https://github.com/Twisted-Fields/acorn-precision-farming-rover) | Acorn, the precision farming rover by Twisted Fields
+* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) | A curated list of awesome robot descriptions
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
