@@ -147,6 +147,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NeBula](https://github.com/NeBula-Autonomy/nebula-odometry-dataset) **| NeBula odometry dataset**
 * [ALITA](https://github.com/MetaSLAM/ALITA) **| A Large-scale Incremental Dataset for Long-term Autonomy**
 * [Argoverse 2](https://github.com/argoai/av2-api) **| The official GitHub repository for the Argoverse 2 dataset**
+* [Habitat Matterport 3D Semantics Dataset](https://aihabitat.org/datasets/hm3d-semantics/) **| The largest-ever dataset of semantically-annotated 3D indoor spaces**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
