@@ -86,6 +86,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Master Git list](https://twitter.com/NikkiSiapno/status/1559472755443220481) **| Master Git & GitHub**
 * [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms) **| A Picture is worth a 1000 words**
 * [Udacity's autonomous car](https://github.com/udacity/self-driving-car) **| The Udacity open source self-driving car project**
+* [Muhammad Luqman](https://www.youtube.com/channel/UC-QzGbqufzwncwPQlOJfUXw) **| Robotics Tutorials on YouTube by Muhammad**
+* [Hummingbird](https://www.youtube.com/channel/UCPN4BAonS7QhKI-tODaA9cA/videos) **| Life in Robotics and Technology**
 
 
 ## Books
@@ -290,6 +292,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [CarlaSC](https://umich-curly.github.io/CarlaSC.github.io/) | A Data Set (CarlaSC) and Network (MotionSC) for Real-Time Semantic Mapping in Dynamic Environments
 * [Acorn precision farming rover](https://github.com/Twisted-Fields/acorn-precision-farming-rover) | Acorn, the precision farming rover by Twisted Fields
 * [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) | A curated list of awesome robot descriptions
+* [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) | An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
