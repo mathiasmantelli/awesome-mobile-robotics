@@ -88,6 +88,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Udacity's autonomous car](https://github.com/udacity/self-driving-car) **| The Udacity open source self-driving car project**
 * [Muhammad Luqman](https://www.youtube.com/channel/UC-QzGbqufzwncwPQlOJfUXw) **| Robotics Tutorials on YouTube by Muhammad**
 * [Hummingbird](https://www.youtube.com/channel/UCPN4BAonS7QhKI-tODaA9cA/videos) **| Life in Robotics and Technology**
+* [ROS Tutorials by CLEARPATH](http://www.clearpathrobotics.com/assets/guides/melodic/ros/) **| Step-by-step tutorials on ROS by Clearpath**
 
 
 ## Books
