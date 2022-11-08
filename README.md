@@ -20,19 +20,19 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Courses
 * [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
-* [Sensors and State Estimation](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
+* [Mobile Sensing and Robotics - 2 ](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
 * [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) **| YouTube - Cyrill Stachniss**
 * [SLAM](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) **| YouTube - Cyrill Stachniss**
 * [Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C) **| YouTube - Cyrill Stachniss**
 * [Become a Robotics Software Engineer](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl_DVydJhS7TzeavJRTdIKV) **| YouTube -Udacity**
-* [Different playlists about ROS](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C) **| YouTube - The Construct**
+* [Different playlists about ROS](https://www.youtube.com/c/TheConstruct/playlists) **| YouTube - The Construct**
 * [A platform to learn/teach robotics from zero](https://www.theconstructsim.com/) **| The Construct**
 * [Autonomous Systems](https://www.udacity.com/school-of-autonomous-systems) **| Udacity**
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **| Udacity - Prof. Dr. Sebastian Thrun**
 * [C++ Essential Training](https://cpp.bw.org/) **| Bill Weinman**
 * [Slides of Computer Vision](http://www.cs.cornell.edu/courses/cs4670/2013fa/lectures/lectures.html) **| Lectures from Cornell - 2013**
 * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) **| Stanford University - Prof. Fei-Fei Li**
-* [Interval Analysis](https://mooc.ensta-bretagne.fr/enrol/index.php?id=2) **| IAMOOC - Prof. Luc Jaulin**
+* [Interval Analysis](https://www.ensta-bretagne.fr/jaulin/iamooc.html) **| IAMOOC - Prof. Luc Jaulin**
 * [Robot Mapping](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) **| University of Freiburg - Prof. Cyrill Stachniss**
 * [JAI: Robótica e Simulação com o V-REP](https://www.sites.google.com/site/vrepjai/home) **| CSBC - Julho 2015**
 * [Digital Image Processing](https://sisu.ut.ee/imageprocessing/avaleht) **| University of Tartu - Prof. Dr. Gholamreza Anbarjafari**
@@ -61,7 +61,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Introduction to ROS: The Robot Operating System](https://tiziano-school.thinkific.com/courses/introduction-to-ros-the-robot-operating-system) **| Tiziano's school**
 * [ROS Tutorials](https://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/ros/rostutorials.html) **| Erle Robotics**
 * [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/melodic/index.html) **| Industrial Training Exercises**
-* [ROS C++ Hello World](https://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/) **| Jonathan Bohren**
+* [ROS C++ Hello World](https://jbohren.com/articles/roscpp-hello-world) **| Jonathan Bohren**
+* [ROS2 C++ Hello World](https://jbohren.com/articles/rclcpp-hello-world) **| Jonathan Bohren**
 * [LearnOpencv](https://learnopencv.com/) **| Satya Mallick**
 * [Programming for Robotics](https://robotics.umich.edu/academic-program/courses/rob599-f19/) **| Acshi Haggenmiller (acshikh)**
 * [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) **| University of Michigan**
