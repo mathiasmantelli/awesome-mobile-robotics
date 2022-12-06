@@ -183,7 +183,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) | A physics-based simulation framework for physical human-robot interaction and robotic assistance
 * [Augmented LiDAR Simulator for Autonomous Driving](https://ras.papercept.net/proceedings/ICRA20/3056.pdf) | A novel LiDAR simulator that augments real point cloud with synthetic obstacles (e.g., vehicles, pedestrians, and other movable objects)
 * [LIRS World Construction Tool (LIRS-WCT)](https://gitlab.com/LIRS_Projects/LIRS-WCT) | A new efficient tool for creating a realistic 3D virtual environment of Gazebo world from an arbitrary 2D image or 2D LRF data
-* [Segments.ai](https://segments.ai/) | Labeling technology for image segmentation
+* [Segments.ai](https://segments.ai/) | 2D & 3D data labeling for robotics and autonomous vehicles. The platform for fast and accurate multi-sensor data annotation. Free academic license
 * [Docker](https://www.docker.com/) | Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers
 * [GBPlanner](https://github.com/unr-arl/gbplanner_ros) | aGBPlanner is a new software package for Graph-based exploration path planning
 * [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning
@@ -324,6 +324,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l) | **IEEE - Impact factor: 3.6**
 
 ## Companies and Jobs
+* [Segments.ai](https://segments.ai/) | Segments.ai is building the best labeling platform for robotics (2D and 3D annotation, multi-sensor annotation, ...)
 * [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence
 * [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly
 * [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google)
