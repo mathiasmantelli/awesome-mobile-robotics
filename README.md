@@ -90,6 +90,15 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Muhammad Luqman](https://www.youtube.com/channel/UC-QzGbqufzwncwPQlOJfUXw) **| Robotics Tutorials on YouTube by Muhammad**
 * [Hummingbird](https://www.youtube.com/channel/UCPN4BAonS7QhKI-tODaA9cA/videos) **| Life in Robotics and Technology**
 * [ROS Tutorials by CLEARPATH](http://www.clearpathrobotics.com/assets/guides/melodic/ros/) **| Step-by-step tutorials on ROS by Clearpath**
+* [Robótica Educacional](https://www.donkeycar.com/) **| Robótica Educacional Paraná**
+* [Roboflow Notebooks](https://github.com/roboflow/notebooks) **| Jupyter Notebooks with Computer Vision tutorials**
+* [Autonomous Driving Lecture](https://github.com/Mayakshanesht/Autonomous_Driving_Lecture_resources) **| Autonomous driving lecture resources by Mayakshanesht**
+* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) **| Collaborative Collection of C++ Best Practices**
+* [C++ Optimizations Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) | Tips and tricks to optimize your C++ code
+* [Visual SLAM Roadmap](https://github.com/changh95/visual-slam-roadmap) | Roadmap to becoming a Visual-SLAM developer in 2022 by @changh95
+* [Official Repository RVSS](https://github.com/Tobias-Fischer/RVSS) | Colab notebooks for the Robotic Vision Summer School by @Tobias-Fischer
+* [KF in Python](https://github.com/tbmoon/kalman_filter) | Kalman Filter in Python
+* [Self Driving Cars](https://github.com/qiaoxu123/Self-Driving-Cars) | Coursera Open Courses from University of Toronto
 
 
 ## Books
@@ -109,6 +118,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robótica Móvel](https://www.estantevirtual.com.br/livraria_pantheon/ltc-robotica-movel-2041555130) **| Roseli Romero, Edson Prestes, Fernando Osório, Denis Wolf**
 * [Computational Principles of Mobile Robotics](https://www.amazon.com/Computational-Principles-Mobile-Robotics-Gregory-ebook/dp/B00AKE1XGG/ref=sr_1_1?dchild=1&keywords=Computational+Principles+of+Mobile+Robotics&link_code=qs&qid=1606737935&sr=8-1&tag=wwwcanoniccom-20) **| Gregory Dudek, Michael Jenkin**
 * [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **| SPARL Lab**
+* [Think C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf) **| Allen B. Downey, 1999**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -152,6 +162,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ALITA](https://github.com/MetaSLAM/ALITA) **| A Large-scale Incremental Dataset for Long-term Autonomy**
 * [Argoverse 2](https://github.com/argoai/av2-api) **| The official GitHub repository for the Argoverse 2 dataset**
 * [Habitat Matterport 3D Semantics Dataset](https://aihabitat.org/datasets/hm3d-semantics/) **| The largest-ever dataset of semantically-annotated 3D indoor spaces**
+* [RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) **| A Multi-modal Dataset for Off-Road Robotics**
+* [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) **| A curated list of awesome datasets for SLAM**
+* [3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) **| Papers on 3D Object Detection for Autonomous Driving**
+* [Laser Line Extraction](https://github.com/kam3k/laser_line_extraction) **| A ROS package that extracts line segments from LaserScan messages**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -295,6 +309,13 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Acorn precision farming rover](https://github.com/Twisted-Fields/acorn-precision-farming-rover) | Acorn, the precision farming rover by Twisted Fields
 * [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) | A curated list of awesome robot descriptions
 * [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam) | An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR
+* [OpenVINS](https://github.com/rpng/open_vins) | Computer vision code along with a state-of-the art filter-based visual-inertial estimator
+* [PL-SLAM](https://github.com/yanyan-li/Structure-SLAM-PointLine) | Real-time monocular 3D SLAM system
+* [MRPT Project](https://github.com/MRPT/mrpt) | Mobile Robot Programming Toolkit provides C++ libraries aimed at researchers in mobile robotics and computer vision
+* [Rosbag Editor](https://github.com/facontidavide/rosbag_editor) | Create a rosbag from a given one, using a simple GUI by @facontidavide
+* [DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) | Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm
+* [READ](https://github.com/JOP-Lee/READ) | Large-Scale Neural Scene Rendering for Autonomous Driving
+* [3D Detection & Tracking Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) | View 3D object detection and tracking results
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
