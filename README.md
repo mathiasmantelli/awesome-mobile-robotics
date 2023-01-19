@@ -419,7 +419,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ForwardX](https://en.forwardx.com/) | A global technology developer focused the Artificial Intelligence and its successful application to intelligent robotics
 * [AutoStore](https://www.autostoresystem.com/) | Warehouse Robots at Your Service
 * [TORC](https://torc.ai/) | An autonomous vehicle leader since 2007, Torc is commercializing self-driving trucks for safe, sustained, long-haul innovation in the freight industry.
-* [NavVis](https://www.navvis.com/) | ridging the gap between the physical and digital world, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins.
+* [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital world, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins.
+* [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
