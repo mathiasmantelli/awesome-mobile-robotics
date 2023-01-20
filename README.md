@@ -316,6 +316,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [DCL-SLAM](https://github.com/PengYu-Team/DCL-SLAM) | Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm
 * [READ](https://github.com/JOP-Lee/READ) | Large-Scale Neural Scene Rendering for Autonomous Driving
 * [3D Detection & Tracking Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) | View 3D object detection and tracking results
+* [maplab](https://github.com/ethz-asl/maplab) | A Modular and Multi-Modal Mapping Framework
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
