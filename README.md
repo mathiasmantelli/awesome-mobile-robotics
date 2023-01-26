@@ -99,6 +99,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Official Repository RVSS](https://github.com/Tobias-Fischer/RVSS) | Colab notebooks for the Robotic Vision Summer School by @Tobias-Fischer
 * [KF in Python](https://github.com/tbmoon/kalman_filter) | Kalman Filter in Python
 * [Self Driving Cars](https://github.com/qiaoxu123/Self-Driving-Cars) | Coursera Open Courses from University of Toronto
+* [Coding Notes and Tutorials](https://github.com/methylDragon/coding-notes) | A compilation of tutorials and references for different coding languages and frameworks
+* [Introduction to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/) | Princeton University
 
 
 ## Books
@@ -119,6 +121,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Computational Principles of Mobile Robotics](https://www.amazon.com/Computational-Principles-Mobile-Robotics-Gregory-ebook/dp/B00AKE1XGG/ref=sr_1_1?dchild=1&keywords=Computational+Principles+of+Mobile+Robotics&link_code=qs&qid=1606737935&sr=8-1&tag=wwwcanoniccom-20) **| Gregory Dudek, Michael Jenkin**
 * [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **| SPARL Lab**
 * [Think C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf) **| Allen B. Downey, 1999**
+* [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) **| Francisco Martín Rico**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -166,6 +169,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) **| A curated list of awesome datasets for SLAM**
 * [3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) **| Papers on 3D Object Detection for Autonomous Driving**
 * [Laser Line Extraction](https://github.com/kam3k/laser_line_extraction) **| A ROS package that extracts line segments from LaserScan messages**
+* [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) **| A Ground Robot SLAM Dataset Focusing on Corner Cases and Sensor Failures**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -317,6 +321,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [READ](https://github.com/JOP-Lee/READ) | Large-Scale Neural Scene Rendering for Autonomous Driving
 * [3D Detection & Tracking Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) | View 3D object detection and tracking results
 * [maplab](https://github.com/ethz-asl/maplab) | A Modular and Multi-Modal Mapping Framework
+* [Kimera](https://github.com/MIT-SPARK/Kimera) | A C++ library for real-time metric-semantic SLAM
+* [ORB-SLAM3-RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) | RGB-LiDAR added to the ORB-SLAM3
+* [LiDAR Ground Mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) | A method to create high density ground maps for autonomous vehicles
+* [LiDAR to Image](https://github.com/alexandrx/lidar_cloud_to_image) | Conversion from 3D LiDAR pointcloud to images
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
