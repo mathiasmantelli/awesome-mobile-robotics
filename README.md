@@ -325,6 +325,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ORB-SLAM3-RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) | RGB-LiDAR added to the ORB-SLAM3
 * [LiDAR Ground Mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) | A method to create high density ground maps for autonomous vehicles
 * [LiDAR to Image](https://github.com/alexandrx/lidar_cloud_to_image) | Conversion from 3D LiDAR pointcloud to images
+* [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) | The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning library
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
