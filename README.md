@@ -101,6 +101,11 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Self Driving Cars](https://github.com/qiaoxu123/Self-Driving-Cars) | Coursera Open Courses from University of Toronto
 * [Coding Notes and Tutorials](https://github.com/methylDragon/coding-notes) | A compilation of tutorials and references for different coding languages and frameworks
 * [Introduction to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/) | Princeton University
+* [Michigan Robotics](https://robotics.umich.edu/academics/courses/online-courses/) | Michigan Robotics courses
+* [Sensor Fusion Tutorial](https://github.com/methylDragon/ros-sensor-fusion-tutorial/blob/master/01%20-%20ROS%20and%20Sensor%20Fusion%20Tutorial.md) | A tutorial for sensor fusion using the robot_localization package
+* [Coding Notes](https://github.com/methylDragon/coding-notes) | Coding notes in many programming languages by methylDragon
+* [Rosetta Launch](https://github.com/MetroRobots/rosetta_launch) | A guide to understanding launch files in ROS 1 and ROS 2
+* [Google Interview Preparation](https://github.com/mgechev/google-interview-preparation-problems) | Collection of problems and solutions of leetcode, geeksforgeeks challenges by mgechev
 
 
 ## Books
@@ -170,6 +175,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) **| Papers on 3D Object Detection for Autonomous Driving**
 * [Laser Line Extraction](https://github.com/kam3k/laser_line_extraction) **| A ROS package that extracts line segments from LaserScan messages**
 * [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) **| A Ground Robot SLAM Dataset Focusing on Corner Cases and Sensor Failures**
+* [LIDAR-CS](https://github.com/LiDAR-Perception/LiDAR-CS) **| LiDAR Dataset with Cross-Sensors**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -327,6 +333,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LiDAR to Image](https://github.com/alexandrx/lidar_cloud_to_image) | Conversion from 3D LiDAR pointcloud to images
 * [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) | The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies
 * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning library
+* [Dense Fusion](https://github.com/j96w/DenseFusion) | 6D Object Pose Estimation by Iterative Dense Fusion
+* [Monocular Quasi-Dense 3D Object Tracking](https://github.com/SysCV/qd-3dt) | Monocular Quasi-Dense 3D Object Tracking (QD-3DT)
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
