@@ -106,6 +106,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Coding Notes](https://github.com/methylDragon/coding-notes) | Coding notes in many programming languages by methylDragon
 * [Rosetta Launch](https://github.com/MetroRobots/rosetta_launch) | A guide to understanding launch files in ROS 1 and ROS 2
 * [Google Interview Preparation](https://github.com/mgechev/google-interview-preparation-problems) | Collection of problems and solutions of leetcode, geeksforgeeks challenges by mgechev
+* [Open-Source ROS Projects](https://robocademy.com/2020/10/15/open-source-ros-projects-from-ros-developer-learning-path/) | Open-Source ROS Projects from ROS Developer Learning Path by Lentin Joseph
+* [Autonomous Vehicle Control Beginners Guide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | Beginner's guide to learn basic way of thinking and representative algorithms for Autonomous Vehicle Control
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) | About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux
 
 
 ## Books
@@ -176,6 +180,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Laser Line Extraction](https://github.com/kam3k/laser_line_extraction) **| A ROS package that extracts line segments from LaserScan messages**
 * [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) **| A Ground Robot SLAM Dataset Focusing on Corner Cases and Sensor Failures**
 * [LIDAR-CS](https://github.com/LiDAR-Perception/LiDAR-CS) **| LiDAR Dataset with Cross-Sensors**
+* [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) **| The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -256,7 +261,6 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Yonohub](https://yonohub.com/) | A cloud-based system for designing, sharing, and evaluating complex systems, such as Autonomous Vehicles, ADAS, and Robotics
 * [SSL_SLAM2](https://github.com/wh200720041/ssl_slam2) | Lightweight 3-D Localization and Mapping for Solid-State LiDAR
 * [Lane Detection](https://github.com/amusi/awesome-lane-detection) | Papers, tutorials, and code about Lane Detection 
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux
 * [Crowd-SLAM](https://github.com/virgolinosoares/Crowd-SLAM) | A visual SLAM system that is robust in crowded scenarios
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) | A curated list of robotics simulators and libraries
 * [EVO: Event based Visual Odometry](https://github.com/uzh-rpg/rpg_dvs_evo_open) | EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time
@@ -335,6 +339,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning library
 * [Dense Fusion](https://github.com/j96w/DenseFusion) | 6D Object Pose Estimation by Iterative Dense Fusion
 * [Monocular Quasi-Dense 3D Object Tracking](https://github.com/SysCV/qd-3dt) | Monocular Quasi-Dense 3D Object Tracking (QD-3DT)
+* [LSD (LiDAR SLAM & Detection](https://github.com/w111liang222/lidar-slam-detection) | SD is an open source perception architecture for autonomous vehicle and robotics
+* [Segment Anything](https://github.com/facebookresearch/segment-anything) | A new task, model, and dataset for image segmentation
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
