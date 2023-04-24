@@ -341,6 +341,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Monocular Quasi-Dense 3D Object Tracking](https://github.com/SysCV/qd-3dt) | Monocular Quasi-Dense 3D Object Tracking (QD-3DT)
 * [LSD (LiDAR SLAM & Detection](https://github.com/w111liang222/lidar-slam-detection) | SD is an open source perception architecture for autonomous vehicle and robotics
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) | A new task, model, and dataset for image segmentation
+* [Dynablox](https://github.com/ethz-asl/dynablox) | An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments.
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
