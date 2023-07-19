@@ -110,6 +110,11 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Autonomous Vehicle Control Beginners Guide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | Beginner's guide to learn basic way of thinking and representative algorithms for Autonomous Vehicle Control
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) | About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux
+* [Awesome Papers of Autonomous Driving](https://github.com/ShenoyVaradaraya/awesome-papers-of-autonomous-driving) | Papers about Motion Planning, Control, Multi-Robot Systems, Perception, Ethics
+* [Pigeon ROS Tutorial](https://github.com/PigeonSensei/pigeon_ros_tutorial) | Provides a reference for ROS Robot Programming
+* [Introduction to Robotics and Perception](https://github.com/gtbook/robotics) | Introduction to Robotics and Perception by Frank Dellaert
+* [Programming for Robotics](https://robotics.umich.edu/academics/courses/online-courses/rob599-f19/) | University of Michigan, Acshi Haggenmiller (acshikh), PhD Candidate
+* 
 
 
 ## Books
@@ -131,6 +136,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **| SPARL Lab**
 * [Think C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf) **| Allen B. Downey, 1999**
 * [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) **| Francisco Martín Rico**
+* [Robotics, Vision & Control: 3rd edition in Python](https://github.com/petercorke/RVC3-python) **| Peter Corke, published by Springer-Nature 2023**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -181,6 +187,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) **| A Ground Robot SLAM Dataset Focusing on Corner Cases and Sensor Failures**
 * [LIDAR-CS](https://github.com/LiDAR-Perception/LiDAR-CS) **| LiDAR Dataset with Cross-Sensors**
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) **| The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators**
+* [Awesome RGB-D Datasets](https://github.com/alelopes/awesome-rgbd-datasets) **| A Survey on RGB-D Datasets**
+* [LINS -- LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) **| A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -341,7 +349,15 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Monocular Quasi-Dense 3D Object Tracking](https://github.com/SysCV/qd-3dt) | Monocular Quasi-Dense 3D Object Tracking (QD-3DT)
 * [LSD (LiDAR SLAM & Detection](https://github.com/w111liang222/lidar-slam-detection) | SD is an open source perception architecture for autonomous vehicle and robotics
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) | A new task, model, and dataset for image segmentation
-* [Dynablox](https://github.com/ethz-asl/dynablox) | An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments.
+* [Dynablox](https://github.com/ethz-asl/dynablox) | An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments
+* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) | C++ Functional Terminal User Interface
+* [All about ROS 2 and the new Gazebo](https://github.com/osrf/icra2023_ros2_gz_tutorial) | ICRA 2023 Tutorial on ROS 2 and the new Gazebo
+* [Vizanti - Web Visualizer & Mission Planner for ROS](https://github.com/MoffKalast/vizanti) | A mission planner and visualizer for controlling outdoor ROS robots
+* [Frontier Exploration](https://github.com/paulbovbel/frontier_exploration) | ROS Node and Costmap 2D plugin layer for frontier exploration
+* [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) | A list of engineering leadership resource links
+* [Groot 2](https://www.behaviortree.dev/groot/) | Integrated Development Environment to build and debug Behavior Trees
+* [GPS Waypoint-based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) | GPS points will be predefined in ROS-based robots to navigate to the destination avoiding obstacles
+* [DockerSLAM](https://github.com/HyeonJaeGil/DockerSLAM) | User-friendly Docker images for SLAM
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -505,3 +521,4 @@ Guanghui (Richard) Wang**
 * [Quillbot](https://quillbot.com/) **| A free paraphrasing website**
 * [OtterAI](https://otter.ai/) **| An AI-powered tool that transcribes speech to text (in real-time)**
 * [Hemingway](https://hemingwayapp.com/) **| A website that grades writing for readability**
+* [Awesome Robotic Deliberation](https://github.com/ros-wg-delib/awesome-ros-deliberation) **| A curated list of awesome tools, libraries and resources for deliberation in ROS 2**
