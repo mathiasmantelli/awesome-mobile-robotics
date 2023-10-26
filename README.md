@@ -114,7 +114,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Pigeon ROS Tutorial](https://github.com/PigeonSensei/pigeon_ros_tutorial) | Provides a reference for ROS Robot Programming
 * [Introduction to Robotics and Perception](https://github.com/gtbook/robotics) | Introduction to Robotics and Perception by Frank Dellaert
 * [Programming for Robotics](https://robotics.umich.edu/academics/courses/online-courses/rob599-f19/) | University of Michigan, Acshi Haggenmiller (acshikh), PhD Candidate
-* 
+* [List of Computer Science courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures
+* [Start Machine Learning](https://github.com/louisfb01/start-machine-learning) | A complete guide to start and improve in ML, AI by Louis-François Bouchard
+* [CPP Optimizations Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) | Tips and tricks to optimize your C++ code by Davide Faconti
 
 
 ## Books
@@ -137,6 +139,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Think C++](https://www.greenteapress.com/thinkcpp/thinkCScpp.pdf) **| Allen B. Downey, 1999**
 * [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) **| Francisco Martín Rico**
 * [Robotics, Vision & Control: 3rd edition in Python](https://github.com/petercorke/RVC3-python) **| Peter Corke, published by Springer-Nature 2023**
+* [SLAM Book](https://github.com/gaoxiang12/slambook-en) **| Xiang Gao**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -189,6 +192,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome LIDAR](https://github.com/szenergy/awesome-lidar) **| The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators**
 * [Awesome RGB-D Datasets](https://github.com/alelopes/awesome-rgbd-datasets) **| A Survey on RGB-D Datasets**
 * [LINS -- LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) **| A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter**
+* [OpenScene](https://github.com/OpenDriveLab/OpenScene) **| 3D Occupancy Prediction Benchmark in Autonomous Driving**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -201,7 +205,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robot Operating System (ROS) ](ros.org) | ROS
 * [Gazebo](http://gazebosim.org/) | Robot silumator
 * [RobWork](https://robwork.dk/#) | A Collection of C++ libraries for simulation and control of robot systems
-* [MRPT](https://www.mrpt.org/) | A obile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license
+* [MRPT](https://www.mrpt.org/) | A mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license
 * [Robotics Library](https://www.roboticslibrary.org/) | A self-contained C++ library for robot kinematics, motion planning and control
 * [Simbad](http://simbad.sourceforge.net/) | A Java 3d robot simulator for scientific and educationnal purposes
 * [Morse](https://www.openrobots.org/wiki/morse/) | A generic simulator for academic robotics
@@ -358,6 +362,11 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Groot 2](https://www.behaviortree.dev/groot/) | Integrated Development Environment to build and debug Behavior Trees
 * [GPS Waypoint-based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) | GPS points will be predefined in ROS-based robots to navigate to the destination avoiding obstacles
 * [DockerSLAM](https://github.com/HyeonJaeGil/DockerSLAM) | User-friendly Docker images for SLAM
+* [Motion planners implementations](https://github.com/zhm-real/MotionPlanning) | This repository implemented some common motion planners used on autonomous vehicles
+* [Awesome point cloud place recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) | List of papers about point cloud-based place recognition in SLAM
+* [Dear ROS Node Viewer](https://github.com/takeshi-iwanari/dear_ros_node_viewer) | Visualize ROS2 Node Graph
+* [Robo3D](https://github.com/ldkong1205/Robo3D) | Towards Robust and Reliable 3D Perception against Corruptions
+* [3DMR](https://github.com/luigifreda/3dmr) | 3D Multi-Robot Exploration, Patrolling and Navigation
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
