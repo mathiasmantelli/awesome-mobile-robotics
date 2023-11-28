@@ -504,6 +504,7 @@ Guanghui (Richard) Wang**
 * [Google's driverless car](https://www.ted.com/talks/sebastian_thrun_google_s_driverless_car#t-234889) **| TED - Prof. Sebastian Thrun**
 * [Women in US Academic Research in Robotics](https://us-women-in-robotics-research.github.io/) **| An active, monitored list of women with PhDs involved in US academic research in robotics** 
 * [SlideEgg](https://www.slideegg.com/free-powerpoint-templates) **| Free PowerPoint templates and Google Slides to enhance your Presentations**
+* [Slidone](https://www.slidone.com/) **| Interactive Presentation Software and Tools - Slidone**
 * [SlidesCarnival](https://www.slidescarnival.com/) **| Free PPT templates and Google Slides themes for presentations**
 * [SlidesGO](https://slidesgo.com/) **| Free Google Slides and PowerPoint templates to boost your presentations**
 * [Linguee](http://linguee.com/) **| Dictionary and translator (with context)**
