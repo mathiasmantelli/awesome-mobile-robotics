@@ -19,81 +19,81 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 ![](https://img.shields.io/github/stars/mathiasmantelli/all_about_robotics) ![](https://img.shields.io/github/forks/mathiasmantelli/all_about_robotics)
 
 ## Courses
-* [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) **| YouTube - Cyrill Stachniss**
-* [Mobile Sensing and Robotics - 2 ](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) **| YouTube - Cyrill Stachniss**
-* [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) **| YouTube - Cyrill Stachniss**
-* [SLAM](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) **| YouTube - Cyrill Stachniss**
-* [Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C) **| YouTube - Cyrill Stachniss**
-* [Become a Robotics Software Engineer](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl_DVydJhS7TzeavJRTdIKV) **| YouTube -Udacity**
-* [Different playlists about ROS](https://www.youtube.com/c/TheConstruct/playlists) **| YouTube - The Construct**
-* [A platform to learn/teach robotics from zero](https://www.theconstructsim.com/) **| The Construct**
-* [Autonomous Systems](https://www.udacity.com/school-of-autonomous-systems) **| Udacity**
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **| Udacity - Prof. Dr. Sebastian Thrun**
-* [C++ Essential Training](https://cpp.bw.org/) **| Bill Weinman**
-* [Slides of Computer Vision](http://www.cs.cornell.edu/courses/cs4670/2013fa/lectures/lectures.html) **| Lectures from Cornell - 2013**
-* [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) **| Stanford University - Prof. Fei-Fei Li**
-* [Interval Analysis](https://www.ensta-bretagne.fr/jaulin/iamooc.html) **| IAMOOC - Prof. Luc Jaulin**
-* [Robot Mapping](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) **| University of Freiburg - Prof. Cyrill Stachniss**
-* [JAI: Robótica e Simulação com o V-REP](https://www.sites.google.com/site/vrepjai/home) **| CSBC - Julho 2015**
-* [Digital Image Processing](https://sisu.ut.ee/imageprocessing/avaleht) **| University of Tartu - Prof. Dr. Gholamreza Anbarjafari**
-* [Tutorial on Visual Odometry](https://sites.google.com/site/scarabotix/tutorial-on-visual-odometry) **| University of Zurich - Prof. Davide Scaramuzza**
-* [Visual SLAM Tutorial](http://www.cs.cmu.edu/~kaess/vslam_cvpr14/) **| Frank Dellaert and Michael Kaess**
-* [Visual Odometry from scratch - A tutorial for beginners](https://avisingh599.github.io/vision/visual-odometry-full/) **| Avi Singh's blog**
-* [Aerial Robot Courses](http://www.kostasalexis.com/courses.html) **| University of Nevada - Dr. Kostas Alexis**
-* [Stereo Vision Tutorial](http://mccormickml.com/2014/01/10/stereo-vision-tutorial-part-i/) **| Chris McCormick**
-* [Different ROS courses](https://www.udemy.com/courses/search/?q=ROS) **| Udemy**
-* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss21/robotics/) **| University of Freiburg - Prof. Dr. Wolfram Burgard**
-* [GaiTech EDU](https://edu.gaitech.hk/) **| Educational website on Robot Operating System (ROS)**
-* [Robocademy](https://robocademy.com/) **| ROS Course from Lentin Joseph**
-* [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) **| Delft University of Technology - edX**
-* [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) **| The Autoware Foundation**
-* [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html) **|ETH Zurich - Robotics System Lab**
-* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) **| Aristotle University of Thessaloniki - Prof. I. Pitas**
-* [Think Autonomous](https://courses.thinkautonomous.ai/) **| Jeremy Cohen**
-* [PyImageSearch](https://www.pyimagesearch.com/) **| Adrian Rosebrock**
-* [DuckieTown](https://www.duckietown.org/) **| Learning Autonomy**
-* [Machine Learning](https://www.coursera.org/learn/machine-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
-* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?__s=4l8lmj4sp162iwy3z1p8) **| Stanford - Andrew Ng**
-* [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) **| Satya Mallick**
-* [Awesome Self-Driving](https://github.com/Sid1057/awesome-self-driving) **| Ivan Deylid**
-* [Principles of Computer Vision](https://fpcv.cs.columbia.edu/) **| Shree K. Nayar**
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) **| Jia-Bin Huang**
-* [Introduction to ROS: The Robot Operating System](https://tiziano-school.thinkific.com/courses/introduction-to-ros-the-robot-operating-system) **| Tiziano's school**
-* [ROS Tutorials](https://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/ros/rostutorials.html) **| Erle Robotics**
-* [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/melodic/index.html) **| Industrial Training Exercises**
-* [ROS C++ Hello World](https://jbohren.com/articles/roscpp-hello-world) **| Jonathan Bohren**
-* [ROS2 C++ Hello World](https://jbohren.com/articles/rclcpp-hello-world) **| Jonathan Bohren**
-* [LearnOpencv](https://learnopencv.com/) **| Satya Mallick**
-* [Programming for Robotics](https://robotics.umich.edu/academic-program/courses/rob599-f19/) **| Acshi Haggenmiller (acshikh)**
-* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) **| University of Michigan**
-* [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) **| Red Blob Games**
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) **| Developer-Y**
-* [Common Path Planning Algorithms](https://github.com/KamalanathanN/PathPlanning) **| KamalanathanN**
-* [PyVisualOdometry](https://github.com/polygon-software/python-visual-odometry) **| Polygon-Software**
-* [KITTI Odometry in Python and OpenCV](https://github.com/FoamoftheSea/KITTI_visual_odometry) **| Nate Cibik**
-* [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) **| OpenMVG**
-* [ROS Autonomous Driving and Path Planning SLAM with TurtleBot3](https://github.com/noshluk2/ROS-Autonomous-Driving-and-Path-Planning-SLAM-with-TurtleBot) **| Muhammad Luqman**
-* [ROS2 Ultimate learners Repository with Supporting Documentation](https://github.com/noshluk2/ROS2-Ultimate-learners-Repository) **| Muhammad Luqman**
-* [ROS2 C++ learning](https://github.com/dottantgal/ROS2_learning) **| Antonio Mauro Galiano**
-* [F1TENTH](https://f1tenth.readthedocs.io/en/foxy_test/index.html) **| F1TENTH Autonomous Racing Community**
-* [ROS Industrial Training](https://github.com/ros-industrial/industrial_training) **| ROS Industrial**
-* [ROS Book Sample Code](https://github.com/gbiggs/ros_book_sample_code) **| Programming Robots with ROS**
-* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) **| CPP Best Practices**
-* [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) **| Modern C++ Cheatsheet**
-* [Computer Vision](https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/) **| Prof. Kosta Derpanis**
-* [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) **| DAIR.AI**
-* [Data Structure \& Algorithms 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words) **| Girliemac**
-* [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision) **| Dragonlong**
-* [Master Git list](https://twitter.com/NikkiSiapno/status/1559472755443220481) **| Master Git & GitHub**
-* [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms) **| A Picture is worth a 1000 words**
-* [Udacity's autonomous car](https://github.com/udacity/self-driving-car) **| The Udacity open source self-driving car project**
-* [Muhammad Luqman](https://www.youtube.com/channel/UC-QzGbqufzwncwPQlOJfUXw) **| Robotics Tutorials on YouTube by Muhammad**
-* [Hummingbird](https://www.youtube.com/channel/UCPN4BAonS7QhKI-tODaA9cA/videos) **| Life in Robotics and Technology**
-* [ROS Tutorials by CLEARPATH](http://www.clearpathrobotics.com/assets/guides/melodic/ros/) **| Step-by-step tutorials on ROS by Clearpath**
-* [Robótica Educacional](https://www.donkeycar.com/) **| Robótica Educacional Paraná**
-* [Roboflow Notebooks](https://github.com/roboflow/notebooks) **| Jupyter Notebooks with Computer Vision tutorials**
-* [Autonomous Driving Lecture](https://github.com/Mayakshanesht/Autonomous_Driving_Lecture_resources) **| Autonomous driving lecture resources by Mayakshanesht**
-* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) **| Collaborative Collection of C++ Best Practices**
+* [Mobile Sensing and Robotics](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v) | YouTube - Cyrill Stachniss
+* [Mobile Sensing and Robotics - 2 ](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) | YouTube - Cyrill Stachniss
+* [Photogrametry](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1) | YouTube - Cyrill Stachniss
+* [SLAM](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) | YouTube - Cyrill Stachniss
+* [Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C) | YouTube - Cyrill Stachniss
+* [Become a Robotics Software Engineer](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl_DVydJhS7TzeavJRTdIKV) | YouTube -Udacity
+* [Different playlists about ROS](https://www.youtube.com/c/TheConstruct/playlists) | YouTube - The Construct
+* [A platform to learn/teach robotics from zero](https://www.theconstructsim.com/) | The Construct
+* [Autonomous Systems](https://www.udacity.com/school-of-autonomous-systems) | Udacity
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) | Udacity - Prof. Dr. Sebastian Thrun
+* [C++ Essential Training](https://cpp.bw.org/) | Bill Weinman
+* [Slides of Computer Vision](http://www.cs.cornell.edu/courses/cs4670/2013fa/lectures/lectures.html) | Lectures from Cornell - 2013
+* [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1415/index.html) | Stanford University - Prof. Fei-Fei Li
+* [Interval Analysis](https://www.ensta-bretagne.fr/jaulin/iamooc.html) | IAMOOC - Prof. Luc Jaulin
+* [Robot Mapping](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) | University of Freiburg - Prof. Cyrill Stachniss
+* [JAI: Robótica e Simulação com o V-REP](https://www.sites.google.com/site/vrepjai/home) | CSBC - Julho 2015
+* [Digital Image Processing](https://sisu.ut.ee/imageprocessing/avaleht) | University of Tartu - Prof. Dr. Gholamreza Anbarjafari
+* [Tutorial on Visual Odometry](https://sites.google.com/site/scarabotix/tutorial-on-visual-odometry) | University of Zurich - Prof. Davide Scaramuzza
+* [Visual SLAM Tutorial](http://www.cs.cmu.edu/~kaess/vslam_cvpr14/) | Frank Dellaert and Michael Kaess
+* [Visual Odometry from scratch - A tutorial for beginners](https://avisingh599.github.io/vision/visual-odometry-full/) | Avi Singh's blog
+* [Aerial Robot Courses](http://www.kostasalexis.com/courses.html) | University of Nevada - Dr. Kostas Alexis
+* [Stereo Vision Tutorial](http://mccormickml.com/2014/01/10/stereo-vision-tutorial-part-i/) | Chris McCormick
+* [Different ROS courses](https://www.udemy.com/courses/search/?q=ROS) | Udemy
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss21/robotics/) | University of Freiburg - Prof. Dr. Wolfram Burgard
+* [GaiTech EDU](https://edu.gaitech.hk/) | Educational website on Robot Operating System (ROS)
+* [Robocademy](https://robocademy.com/) | ROS Course from Lentin Joseph
+* [Hello (Real) World with ROS](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system) | Delft University of Technology - edX
+* [Self-Driving Cars with ROS and Autoware](https://www.autoware.org/awf-course) | The Autoware Foundation
+* [Programming for Robotics - ROS](https://rsl.ethz.ch/education-students/lectures/ros.html) |ETH Zurich - Robotics System Lab
+* [CVML knowledge self-assessment](https://aiia.csd.auth.gr/cvml-knowledge-self-assessment/) | Aristotle University of Thessaloniki - Prof. I. Pitas
+* [Think Autonomous](https://courses.thinkautonomous.ai/) | Jeremy Cohen
+* [PyImageSearch](https://www.pyimagesearch.com/) | Adrian Rosebrock
+* [DuckieTown](https://www.duckietown.org/) | Learning Autonomy
+* [Machine Learning](https://www.coursera.org/learn/machine-learning?__s=4l8lmj4sp162iwy3z1p8) | Stanford - Andrew Ng
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?__s=4l8lmj4sp162iwy3z1p8) | Stanford - Andrew Ng
+* [OpenCV: C++ and Python](https://github.com/spmallick/learnopencv) | Satya Mallick
+* [Awesome Self-Driving](https://github.com/Sid1057/awesome-self-driving) | Ivan Deylid
+* [Principles of Computer Vision](https://fpcv.cs.columbia.edu/) | Shree K. Nayar
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) | Jia-Bin Huang
+* [Introduction to ROS: The Robot Operating System](https://tiziano-school.thinkific.com/courses/introduction-to-ros-the-robot-operating-system) | Tiziano's school
+* [ROS Tutorials](https://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/ros/rostutorials.html) | Erle Robotics
+* [ROS Industrial Training](https://industrial-training-master.readthedocs.io/en/melodic/index.html) | Industrial Training Exercises
+* [ROS C++ Hello World](https://jbohren.com/articles/roscpp-hello-world) | Jonathan Bohren
+* [ROS2 C++ Hello World](https://jbohren.com/articles/rclcpp-hello-world) | Jonathan Bohren
+* [LearnOpencv](https://learnopencv.com/) | Satya Mallick
+* [Programming for Robotics](https://robotics.umich.edu/academic-program/courses/rob599-f19/) | Acshi Haggenmiller (acshikh)
+* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) | University of Michigan
+* [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) | Red Blob Games
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md) | Developer-Y
+* [Common Path Planning Algorithms](https://github.com/KamalanathanN/PathPlanning) | KamalanathanN
+* [PyVisualOdometry](https://github.com/polygon-software/python-visual-odometry) | Polygon-Software
+* [KITTI Odometry in Python and OpenCV](https://github.com/FoamoftheSea/KITTI_visual_odometry) | Nate Cibik
+* [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list#mesh-storage-processing) | OpenMVG
+* [ROS Autonomous Driving and Path Planning SLAM with TurtleBot3](https://github.com/noshluk2/ROS-Autonomous-Driving-and-Path-Planning-SLAM-with-TurtleBot) | Muhammad Luqman
+* [ROS2 Ultimate learners Repository with Supporting Documentation](https://github.com/noshluk2/ROS2-Ultimate-learners-Repository) | Muhammad Luqman
+* [ROS2 C++ learning](https://github.com/dottantgal/ROS2_learning) | Antonio Mauro Galiano
+* [F1TENTH](https://f1tenth.readthedocs.io/en/foxy_test/index.html) | F1TENTH Autonomous Racing Community
+* [ROS Industrial Training](https://github.com/ros-industrial/industrial_training) | ROS Industrial
+* [ROS Book Sample Code](https://github.com/gbiggs/ros_book_sample_code) | Programming Robots with ROS
+* [CPP Best Practices](https://github.com/cpp-best-practices/cppbestpractices) | CPP Best Practices
+* [C++ Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) | Modern C++ Cheatsheet
+* [Computer Vision](https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/) | Prof. Kosta Derpanis
+* [Machine Learning Course Notes](https://github.com/dair-ai/ML-Course-Notes) | DAIR.AI
+* [Data Structure \& Algorithms 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | Girliemac
+* [Trending in 3D Vision](https://github.com/dragonlong/Trending-in-3D-Vision) | Dragonlong
+* [Master Git list](https://twitter.com/NikkiSiapno/status/1559472755443220481) | Master Git & GitHub
+* [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms) | A Picture is worth a 1000 words
+* [Udacity's autonomous car](https://github.com/udacity/self-driving-car) | The Udacity open source self-driving car project
+* [Muhammad Luqman](https://www.youtube.com/channel/UC-QzGbqufzwncwPQlOJfUXw) | Robotics Tutorials on YouTube by Muhammad
+* [Hummingbird](https://www.youtube.com/channel/UCPN4BAonS7QhKI-tODaA9cA/videos) | Life in Robotics and Technology
+* [ROS Tutorials by CLEARPATH](http://www.clearpathrobotics.com/assets/guides/melodic/ros/) | Step-by-step tutorials on ROS by Clearpath
+* [Robótica Educacional](https://www.donkeycar.com/) | Robótica Educacional Paraná
+* [Roboflow Notebooks](https://github.com/roboflow/notebooks) | Jupyter Notebooks with Computer Vision tutorials
+* [Autonomous Driving Lecture](https://github.com/Mayakshanesht/Autonomous_Driving_Lecture_resources) | Autonomous driving lecture resources by Mayakshanesht
+* [C++ Best Practices](https://github.com/cpp-best-practices/cppbestpractices) | Collaborative Collection of C++ Best Practices
 * [C++ Optimizations Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) | Tips and tricks to optimize your C++ code
 * [Visual SLAM Roadmap](https://github.com/changh95/visual-slam-roadmap) | Roadmap to becoming a Visual-SLAM developer in 2022 by @changh95
 * [Official Repository RVSS](https://github.com/Tobias-Fischer/RVSS) | Colab notebooks for the Robotic Vision Summer School by @Tobias-Fischer
@@ -107,7 +107,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Rosetta Launch](https://github.com/MetroRobots/rosetta_launch) | A guide to understanding launch files in ROS 1 and ROS 2
 * [Google Interview Preparation](https://github.com/mgechev/google-interview-preparation-problems) | Collection of problems and solutions of leetcode, geeksforgeeks challenges by mgechev
 * [Open-Source ROS Projects](https://robocademy.com/2020/10/15/open-source-ros-projects-from-ros-developer-learning-path/) | Open-Source ROS Projects from ROS Developer Learning Path by Lentin Joseph
-* [Autonomous Vehicle Control Beginners Guide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | Beginner's guide to learn basic way of thinking and representative algorithms for Autonomous Vehicle Control
+* [Autonomous Vehicle Control Beginners Guide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | Beginner's guide to learning the basic way of thinking and representative algorithms for Autonomous Vehicle Control
 * [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) | About Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 * [Awesome Robotics](https://github.com/kiloreux/awesome-robotics/blob/master/README.md) | Huge awesome list for robotics by kiloreux
 * [Awesome Papers of Autonomous Driving](https://github.com/ShenoyVaradaraya/awesome-papers-of-autonomous-driving) | Papers about Motion Planning, Control, Multi-Robot Systems, Perception, Ethics
@@ -117,7 +117,13 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [List of Computer Science courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures
 * [Start Machine Learning](https://github.com/louisfb01/start-machine-learning) | A complete guide to start and improve in ML, AI by Louis-François Bouchard
 * [CPP Optimizations Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) | Tips and tricks to optimize your C++ code by Davide Faconti
-
+* [Python course](https://github.com/caveofprogramming/PythonCourse) | Code for Python and Machine Learning for Complete Beginners
+* [C++ for Beginners](https://github.com/caveofprogramming/cplusplus-beginners) | Code for C++ for Beginners
+* [Advanced C++](https://github.com/caveofprogramming/advanced-cplusplus) | Code for Advanced C++ course
+* [JPL Open Source Rover Project](https://open-source-rover.readthedocs.io/en/latest/) | An open-source, build-it-yourself, scaled-down version of the 6-wheel rover design that JPL uses to explore the surface of Mars
+* [F1TENTH - Course Documentation](https://f1tenth.org/learn.html) | An open-source project developed by a community of researchers and students
+* [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20)
+* [Modern Robotics Course](https://github.com/madibabaiasl/modern-robotics-course/wiki) | The lessons for Modern Robotics Course
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -140,6 +146,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2) **| Francisco Martín Rico**
 * [Robotics, Vision & Control: 3rd edition in Python](https://github.com/petercorke/RVC3-python) **| Peter Corke, published by Springer-Nature 2023**
 * [SLAM Book](https://github.com/gaoxiang12/slambook-en) **| Xiang Gao**
+* [Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards](https://meetingcpp.com/mcpp/books/book.php?hash=1b684cbeaf31e20aeb11a38ecf609a98c18275e6) **| Slobodan Dmitrović**
+* [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914) **| David Farley**
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?crid=2GMXZ8XVIPB6Y&keywords=Clean+code&qid=1677334476&s=books&sprefix=clean+code,stripbooks-intl-ship,173&sr=1-1&linkCode=sl1&tag=milanmilanovi-20&linkId=74e525b03cac9d367a3c8e0bef183e12&language=en_US&ref_=as_li_ss_tl) **| Robert C. Martin**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -156,7 +165,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Ford Autonomous Vehicles Dataset](https://avdata.ford.com/) **| A multi-agent seasonal dataset from Ford**
 * [ENAV planetary Dataset](https://github.com/utiasSTARS/enav-planetary-dataset) **| Space and Terrestrial Autonomous Robotic Systems (STARS) Laboratory, University of Toronto** 
 * [Udacity Self-Driving Car](https://github.com/udacity/self-driving-car/tree/master/datasets) **| Udacity**
-* [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark datasets aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
+* [Long-term Visual Localization](https://www.visuallocalization.net/) **| A benchmark dataset aimed at evaluating 6 DoF pose estimation accuracy, Chalmers University of Technology**
 * [Waymo Open Dataset](https://waymo.com/open/data/?__s=4l8lmj4sp162iwy3z1p8) **| Waymo**
 * [ASTYX HiReS2019](https://www.astyx.com/development/astyx-hires2019-dataset.html?__s=4l8lmj4sp162iwy3z1p8) **| ASTYX**
 * [Berkeley DeepDrive (BDD)](https://bdd-data.berkeley.edu/?__s=4l8lmj4sp162iwy3z1p8) **| Berkeley**
@@ -171,10 +180,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets) **| A collection of SLAM-related datasets**
 * [The Hilti SLAM-Challenge](https://www.hilti-challenge.com/dataset.html) **| A collection of ROSBags with different sensor readings**
 * [Omnidata](https://omnidata.vision/) **| A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans**
-* [RGB-D SLAM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| RGB-D data and ground-truth data with the goal to establish a novel benchmark for the evaluation of visual odometry and visual SLAM systems**
+* [RGB-D SLAM Dataset](https://vision.in.tum.de/data/datasets/rgbd-dataset) **| RGB-D data and ground-truth data to establish a novel benchmark for the evaluation of visual odometry and visual SLAM systems**
 * [Mix3D](https://kumuji.github.io/mix3d/) **| Out-of-Context Data Augmentation for 3D Scenes**
 * [Large Scale dataset for indoor localization](http://vision.ia.ac.cn/Faculty/wgao/data_code/data_indoor_localizaiton/data_indoor_localization.htm) **| A large scale dataset for indoor visual localization with high precise ground truth**
-* [nuReality](https://nureality.org/) **| An open source novel virtual reality environment designed to test the interactions between pedestrians and autonomous vehicles**
+* [nuReality](https://nureality.org/) **| An open-source novel virtual reality environment designed to test the interactions between pedestrians and autonomous vehicles**
 * [Blend Swap](https://blendswap.com/categories) **| 3D models for simulation**
 * [ARKitScenes](https://github.com/apple/ARKitScenes) **| Real-World Dataset for 3D Indoor Scene Understanding Using Mobile RGB-D Data**
 * [SEMFIRE](https://zenodo.org/record/5819064#.YfKFCYTMJhE) **| Forest dataset for semantic segmentation and data augmentation (Multispectral images, 3D LiDAR point clouds, Thermal images, GPS and IMU data, Depth and RGB images)**
@@ -193,28 +202,31 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome RGB-D Datasets](https://github.com/alelopes/awesome-rgbd-datasets) **| A Survey on RGB-D Datasets**
 * [LINS -- LiDAR-inertial-SLAM](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM) **| A Lidar-Inertial State Estimator for Robust and Efficient Navigation based on iterated error-state Kalman filter**
 * [OpenScene](https://github.com/OpenDriveLab/OpenScene) **| 3D Occupancy Prediction Benchmark in Autonomous Driving**
+* [Awesome 3D LiDAR Datasets](https://github.com/minwoo0611/Awesome-3D-LiDAR-Datasets) **| A collection for public 3D LiDAR datasets**
+* [CritrusFarm Dataset](https://ucr-robotics.github.io/Citrus-Farm-Dataset/) **| A multimodal agricultural robotics dataset that provides both multispectral images and navigational sensor data for localization, mapping and crop monitoring tasks**
+* [Terrasentia Dataset](https://github.com/jrcuaranv/terrasentia-dataset) **| A dataset for evaluation of visual-based localization and mapping systems in agriculture**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
 * [OpenCV 3.4.0 + Contrib](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/) | For Ubuntu 18.04 - pyimagesearch
 * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) | University of Zaragoza - Raúl Mur Artal
 * [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) | University of Zaragoza - Raúl Mur Artal
-* [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) | A modified ORB_SLAM2 with a online point cloud map module running in RGB-D mode
+* [ORB-SLAM2 Point Cloud](https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map) | A modified ORB_SLAM2 with an online point cloud map module running in RGB-D mode
 * [ORB-SLAM2 Save/Load Map](https://github.com/Alkaid-Benetnash/ORB_SLAM2) | A modified ORB_SLAM2 with a the save/load map feature enabled
 * [DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) | A complete robust semantic SLAM system, which could reduce the influence of dynamic objects on pose estimation
 * [Robot Operating System (ROS) ](ros.org) | ROS
 * [Gazebo](http://gazebosim.org/) | Robot silumator
 * [RobWork](https://robwork.dk/#) | A Collection of C++ libraries for simulation and control of robot systems
-* [MRPT](https://www.mrpt.org/) | A mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license
+* [MRPT](https://www.mrpt.org/) | A Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source, released under the BSD license
 * [Robotics Library](https://www.roboticslibrary.org/) | A self-contained C++ library for robot kinematics, motion planning and control
 * [Simbad](http://simbad.sourceforge.net/) | A Java 3d robot simulator for scientific and educationnal purposes
 * [Morse](https://www.openrobots.org/wiki/morse/) | A generic simulator for academic robotics
-* [Carmen](http://carmen.sourceforge.net/) | an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping
+* [Carmen](http://carmen.sourceforge.net/) | an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping
 * [Peekabot](http://www.peekabot.org/) | A real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily
 * [YARP](http://www.yarp.it/) | Yet Another Robot Platform
 * [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver
-* [Webots](https://www.cyberbotics.com/overview) | a development environment used to model, program and simulate mobile robots
-* [Drake](http://drake.mit.edu/) | A planning, control and analysis toolbox for nonlinear dynamical systems
+* [Webots](https://www.cyberbotics.com/overview) | a development environment used to model, program, and simulate mobile robots
+* [Drake](http://drake.mit.edu/) | A planning, control, and analysis toolbox for nonlinear dynamical systems
 * [Neurorobotics Platform (NRP)](http://131.159.60.234/fileadmin/platform/) | An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks
 * [The Player Project](http://playerstage.sourceforge.net/) | Free Software tools for robot and sensor applications
 * [AirSim](https://github.com/Microsoft/AirSim) | A simulator for drones (and soon other vehicles) built on Unreal Engine
@@ -225,7 +237,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Augmented LiDAR Simulator for Autonomous Driving](https://ras.papercept.net/proceedings/ICRA20/3056.pdf) | A novel LiDAR simulator that augments real point cloud with synthetic obstacles (e.g., vehicles, pedestrians, and other movable objects)
 * [LIRS World Construction Tool (LIRS-WCT)](https://gitlab.com/LIRS_Projects/LIRS-WCT) | A new efficient tool for creating a realistic 3D virtual environment of Gazebo world from an arbitrary 2D image or 2D LRF data
 * [Segments.ai](https://segments.ai/) | 2D & 3D data labeling for robotics and autonomous vehicles. The platform for fast and accurate multi-sensor data annotation. Free academic license
-* [Docker](https://www.docker.com/) | Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers
+* [Docker](https://www.docker.com/) | Docker is a set of platform-as-a-service products that uses OS-level virtualization to deliver software in packages called containers
 * [GBPlanner](https://github.com/unr-arl/gbplanner_ros) | aGBPlanner is a new software package for Graph-based exploration path planning
 * [MBPlanner](https://github.com/unr-arl/mbplanner_ros) | A ROS software package for Motion Primitives-based Exploration Path Planning
 * [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) | A uncertainty-aware semantic segmentation of a full 3D LiDAR point cloud in real-time
@@ -243,19 +255,19 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments
 * [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group
 * [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization
-* [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and it's different implementations
+* [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and its different implementations
 * [GTSAM](https://github.com/borglab/gtsam) | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
 * [iSAM](https://github.com/ori-drs/isam) | A range of existing functionality for least-squares optimization, focused on the SLAM problem
 * [Bag of Visual Words](https://github.com/ovysotska/in_simple_english/blob/master/bag_of_visual_words.ipynb) | Bag of Visual Words from Olga Vysotska
 * [Small projects to clarify big concepts](https://github.com/ovysotska/in_simple_english) | Explanation of concepts from Olga Vysotska
 * [3DWarehouse](https://3dwarehouse.sketchup.com/) | The place to share and download SketchUp 3D models for architecture, design, construction, and fun
 * [3DGEMS](http://data.nvision2.eecs.yorku.ca/3DGEMS/) | 3D Gazebo Models
-* [Ignition](https://ignitionrobotics.org/home) |  A collection of open source software libraries designed to simplify development of high-performance applications
+* [Ignition](https://ignitionrobotics.org/home) |  A collection of open-source software libraries designed to simplify the development of high-performance applications
 * [robosuite](https://github.com/ARISE-Initiative/robosuite) |  A simulation framework powered by the MuJoCo physics engine for robot learning
 * [GMMLoc](https://github.com/hyhuang1995/gmmloc/) | Dense Map Based Visual Localization
 * [ROS Robots](https://robots.ros.org/) | A site to showcase robots using ROS
-* [MoveIt](https://github.com/ros-planning/moveit) | An open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms
-* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) | A high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles
+* [MoveIt](https://github.com/ros-planning/moveit) | An open-source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms
+* [Apollo](https://github.com/ApolloAuto/apollo/tree/r5.5.0?__s=4l8lmj4sp162iwy3z1p8) | A high-performance, flexible architecture that accelerates the development, testing, and deployment of Autonomous Vehicles
 * [hdcp_planning](https://github.com/UCR-Robotics/hdcp_planning) | An online Hex-Decomposed Coverage Planning (HDCP) algorithm
 * [Freetures](https://github.com/alexmillane/freetures) | Localization in Signed Distance Function submaps
 * [BALM](https://github.com/hku-mars/BALM) | Bundle Adjustment for Lidar Mapping
@@ -307,7 +319,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Clober](https://github.com/CLOBOT-Co-Ltd/clober#multiple-clober) | Clober is a next-generation robot research platform from Clobot that is specifically targeting research systems that require multi-robot hardware possible to attach and detach accessories
 * [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping) | Robot-centric elevation mapping for rough terrain navigation
 * [Terrain Mapping](https://github.com/mstoelzle/solving-occlusion) | Solving Occlusion in Terrain Mapping with Neural Networks
-* [GPS Waypoint Based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) | GPS points will be predefined in ROS based robots to navigate to the destination avoiding obstacles
+* [GPS Waypoint Based Autonomous Navigation in ROS](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) | GPS points will be predefined in ROS-based robots to navigate to the destination avoiding obstacles
 * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 * [NICE-SLAM](https://github.com/cvg/nice-slam) | Neural Implicit Scalable Encoding for 3D SLAM
 * [SOLD2](https://github.com/cvg/SOLD2) | Joint deep network for feature line detection and description
@@ -348,10 +360,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [LiDAR Ground Mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) | A method to create high density ground maps for autonomous vehicles
 * [LiDAR to Image](https://github.com/alexandrx/lidar_cloud_to_image) | Conversion from 3D LiDAR pointcloud to images
 * [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) | The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies
-* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning library
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning Library
 * [Dense Fusion](https://github.com/j96w/DenseFusion) | 6D Object Pose Estimation by Iterative Dense Fusion
 * [Monocular Quasi-Dense 3D Object Tracking](https://github.com/SysCV/qd-3dt) | Monocular Quasi-Dense 3D Object Tracking (QD-3DT)
-* [LSD (LiDAR SLAM & Detection](https://github.com/w111liang222/lidar-slam-detection) | SD is an open source perception architecture for autonomous vehicle and robotics
+* [LSD (LiDAR SLAM & Detection](https://github.com/w111liang222/lidar-slam-detection) | SD is an open-source perception architecture for autonomous vehicle and robotics
 * [Segment Anything](https://github.com/facebookresearch/segment-anything) | A new task, model, and dataset for image segmentation
 * [Dynablox](https://github.com/ethz-asl/dynablox) | An online volumetric mapping-based approach for real-time detection of diverse dynamic objects in complex environments
 * [FTXUI](https://github.com/ArthurSonzogni/FTXUI) | C++ Functional Terminal User Interface
@@ -367,6 +379,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Dear ROS Node Viewer](https://github.com/takeshi-iwanari/dear_ros_node_viewer) | Visualize ROS2 Node Graph
 * [Robo3D](https://github.com/ldkong1205/Robo3D) | Towards Robust and Reliable 3D Perception against Corruptions
 * [3DMR](https://github.com/luigifreda/3dmr) | 3D Multi-Robot Exploration, Patrolling and Navigation
+* [ROS 2 Planning System]([https://github.com/PlanSys2/ros2_planning_system](https://plansys2.github.io/)) | A PDDL-based planning system for ROS2
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | ChatGPT prompt curation to use ChatGPT better
+* [ROS SAM](https://github.com/robot-learning-freiburg/ros_sam) | ROS wrapper for Meta's Segment-Anything model
+* [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) | Robotics Toolbox for Python
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
