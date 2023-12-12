@@ -287,7 +287,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Lane Detection](https://github.com/amusi/awesome-lane-detection) | Papers, tutorials, and code about Lane Detection 
 * [Crowd-SLAM](https://github.com/virgolinosoares/Crowd-SLAM) | A visual SLAM system that is robust in crowded scenarios
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) | A curated list of robotics simulators and libraries
-* [EVO: Event based Visual Odometry](https://github.com/uzh-rpg/rpg_dvs_evo_open) | EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time
+* [EVO: Event-based Visual Odometry](https://github.com/uzh-rpg/rpg_dvs_evo_open) | EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real-time
 * [ROSshow](https://github.com/dheera/rosshow/) | Visualize ROS topics in a terminal
 * [ROSboard](https://github.com/dheera/rosboard/) | ROS node that runs a web server on your robot
 * [ViMantic](https://github.com/DavidFernandezChaves/ViMantic-Unity3DNode) | Distributed architecture for semantic mapping of environments using mobile robots
@@ -303,7 +303,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [PyImageSearch on GitHub](https://github.com/PyImageSearch) | Machine Learning and Deep Learning accessible and intuitive
 * [Extended-Object-Detection-ROS](https://github.com/Extended-Object-Detection-ROS) | ROS package for visual object detection with various methods
 * [YoloV4-For-Darknet-ROS](https://github.com/Tossy0423/yolov4-for-darknet_ros) | Environment in which YOLO V4 is ported to darknet_ros
-* [Face Recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition api for Python and the command line
+* [Face Recognition](https://github.com/ageitgey/face_recognition) | The world's simplest facial recognition API for Python and the command line
 * [Urban Road Filter](https://github.com/jkk-research/urban_road_filter) | A real-time LIDAR-based urban road and sidewalk detection algorithm for autonomous vehicles
 * [Darknet ROS 3D](https://github.com/IntelligentRoboticsLabs/gb_visual_detection_3d) | It provides you 3d bounding boxes of the objects contained in an objects list, where is specificated the 3d position of each object
 * [Pedestrian Simulator](https://github.com/srl-freiburg/pedsim_ros) | ROS packages for a 2D pedestrian simulator based on social force model of Helbing et. al. (PedSim_ROS)
@@ -357,9 +357,9 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [maplab](https://github.com/ethz-asl/maplab) | A Modular and Multi-Modal Mapping Framework
 * [Kimera](https://github.com/MIT-SPARK/Kimera) | A C++ library for real-time metric-semantic SLAM
 * [ORB-SLAM3-RGBL](https://github.com/TUMFTM/ORB_SLAM3_RGBL) | RGB-LiDAR added to the ORB-SLAM3
-* [LiDAR Ground Mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) | A method to create high density ground maps for autonomous vehicles
+* [LiDAR Ground Mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) | A method to create high-density ground maps for autonomous vehicles
 * [LiDAR to Image](https://github.com/alexandrx/lidar_cloud_to_image) | Conversion from 3D LiDAR pointcloud to images
-* [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) | The list of vision-based SLAM / Visual Odometry open source projects, libraries, dataset, tools, and studies
+* [Awesome Visual SLAM](https://github.com/tzutalin/awesome-visual-slam) | The list of vision-based SLAM / Visual Odometry open source projects, libraries, datasets, tools, and studies
 * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) | Robust and efficient coverage paths for autonomous agricultural vehicles. A modular and extensible Coverage Path Planning Library
 * [Dense Fusion](https://github.com/j96w/DenseFusion) | 6D Object Pose Estimation by Iterative Dense Fusion
 * [Monocular Quasi-Dense 3D Object Tracking](https://github.com/SysCV/qd-3dt) | Monocular Quasi-Dense 3D Object Tracking (QD-3DT)
@@ -413,13 +413,13 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 
 ## Companies and Jobs
 * [Segments.ai](https://segments.ai/) | Segments.ai is building the best labeling platform for robotics (2D and 3D annotation, multi-sensor annotation, ...)
-* [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning and robotics or more globally speaking, in artificial intelligence
+* [NAVER LABS Europe](https://europe.naverlabs.com/) | It conducts fundamental and applied research in domains such as computer vision, 3D vision, machine learning, and robotics or more globally speaking, in artificial intelligence
 * [PAL Robotics](http://pal-robotics.com/) | It helps you integrate cutting-edge humanoid and mobile robots to add value to your research institution or company and reach your goals outstandingly
 * [X](https://x.company/careers-at-x/) | X is a diverse group of inventors and entrepreneurs who build and launch technologies that aim to improve the lives of millions, even billions, of people (Google)
 * [Waymo](https://waymo.com) | Autonomous Driving car company from Google
 * [ZOOX](https://zoox.com/) | Zoox is creating autonomous mobility from the ground up
 * [Robotec AI](Robotec.ai) | A software company that develops high-tech solutions for automated and connected vehicles
-* [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading centre for applied research in robotics and automation in one of the most innovative industrial areas world-wide
+* [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading center for applied research in robotics and automation in one of the most innovative industrial areas worldwide
 * [ihmc Robotics](http://robots.ihmc.us/) | IHMC has been pioneering advanced control techniques for bipedal robots to maintain balance while walking over a wide variety of terrains
 * [GUSS](https://gussag.com/) | Autonomous orchard sprayers
 * [AgroIntelli](https://www.agrointelli.com/#home) | Versatile and autonomous agricultural robot solving multiple tasks in the field
@@ -428,7 +428,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Bear Flag Robotics](https://bearflagrobotics.com/) | Bear Flag Robotics is developing self-driving technology for tractors and implements
 * [Agrobot](https://www.agrobot.com/) | From disruptive but practical approaches, we build smart farming machinery
 * [Rabbit](https://www.rabbittractors.com/) | Farm Utility Robots
-* [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, reimagine the future of robotic automation
+* [Soft Robotics](https://www.softroboticsinc.com/) | Rethink, redefine, and reimagine the future of robotic automation
 * [Civil Maps](https://civilmaps.com/) | The only scalable High Definition Mapping and Localization solution
 * [Small Robot](https://www.smallrobotcompany.com/) | Small Robot Company is reimagining farming with robotics and artificial intelligence
 * [Aptiv](https://www.aptiv.com/) | Making mobility greener
@@ -441,16 +441,16 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Voyage](https://voyage.auto/) | Delivering on the promise of self-driving cars
 * [Toyota Research Instute](https://www.tri.global/) | Exploring the future of Intelligence Amplification
 * [AGXEED](https://agxeed.com/) | It provides the all-in autonomy solution
-* [Halodi Robotics](https://www.halodi.com/) | Safe, Capable and affordable robots that help human beings live better lives
+* [Halodi Robotics](https://www.halodi.com/) | Safe, Capable, and affordable robots that help human beings live better lives
 * [SelfDriving.fyi](https://selfdriving.fyi/?__s=4l8lmj4sp162iwy3z1p8) | The most comprehensive database of companies working on autonomous vehicles and related technologies
 * [Swarm Farm](https://www.swarmfarm.com/) | We’re delivering autonomous agriculture
 * [Lyft Level 5](https://self-driving.lyft.com/level5/) | Making self-driving a reality for people everywhere
 * [Wayve](https://wayve.ai/) | Autonomous mobility driven by AI
-* [Catalog - Self-driving cars](https://catalog.selfdrivingcars360.com/) | All technology leaders, events and products - listed in a single catalog
+* [Catalog - Self-driving cars](https://catalog.selfdrivingcars360.com/) | All technology leaders, events, and products - listed in a single catalog
 * [BoxBot](https://www.boxbot.io/) | Intelligent Package Sorting for Faster Delivery
 * [AutonomousStuff](https://autonomoustuff.com/) | It provides solutions for automated driving to thousands of customers worldwide, enabling the future of autonomy
 * [NVIDIA DRIVE Constellation](https://www.nvidia.com/en-us/self-driving-cars/drive-constellation/) | An open platform with plug-ins for third-party models from ecosystem partners, allowing users to customize it for their unique use cases
-* [Aeolus](https://aeolusbot.com/) | Aeolus robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and at home
+* [Aeolus](https://aeolusbot.com/) | Aeolus Robotics is building a robotic platform to provide robot as a service (RaaS) to people at work and home
 * [Burro](https://burro.ai/) | Autonomous Farming Begins with Collaborative Farm Robots
 * [Intermodalics](https://www.intermodalics.eu/) | Providing digital intelligence from software to robots
 * [Gestalt](https://www.gestalt-robotics.com/) | The innovation service provider for industrial automation
@@ -462,7 +462,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [FarmDroid](https://farmdroid.dk/en/welcome) | The world’s first fully automatic robot that can take care of both sowing and mechanical weed control
 * [naïo technologies](https://www.naio-technologies.com/en/) | Autonomous Robots for Easier Farming
 * [Thorvald](https://sagarobotics.com/) | Autonomous modular robot delivering agricultural services
-* [nLink](https://www.nlink.no/) Mobile robots that solve real life problems
+* [nLink](https://www.nlink.no/) Mobile robots that solve real-life problems
 * [intek](http://intek.no/) | Connecting people and robots
 * [nuro](http://nuro.ai/product) | The self-driving vehicle made for local goods transportation
 * [Blue River](http://www.bluerivertechnology.com/) | Optimize every plant
@@ -476,17 +476,17 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Apptronik](https://apptronik.com/) | Products and services for robots designed to work with and around humans
 * [Automata](https://careers.automata.tech/) | Helping scientists achieve better results faster with worry-free lab automation
 * [Sevensense](https://www.sevensense.ai/) | Autonomy for your robotcs
-* [Kingdom](https://www.kingdom.garden/) | We build robotic lawn mowers for large terrains
+* [Kingdom](https://www.kingdom.garden/) | We build robotic lawnmowers for large terrains
 * [Tangram Vision Platform](https://www.tangramvision.com/) | It takes care of complex perception tasks like sensor fusion, calibration, and diagnostics so you can deploy autonomy with confidence
 * [Brisa Robotics](https://www.brisa.tech/) | At Brisa, we developed Windrose, a revolutionary solution to boost productivity in the Supply Chain world
-* [AutoAgri](https://autoagri.no) | AutoAgri are devoted to development and manufacturing of autonomous implement carriers.
+* [AutoAgri](https://autoagri.no) | AutoAgri is devoted to the development and manufacturing of autonomous implement carriers.
 * [MUDDY MACHINES](https://www.muddymachines.com/) | The only field robot capable of delivering net-zero farming
 * [ZiVID](https://www.zivid.com/) | Industrial 3D color cameras for pick and place robotics 
 * [Istituto Italiano di Tecnologia (iit)](http://www.iit.it) | A foundation established jointly by the Italian Ministry of Education, Universities and Research and the Ministry of Economy and Finance to promote excellence in basic and applied research and to contribute to the economic development of Italy
 * [ForwardX](https://en.forwardx.com/) | A global technology developer focused the Artificial Intelligence and its successful application to intelligent robotics
 * [AutoStore](https://www.autostoresystem.com/) | Warehouse Robots at Your Service
 * [TORC](https://torc.ai/) | An autonomous vehicle leader since 2007, Torc is commercializing self-driving trucks for safe, sustained, long-haul innovation in the freight industry.
-* [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital world, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins.
+* [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital worlds, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins.
 * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
 
 ## Laboratories and Research Groups
@@ -526,7 +526,7 @@ Guanghui (Richard) Wang**
 * [Linguee](http://linguee.com/) **| Dictionary and translator (with context)**
 * [Macmillan Dictionary](https://www.macmillandictionary.com/us) **| English dictionary with synonyms, examples and translation**
 * [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) **| A general resource for academic writers**
-* [SkELL](https://skell.sketchengine.co.uk/run.cgi/skell) **| A state-of-the-art cloud tool for building, managing and exploring large text collections in dozens of languages**
+* [SkELL](https://skell.sketchengine.co.uk/run.cgi/skell) **| A state-of-the-art cloud tool for building, managing, and exploring large text collections in dozens of languages**
 * [collocaid](https://www.collocaid.uk/) **| A project that focuses on the development of a text-editing tool to help writers with collocations**
 * [Sketch Engine](https://www.sketchengine.eu/) **| It's the ultimate tool to explore how language works**
 * [Thesaurus](https://www.thesaurus.com/) **| A source of synonym suggestions**
@@ -542,9 +542,9 @@ Guanghui (Richard) Wang**
 * [Awesome Robotics Brazil](https://github.com/mateus-amarante/awesome-robotics-brazil) **| Lista de iniciativas de robótica do Brasil!**
 * [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source**
 * [Matcha](https://www.mathcha.io/editor) **| Online Mathematics Editor**
-* [Robot Hacking Manual](https://github.com/vmayoral/robot_hacking_manual) **| Papers, notes and writeups from a journey into robot cybersecurity**
+* [Robot Hacking Manual](https://github.com/vmayoral/robot_hacking_manual) **| Papers, notes, and writeups from a journey into robot cybersecurity**
 * [Black in Robotics](https://blackinrobotics.org/) **| Building Community, Advocating for Diversity, Encouraging Accountability**
 * [Quillbot](https://quillbot.com/) **| A free paraphrasing website**
 * [OtterAI](https://otter.ai/) **| An AI-powered tool that transcribes speech to text (in real-time)**
 * [Hemingway](https://hemingwayapp.com/) **| A website that grades writing for readability**
-* [Awesome Robotic Deliberation](https://github.com/ros-wg-delib/awesome-ros-deliberation) **| A curated list of awesome tools, libraries and resources for deliberation in ROS 2**
+* [Awesome Robotic Deliberation](https://github.com/ros-wg-delib/awesome-ros-deliberation) **| A curated list of awesome tools, libraries, and resources for deliberation in ROS 2**
