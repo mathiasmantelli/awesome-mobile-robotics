@@ -1,6 +1,6 @@
 # Awesome Mobile Robotics 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 My personal list of important content related to Mobile Robotics and AI. Feel free to send me some suggestions: mathiasfassini@gmail.com
 
@@ -518,7 +518,8 @@ Guanghui (Richard) Wang**
 * [LaTeX Templates for documents of Inf/UFRGS](https://github.com/schnorr/infufrgs) **| Github - Prof. Lucas Schnorr**
 * [Como usar o modelo LaTeX do Inf/UFRGS](https://elmord.org/blog/?entry=20150626-iiufrgs-guide) **| Vítor de Araújo**
 * [Google's driverless car](https://www.ted.com/talks/sebastian_thrun_google_s_driverless_car#t-234889) **| TED - Prof. Sebastian Thrun**
-* [Women in US Academic Research in Robotics](https://us-women-in-robotics-research.github.io/) **| An active, monitored list of women with PhDs involved in US academic research in robotics** 
+* [Women in US Academic Research in Robotics](https://us-women-in-robotics-research.github.io/) **| An active, monitored list of women with PhDs involved in US academic research in robotics**
+* [Deckez](https://www.deckez.com/) **| A Professional Presentation and Pitch Deck Design Agency**
 * [SlideEgg](https://www.slideegg.com/free-powerpoint-templates) **| Free PowerPoint templates and Google Slides to enhance your Presentations**
 * [Slidone](https://www.slidone.com/) **| Interactive Presentation Software and Tools - Slidone**
 * [SlidesCarnival](https://www.slidescarnival.com/) **| Free PPT templates and Google Slides themes for presentations**
