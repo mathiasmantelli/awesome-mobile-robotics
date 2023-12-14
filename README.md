@@ -124,6 +124,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [F1TENTH - Course Documentation](https://f1tenth.org/learn.html) | An open-source project developed by a community of researchers and students
 * [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20)
 * [Modern Robotics Course](https://github.com/madibabaiasl/modern-robotics-course/wiki) | The lessons for Modern Robotics Course
+* [ROS 2 Best Practices](https://github.com/AhmettCelik1/Ros2BestPractice) | It provides ROS 2 developers with a set of best practices and object-oriented programming methods to enhance their development process
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -549,3 +550,11 @@ Guanghui (Richard) Wang**
 * [OtterAI](https://otter.ai/) **| An AI-powered tool that transcribes speech to text (in real-time)**
 * [Hemingway](https://hemingwayapp.com/) **| A website that grades writing for readability**
 * [Awesome Robotic Deliberation](https://github.com/ros-wg-delib/awesome-ros-deliberation) **| A curated list of awesome tools, libraries, and resources for deliberation in ROS 2**
+* [MakeReal TLDraw](https://makereal.tldraw.com/) **| Transform your sketches into websites**
+* [Musicfly](https://musicfy.lol/) **| Transform your voice in any instrument**
+* [Krea](https://www.krea.ai/home) **| Improve your images**
+* [Vigen](https://www.vigen.ai/index) **| Create High Quality Product Photos with AI**
+* [Vidnoz](https://pt.vidnoz.com/) **| Create videos for free**
+* [Pixverse](https://pixverse.ai/) **| Create breath-taking videos with AI**
+* [Durable](https://pt-br.durable.co/) **| Create your own website**
+* [Seona](https://seona.usestyle.ai/) **| AI assistant, specially designed to help businesses like yours optimize their SEO**
