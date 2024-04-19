@@ -384,6 +384,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | ChatGPT prompt curation to use ChatGPT better
 * [ROS SAM](https://github.com/robot-learning-freiburg/ros_sam) | ROS wrapper for Meta's Segment-Anything model
 * [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) | Robotics Toolbox for Python
+* [Small GICP](https://github.com/koide3/small_gicp/tree/master) | A header-only C++ library that offers efficient and parallelized algorithms for fine point cloud registration (ICP, Point-to-Plane ICP, GICP, VGICP, etc.)
+* [OK-Robot](https://ok-robot.github.io/) | An open, modular framework for zero-shot, language conditioned pick-and-drop tasks in arbitrary homes
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
@@ -397,8 +399,8 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
 * [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
 * [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
-* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/) 
-
+* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
+* [Conference on Computer Vision and Pattern Recognition (CVPF)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 
 ## Journals
 * [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems) | **Elsevier - Impact factor: 2.259**
@@ -486,9 +488,10 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Istituto Italiano di Tecnologia (iit)](http://www.iit.it) | A foundation established jointly by the Italian Ministry of Education, Universities and Research and the Ministry of Economy and Finance to promote excellence in basic and applied research and to contribute to the economic development of Italy
 * [ForwardX](https://en.forwardx.com/) | A global technology developer focused the Artificial Intelligence and its successful application to intelligent robotics
 * [AutoStore](https://www.autostoresystem.com/) | Warehouse Robots at Your Service
-* [TORC](https://torc.ai/) | An autonomous vehicle leader since 2007, Torc is commercializing self-driving trucks for safe, sustained, long-haul innovation in the freight industry.
-* [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital worlds, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins.
+* [TORC](https://torc.ai/) | An autonomous vehicle leader since 2007, Torc is commercializing self-driving trucks for safe, sustained, long-haul innovation in the freight industry
+* [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital worlds, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins
 * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
+* [Sereact GmbH](https://sereact.ai/) | AI powered robotics for warehouse automation
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -511,8 +514,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Goal-Oriented Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/labs/goals/) **| Oxford Robotics Institute - Nick Hawes**
 * [Skoltech Mobile Robotics](https://sites.skoltech.ru/mobilerobotics/) **| Skolkovo Institute of Science and Technology - Gonzalo Ferrer**
 * [Michael R. Bock](https://michaelrbock.com/) **| Software engineer**
-* [Compuver Vision and Intelligent Systems Laboratory](https://www.cs.ryerson.ca/~wangcs/cvis.html) **| Ryerson University - 	
-Guanghui (Richard) Wang**
+* [Compuver Vision and Intelligent Systems Laboratory](https://www.cs.ryerson.ca/~wangcs/cvis.html) **| Ryerson University - Guanghui (Richard) Wang**
 
 ## Misc
 * [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html) **| List of companies that develop computer vision products - David Lowe**
