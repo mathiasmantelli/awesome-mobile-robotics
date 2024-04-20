@@ -9,6 +9,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * **[Books :books:](#books)**<br>
 * **[Datasets :open_file_folder:](#datasets)**<br>
 * **[Softwares and Libraries :computer:](#softwares-and-libraries)**<br>
+* **[Podcasts :headphones:](#podcasts)**<br>
 * **[Conferences :department_store:](#conferences)**<br>
 * **[Journals :newspaper:](#journals)**<br>
 * **[Companies and Jobs :office:](#companies-and-jobs)**<br>
@@ -125,6 +126,13 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Modern C++ Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20)
 * [Modern Robotics Course](https://github.com/madibabaiasl/modern-robotics-course/wiki) | The lessons for Modern Robotics Course
 * [ROS 2 Best Practices](https://github.com/AhmettCelik1/Ros2BestPractice) | It provides ROS 2 developers with a set of best practices and object-oriented programming methods to enhance their development process
+* [Advanced Robotics at UC Berkeley](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) | Pieter Abbeel teaches a wide variety of slightly more advances topics in robotics
+* [Robotics 2 at Sapienza University of Rome](https://www.youtube.com/playlist?list=PLQ61-pGTCGHJbwR7ItM5cWN0-DI33FZFE) | Alessandro de Luca talks about robot control
+* [Awesome Weekly Robotics](https://github.com/msadowski/awesome-weekly-robotics) | A collection of useful links discovered through the work on Weekly Robotics
+* [Mobile Sensing and Robotics - 2020/21](https://github.com/ZohebAbai/mobile_sensing_robotics) | A robotics course by Prof. C. Stachniss
+* [Machine Learning Stash](https://arc.net/e/D242E263-31FD-4CF9-A2D5-B67519C049AF) | A collection of material related to ML
+* [Machine Learning Engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book
+* [SLAM Resources for Beginners](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner) | Highly recommended resources for SLAM newbies
 
 ## Books
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) **| Richard Szeliski - 2010**
@@ -150,6 +158,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language and C++11 to C++23 Standards](https://meetingcpp.com/mcpp/books/book.php?hash=1b684cbeaf31e20aeb11a38ecf609a98c18275e6) **| Slobodan Dmitrović**
 * [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914) **| David Farley**
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?crid=2GMXZ8XVIPB6Y&keywords=Clean+code&qid=1677334476&s=books&sprefix=clean+code,stripbooks-intl-ship,173&sr=1-1&linkCode=sl1&tag=milanmilanovi-20&linkId=74e525b03cac9d367a3c8e0bef183e12&language=en_US&ref_=as_li_ss_tl) **| Robert C. Martin**
+* [Robotics for Programmers](https://www.manning.com/books/robotics-for-programmers) **| Andreas Bihlmaier**
 
 ## Datasets
 * [Stereo Dataset with ground truth](https://vision.middlebury.edu//stereo/data/scenes2006/) **| Middlebury Coleg - 2006**
@@ -206,6 +215,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome 3D LiDAR Datasets](https://github.com/minwoo0611/Awesome-3D-LiDAR-Datasets) **| A collection for public 3D LiDAR datasets**
 * [CritrusFarm Dataset](https://ucr-robotics.github.io/Citrus-Farm-Dataset/) **| A multimodal agricultural robotics dataset that provides both multispectral images and navigational sensor data for localization, mapping and crop monitoring tasks**
 * [Terrasentia Dataset](https://github.com/jrcuaranv/terrasentia-dataset) **| A dataset for evaluation of visual-based localization and mapping systems in agriculture**
+* [Awesome Robotics Dataset](https://github.com/mint-lab/awesome-robotics-datasets) **| A collection of useful datasets for robotics and computer vision**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -386,6 +396,19 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) | Robotics Toolbox for Python
 * [Small GICP](https://github.com/koide3/small_gicp/tree/master) | A header-only C++ library that offers efficient and parallelized algorithms for fine point cloud registration (ICP, Point-to-Plane ICP, GICP, VGICP, etc.)
 * [OK-Robot](https://ok-robot.github.io/) | An open, modular framework for zero-shot, language conditioned pick-and-drop tasks in arbitrary homes
+* [ROS2 Laser scan merger](https://github.com/mich1342/ros2_laser_scan_merger) | A package to merge several laserscan topics by creating a new virtual laserscan topic
+* [Fields2Cover](https://fields2cover.github.io/index.html#f2c-version-2-0) | Robust and efficient coverage paths for autonomous agricultural vehicles
+* [Dubins Path Planning](https://github.com/jhan15/dubins_path_planning) | Path planning using Hybrid A*/RRT + Dubins Path
+
+## Podcasts
+* [The Robot Report](https://www.therobotreport.com/category/podcast/) | By Steve Crowe, Mike Oitzman, and Eugene Demaitre
+* [ROS Developers Podcast](https://www.theconstruct.ai/category/ros_developers_podcast/) | By The Construct
+* [Audrow Nash Podcast](https://www.youtube.com/playlist?list=PLyPnsLBIvjRCp3C2bnqNz7uJZo9RyIrzD) | By Audrow Nash
+* [Kinematic Conversations](https://www.youtube.com/@Ilir_AI/videos) | By Ilir Aliu
+* [Learn Robotics and AI](https://www.youtube.com/@LearnRoboticsAndAI/podcasts) | By Chandandeep Singh
+* [Lex Fridman Podcast](https://lexfridman.com/podcast/) | By Lex Fridman
+* [Sense Think Act Podcast (Inactive)](https://sensethinkact.com/) | By Audrow Nash
+* [Robothub Podcast (Inactive)](https://robohub.org/podcast-episodes/) | By Abate De Mey and Lilly Clark
 
 ## Conferences
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
