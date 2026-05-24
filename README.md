@@ -38,6 +38,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [JAI: Robótica e Simulação com o V-REP](https://www.sites.google.com/site/vrepjai/home) | CSBC - Julho 2015
 * [Digital Image Processing](https://sisu.ut.ee/imageprocessing/avaleht) | University of Tartu - Prof. Dr. Gholamreza Anbarjafari
 * [Tutorial on Visual Odometry](https://sites.google.com/site/scarabotix/tutorial-on-visual-odometry) | University of Zurich - Prof. Davide Scaramuzza
+* [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/mobile-robotics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Visual SLAM Tutorial](http://www.cs.cmu.edu/~kaess/vslam_cvpr14/) | Frank Dellaert and Michael Kaess
 * [Visual Odometry from scratch - A tutorial for beginners](https://avisingh599.github.io/vision/visual-odometry-full/) | Avi Singh's blog
 * [Aerial Robot Courses](http://www.kostasalexis.com/courses.html) | University of Nevada - Dr. Kostas Alexis
