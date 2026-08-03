@@ -234,6 +234,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Simbad](http://simbad.sourceforge.net/) | A Java 3d robot simulator for scientific and educationnal purposes
 * [Morse](https://www.openrobots.org/wiki/morse/) | A generic simulator for academic robotics
 * [Carmen](http://carmen.sourceforge.net/) | an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping
+* [FusionCore](https://github.com/manankharwar/fusioncore) | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
 * [Peekabot](http://www.peekabot.org/) | A real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily
 * [YARP](http://www.yarp.it/) | Yet Another Robot Platform
 * [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver
