@@ -237,6 +237,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [YARP](http://www.yarp.it/) | Yet Another Robot Platform
 * [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver
 * [Webots](https://www.cyberbotics.com/) | a development environment used to model, program, and simulate mobile robots
+* [OmniSim](https://github.com/omnilink-tech/omnisim) | An open-source robot simulator with ROS 2 base topics such as `/cmd_vel`, `/odom`, and `/scan`, Newton/MuJoCo physics, URDF/STEP import, synthetic-data capture, and HTTP/JSON plus MCP control
 * [Drake](http://drake.mit.edu/) | A planning, control, and analysis toolbox for nonlinear dynamical systems
 * [Neurorobotics Platform (NRP)](http://131.159.60.234/fileadmin/platform/) | An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks
 * [The Player Project](http://playerstage.sourceforge.net/) | Free Software tools for robot and sensor applications
