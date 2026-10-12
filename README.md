@@ -505,6 +505,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital worlds, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins
 * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
 * [Sereact GmbH](https://sereact.ai/) | AI powered robotics for warehouse automation
+* [RobotTraining.jobs](https://robottraining.jobs) | Job board for paid robot-training work (teleoperation, demonstration recording, robot fleet operations, AV and drone test operation), with openings from about 60 robotics employers re-checked daily and the pay each posts
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
