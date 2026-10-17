@@ -442,7 +442,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Fraunhofer IPA](https://www.ipa.fraunhofer.de/en.html) | A leading center for applied research in robotics and automation in one of the most innovative industrial areas worldwide
 * [ihmc Robotics](http://robots.ihmc.us/) | IHMC has been pioneering advanced control techniques for bipedal robots to maintain balance while walking over a wide variety of terrains
 * [GUSS](https://gussag.com/) | Autonomous orchard sprayers
-* [AgroIntelli](https://www.agrointelli.com/#home) | Versatile and autonomous agricultural robot solving multiple tasks in the field
+* [Autonomous Agri Solutions](https://www.autonomousagrisolutions.co.uk/) | UK firm that acquired the Robotti autonomous agricultural robot platform (AgroIntelli was declared bankrupt in 2026)
 * [Rowbot](https://www.rowbot.com/) | Robotic solutions for row crop agriculture
 * [Bear Flag Robotics](https://bearflagrobotics.com/) | Bear Flag Robotics is developing self-driving technology for tractors and implements
 * [Agrobot](https://www.agrobot.com/) | From disruptive but practical approaches, we build smart farming machinery
@@ -487,7 +487,6 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ZTractor](https://ztractor.com/) | The world's first autonomous electric tractor
 * [FarmWise](https://farmwise.io/home) | Innovative systems and processes that allow farmers to streamline operations and increase food production efficiency
 * [mobileye](https://www.mobileye.com/) | A leading supplier of software that enables Advanced Driver Assist Systems (ADAS)
-* [Optimus Ride](https://www.optimusride.com/) | The leading self-driving vehicle technology company developing systems for geo-fenced environments
 * [comma](https://comma.ai/) | Custom hardware designed to live in your car
 * [emesent](https://www.emesent.io/) | Autonomously mapping the inaccessible
 * [Apptronik](https://apptronik.com/) | Products and services for robots designed to work with and around humans
