@@ -235,6 +235,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [FusionCore](https://github.com/manankharwar/fusioncore) | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
 * [Peekabot](http://www.peekabot.org/) | A real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily
 * [YARP](http://www.yarp.it/) | Yet Another Robot Platform
+* [Cerulion](https://github.com/cerulion-inc/cerulion) | A Rust robot runtime with zero-copy shared memory and ROS 2 Jazzy support through rmw_cerulion. 1 MiB round trip: 4.08 µs for native nodes and 11.12 µs for ROS 2 nodes over rmw_cerulion, against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026)
 * [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver
 * [Webots](https://www.cyberbotics.com/) | a development environment used to model, program, and simulate mobile robots
 * [Drake](http://drake.mit.edu/) | A planning, control, and analysis toolbox for nonlinear dynamical systems
