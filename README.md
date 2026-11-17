@@ -215,6 +215,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [CritrusFarm Dataset](https://ucr-robotics.github.io/Citrus-Farm-Dataset/) **| A multimodal agricultural robotics dataset that provides both multispectral images and navigational sensor data for localization, mapping and crop monitoring tasks**
 * [Terrasentia Dataset](https://github.com/jrcuaranv/terrasentia-dataset) **| A dataset for evaluation of visual-based localization and mapping systems in agriculture**
 * [Awesome Robotics Dataset](https://github.com/mint-lab/awesome-robotics-datasets) **| A collection of useful datasets for robotics and computer vision**
+* [Trails, Rivers and Coasts 360° Panoramas](https://huggingface.co/datasets/terrain360/trails-rivers-coasts-360-panoramas) **| About 900,000 geotagged ground-level 360° locations of trails, rivers and coasts, six images and a 77-field record at each; 39 US states, DC and France, 2012 to 2026. Commercial license, free evaluation sample on request**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
