@@ -265,6 +265,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license
 * [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments
 * [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group
+* [OpenDroneLab](https://github.com/palcode/opendronelab) | A containerised PX4 v1.17 SITL, ROS 2 Jazzy and Gazebo Harmonic lab that scores optional OpenVINS VIO and EKF2 with evo Umeyama RMSE
 * [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization
 * [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and its different implementations
 * [GTSAM](https://github.com/borglab/gtsam) | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
