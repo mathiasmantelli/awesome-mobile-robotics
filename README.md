@@ -216,6 +216,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Terrasentia Dataset](https://github.com/jrcuaranv/terrasentia-dataset) **| A dataset for evaluation of visual-based localization and mapping systems in agriculture**
 * [Awesome Robotics Dataset](https://github.com/mint-lab/awesome-robotics-datasets) **| A collection of useful datasets for robotics and computer vision**
 * [Trails, Rivers and Coasts 360° Panoramas](https://huggingface.co/datasets/terrain360/trails-rivers-coasts-360-panoramas) **| About 900,000 geotagged ground-level 360° locations of trails, rivers and coasts, six images and a 77-field record at each; 39 US states, DC and France, 2012 to 2026. Commercial license, free evaluation sample on request**
+* [humanoidrecord.com](https://humanoidrecord.com) **| A sourced record of humanoid robots: per robot whether it is claimed, independently demonstrated, or shipped to a named customer, every value with source and date. Open data, CC BY 4.0**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -236,6 +237,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [FusionCore](https://github.com/manankharwar/fusioncore) | A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise and GPS outlier rejection for robust outdoor localization
 * [Peekabot](http://www.peekabot.org/) | A real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily
 * [YARP](http://www.yarp.it/) | Yet Another Robot Platform
+* [Cerulion](https://github.com/cerulion-inc/cerulion) | A Rust robot runtime with zero-copy shared memory and ROS 2 Jazzy support through rmw_cerulion. 1 MiB round trip: 4.08 µs for native nodes and 11.12 µs for ROS 2 nodes over rmw_cerulion, against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026)
 * [V-REP](http://www.coppeliarobotics.com/) | A Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver
 * [Webots](https://www.cyberbotics.com/) | a development environment used to model, program, and simulate mobile robots
 * [Drake](http://drake.mit.edu/) | A planning, control, and analysis toolbox for nonlinear dynamical systems
@@ -266,6 +268,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [OpenStreetMap](https://www.openstreetmap.org/) | A map of the world, created by people like you and free to use under an open license
 * [NVidia Isaac Sim](https://developer.nvidia.com/isaac-sim) | It provides the essential features for building virtual robotic worlds and experiments
 * [Flightmare](https://uzh-rpg.github.io/flightmare/) | A Flexible Quadrotor Simulator from the Robotics and Perception Group
+* [OpenDroneLab](https://github.com/palcode/opendronelab) | A containerised PX4 v1.17 SITL, ROS 2 Jazzy and Gazebo Harmonic lab that scores optional OpenVINS VIO and EKF2 with evo Umeyama RMSE
 * [Hierarchical Localization toolbox - HLOC](https://github.com/cvg/Hierarchical-Localization/) | A modular toolbox for state-of-the-art 6-DoF visual localization
 * [ICP](https://nbviewer.jupyter.org/github/niosus/notebooks/blob/master/icp.ipynb) | All about ICP and its different implementations
 * [GTSAM](https://github.com/borglab/gtsam) | A C++ library that implements smoothing and mapping (SAM) in robotics and vision
@@ -506,6 +509,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [NavVis](https://www.navvis.com/) | Bridging the gap between the physical and digital worlds, NavVis enables service providers and enterprises to capture and share the built environment as photorealistic digital twins
 * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
 * [Sereact GmbH](https://sereact.ai/) | AI powered robotics for warehouse automation
+* [RobotTraining.jobs](https://robottraining.jobs) | Job board for paid robot-training work (teleoperation, demonstration recording, robot fleet operations, AV and drone test operation), with openings from about 60 robotics employers re-checked daily and the pay each posts
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
@@ -556,6 +560,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Wevolver](https://www.wevolver.com/) **| Knowledge shared by technology developers and scientists. Wevolver is how engineers stay cutting edge** 
 * [Jobs UK](https://www.jobs.ac.uk/) **| Find a job**
 * [Papers with Code](https://paperswithcode.com/) **| A free and open resource with Machine Learning papers, code and evaluation tables**
+* [Botstest](https://botstest.com/) **| A categorized directory of embodied AI and robotics hardware, software, models, datasets, and benchmarks**
 * [Awesome Robotics Brazil](https://github.com/mateus-amarante/awesome-robotics-brazil) **| Lista de iniciativas de robótica do Brasil!**
 * [Código aberto em 12 passos](https://github.com/chapulina/guia_codigo_aberto) **| Um guia para começar a contribuir em open source**
 * [Matcha](https://www.mathcha.io/editor) **| Online Mathematics Editor**
