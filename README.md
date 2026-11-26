@@ -400,6 +400,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS2 Laser scan merger](https://github.com/mich1342/ros2_laser_scan_merger) | A package to merge several laserscan topics by creating a new virtual laserscan topic
 * [Fields2Cover](https://fields2cover.github.io/index.html#f2c-version-2-0) | Robust and efficient coverage paths for autonomous agricultural vehicles
 * [Dubins Path Planning](https://github.com/jhan15/dubins_path_planning) | Path planning using Hybrid A*/RRT + Dubins Path
+* [Elastra](https://github.com/WhymustIhaveaname/elastra) | MuJoCo simulation of elastic surfaces such as mattresses and trampolines, for training robot policies
 
 ## Podcasts
 * [The Robot Report](https://www.therobotreport.com/category/podcast/) | By Steve Crowe, Mike Oitzman, and Eugene Demaitre
