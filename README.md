@@ -217,6 +217,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [Awesome Robotics Dataset](https://github.com/mint-lab/awesome-robotics-datasets) **| A collection of useful datasets for robotics and computer vision**
 * [Trails, Rivers and Coasts 360° Panoramas](https://huggingface.co/datasets/terrain360/trails-rivers-coasts-360-panoramas) **| About 900,000 geotagged ground-level 360° locations of trails, rivers and coasts, six images and a 77-field record at each; 39 US states, DC and France, 2012 to 2026. Commercial license, free evaluation sample on request**
 * [humanoidrecord.com](https://humanoidrecord.com) **| A sourced record of humanoid robots: per robot whether it is claimed, independently demonstrated, or shipped to a named customer, every value with source and date. Open data, CC BY 4.0**
+* [Autelica three-drone sample](https://autelica.com/sample/) **| Eight seconds of a jog filmed by three moving drones with no markers or timecode: the three videos, per-frame camera poses, metric 3D body joints and foot contacts. CC BY 4.0**
 
 ## Softwares and Libraries
 * [OpenCV 3.2.0 + Contrib](https://www.samontab.com/web/2017/06/installing-opencv-3-2-0-with-contrib-modules-in-ubuntu-16-04-lts/) | For Ubuntu 16.04 - Sebastian Montabone
@@ -510,6 +511,7 @@ My personal list of important content related to Mobile Robotics and AI. Feel fr
 * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2)
 * [Sereact GmbH](https://sereact.ai/) | AI powered robotics for warehouse automation
 * [RobotTraining.jobs](https://robottraining.jobs) | Job board for paid robot-training work (teleoperation, demonstration recording, robot fleet operations, AV and drone test operation), with openings from about 60 robotics employers re-checked daily and the pay each posts
+* [Autelica](https://autelica.com/) | Checks and measures real-world capture data for robot learning: per-second footage QA, calibrated cameras, metric 3D hands and bodies, and egocentric, multi-view and multi-drone datasets
 
 ## Laboratories and Research Groups
 * [Autonomous Vision Group (AVG)](http://www.cvlibs.net/index.php) **| University of Tübingen - Prof. Dr. Andreas Geiger**
